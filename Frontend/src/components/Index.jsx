@@ -1,7 +1,6 @@
 import React, {useState} from 'react'
 import {useNavigate } from 'react-router-dom'
 import './style.css'
-import './style.scss'
 import back from '../assets/images/20944167.jpg'
 import { useCookies } from 'react-cookie';
 import logo from '../assets/images/logo.png'
@@ -11,10 +10,9 @@ import iconapple from '../assets/images/icon-apple.svg'
 import icontwitter from '../assets/images/icon-twitter.svg'
 
 const Index=()=> {
-    const Sty = {backgroundImage: back}
   
   return (
-    <div class="site-wrap d-md-flex align-items-stretch">
+    <div class="site-wrap">
         <img class="bg-img" src={back} />
         <div class="form-wrap">
             <div class="form-inner">

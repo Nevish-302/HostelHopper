@@ -1,46 +1,43 @@
 
 .navbar {
     background-color: #fcfcfc;
-    height: 65px;
+    height:4.6rem;
     position: absolute;
+    padding: 0.3rem;
     width: 100%;
     top: 0;
     margin-left: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 1rem;
+    
     box-shadow: 4px -4px 27px rgba(0, 0, 0, 0.35);
 }
 
 .logo-container {
-    margin-top: 5px;
-    margin-bottom: 20px;
     margin-left: 20px;
     display: flex;
-    justify-content: baseline;
+    justify-content:left;
     align-items: center;
 }
+.nav-part-2{
+    display: flex;
 
+    justify-content: space-between;
+}
 .logo {
-    width: 55px;
-    height: 55px;
+    padding: 0;
+    width: 3.5rem;
+    height: 3.5rem;
 }
 
 .logo-text {
 
     position: relative;
-    width: 251px;
-    height: 44px;
-    left: 10px;
-    top: auto;
-
     font-family: 'Mulish';
     font-style: normal;
-    font-weight: 700;
-    font-size: 28px;
-    line-height: 45px;
-
+    font-weight: 900;
+    font-size: 2rem;
     color: #2A3CAB;
 
     /* margin-left: 1.2rem;
@@ -49,16 +46,17 @@
 
 .nav-item {
     display: flex;
-    gap: 3rem;
-    padding: 0 4rem;
-    margin-left: -70px;
-    margin-bottom: 15px;
+    padding-left: 5rem;
+    gap: 1rem;
+    justify-content: right;
     font-weight: 500;
 }
 
 .nav-item div {
     cursor: pointer;
-    font-size: 20px;
+    font-size: 1.6rem;
+    justify-content: right;
+    padding-top:.9rem;
     font-weight: 500;
 }
 
@@ -76,14 +74,15 @@ a {
 }
 
 .nav-serchbar {
-    margin-right: 47px;
     margin-bottom: px;
 }
 
 .search {
     width: 100%;
+    margin-left: 1rem;
     position: relative;
     display: flex;
+    justify-content: right;
 }
 
 .searchTerm {
@@ -92,8 +91,11 @@ a {
     border: 3px solid #2A3CAB;
     border-right: none;
     padding: 5px;
-    height: 45px;
-    border-radius: 30px;
+    height: 3.5rem;
+    border-top-left-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
     outline: none;
     color: #9DBFAF;
 }
@@ -103,18 +105,18 @@ a {
 }
 
 .searchButton {
-    position: relative;
-    margin-bottom: 27px;
+    position: ;
     padding-left: 2px;
     padding-top: 7px;
-    width: 3rem;
-    height: 3rem;
+    width: 6rem;
+    height: 3.5rem;
     border: 1px solid #2A3CAB;
     background: #2A3CAB;
     text-align: center;
     color: #fff;
-    border-radius: 60px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
     cursor: pointer;
     font-size: 20px;
-    left: -.9rem;
+    top: rem;
 }

@@ -19,16 +19,17 @@ const Navbar=()=> {
   return (
     <div class="navbar">
 
+<div  className='nav-part-2'>
     <div class="logo-container">
         <img src={logo} alt="logo image" class="logo" />
         <div class="logo-text">Hostel Hopper</div>
     </div>
-
     <div class="nav-item">
         <div><a href="#Locate">Locate</a></div>
         <div><a href="About">About</a></div>
         <div><a href="#contactus">Contact Us</a></div>
     </div>
+</div>
     <div class="nav-serchbar">
         <div class="wrap">
             <div class="search">
@@ -41,7 +42,6 @@ const Navbar=()=> {
         </div>
     </div>
 </div>
-  
   )
 }
 

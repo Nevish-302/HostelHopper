@@ -228,6 +228,14 @@
     font-size: 21px;
     line-height: 25px;
 }
+.service-2 {
+    text-align: center;
+    width: 360px;
+    color: black;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 25px;
+}
 .first-line{
     width: 280px;
     margin-left: -360px;
@@ -237,14 +245,26 @@
     width: 200px;
 }
 #locatetext ul{
+    color: #fff;
+    font-weight: 900;
+    list-style-type: none;
     margin-top: 63px;
     margin-left: -342px;
 }
 #menutext ul{
+    color: #ffffff;
+    font-weight: 900;
+    list-style-type: none;
     margin-top: 63px;
     margin-left: -342px;
 }
 #servicetext ul{
+    text-align: center;
+
+    color: #000000;
+    font-weight: 900;
+    list-style-type: none;
+
     margin-top: 63px;
     margin-left: -539px;
 }

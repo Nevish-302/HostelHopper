@@ -19,7 +19,7 @@ a:hover {
 
 .bg-img,
 .form-wrap {
-  height: 100vh;
+  height: 90vh;
   min-height: 500px;
 }
 
@@ -30,62 +30,66 @@ a:hover {
   background-position: center center;
   width: 100%;
   position: relative;
-  height: 200px;
+  top: 6rem;
   min-height: 200px;
-  z-index: 2;
+  
 }
 
 @media (min-width: 768px) {
   .bg-img {
-    position: fixed;
+
     width: 50%;
-    height: 100vh;
+    height: 90vh;
   }
 }
 
 @media (min-width: 992px) {
   .bg-img {
-    position: fixed;
+
     width: 50%;
-    height: 100vh;
+    height: 90vh;
   }
 }
 
 @media (min-width: 1200px) {
   .bg-img {
-    position: fixed;
+
     width: 60%;
-    height: 100vh;
+    height: 90vh;
   }
 }
-
+.site-wrap {
+  height: 100vh;
+  display: flex;
+  width: 100vw;
+  justify-content: space-between;
+}
 .form-wrap {
+  top: 5rem;
   right: 0;
   position: relative;
-  z-index: 1;
   padding: 5%;
   width: 100%;
   background: #fff;
-  height: 100%;
 }
 
 @media (min-width: 768px) {
   .form-wrap {
-    position: absolute;
+
     width: 50%;
   }
 }
 
 @media (min-width: 992px) {
   .form-wrap {
-    position: absolute;
+
     width: 50%;
   }
 }
 
 @media (min-width: 1200px) {
   .form-wrap {
-    position: absolute;
+
     width: 40%;
   }
 }

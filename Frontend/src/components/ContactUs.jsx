@@ -91,7 +91,7 @@ const Contact=()=> {
               </ul>
         </div>
         
-        <div class="service-1" id="location-1">SERVICE</div>
+        <div class="service-2" id="location-1">SERVICE</div>
         <div id="line-13">
             <hr class="first-line" />
         </div>
