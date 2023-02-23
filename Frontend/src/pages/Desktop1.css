@@ -49,9 +49,9 @@
   font-size: var(--font-size-21xl);
   font-family: var(--font-inter);
 }
-.about,
-.contact-us,
-.locate {
+.about1,
+.contact-us1,
+.locate2 {
   position: absolute;
   top: 32px;
   left: 419px;
@@ -60,68 +60,68 @@
   width: 123px;
   height: 53px;
 }
-.about,
-.contact-us {
+.about1,
+.contact-us1 {
   left: 554px;
   font-weight: 600;
   width: 120px;
   height: 49px;
 }
-.contact-us {
+.contact-us1 {
   left: 682px;
   width: 207px;
   height: 45px;
 }
-.hostel-hopper {
+.hostel-hopper5 {
   display: inline-block;
   -webkit-text-stroke: 1px #4e5dc0;
 }
-.bunk-1-icon,
-.group-wrapper40,
-.hostel-hopper,
-.hostel-hopper-wrapper {
+.bunk-1-icon4,
+.group-wrapper594,
+.group-wrapper595,
+.hostel-hopper5 {
   position: absolute;
   top: 0;
   left: 0;
   width: 251px;
   height: 44px;
 }
-.bunk-1-icon,
-.group-wrapper40 {
+.bunk-1-icon4,
+.group-wrapper594 {
   top: 17px;
   left: 88px;
 }
-.bunk-1-icon {
+.bunk-1-icon4 {
   top: 11px;
   left: 24px;
   width: 50px;
   height: 50px;
 }
-.bunk-1-icon,
-.pngwing-1-icon {
+.bunk-1-icon4,
+.pngwing-1-icon4 {
   object-fit: cover;
 }
-.group-div,
-.group-wrapper,
-.pngwing-1-icon,
-.pngwing-1-wrapper {
+.desktop-1-inner1,
+.group-wrapper552,
+.group-wrapper653,
+.pngwing-1-icon4 {
   position: absolute;
   top: 0;
   left: 0;
   width: 80px;
   height: 80px;
 }
-.group-div,
-.group-wrapper {
+.desktop-1-inner1,
+.group-wrapper552 {
   width: 339px;
 }
-.group-div {
+.desktop-1-inner1 {
   top: 7px;
   left: 30px;
   font-size: var(--font-size-15xl);
   color: var(--color-slateblue);
 }
-.group-child {
+.group-child5 {
   position: absolute;
   top: 0;
   left: 0;
@@ -131,7 +131,7 @@
   width: 489px;
   height: 65px;
 }
-.search {
+.search3 {
   position: absolute;
   top: 20.55px;
   left: 32.94px;
@@ -141,28 +141,28 @@
   width: 364.58px;
   height: 23.9px;
 }
-.group-item,
-.rectangle-parent {
+.group-child6,
+.rectangle-parent1 {
   position: absolute;
   top: 0;
   left: 0;
   width: 489px;
   height: 65px;
 }
-.group-item {
+.group-child6 {
   top: 10.04px;
   left: 418.03px;
   width: 47.01px;
   height: 44.93px;
 }
-.search1 {
+.search4 {
   position: absolute;
   top: 21px;
   left: 431px;
   letter-spacing: 0.02em;
   font-family: var(--font-font-awesome-5-free);
 }
-.group-parent1 {
+.group-parent10 {
   position: absolute;
   top: 14px;
   left: 903px;
@@ -171,7 +171,7 @@
   font-size: var(--font-size-6xl);
   font-family: var(--font-roboto);
 }
-.desktop-1 {
+.desktop-11 {
   position: relative;
   background-color: var(--color-white);
   width: 100%;

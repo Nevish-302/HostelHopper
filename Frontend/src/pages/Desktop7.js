@@ -3,29 +3,29 @@ import "./Desktop7.css";
 const Desktop7 = () => {
   return (
     <div className="desktop-7">
-      <div className="desktop-21">
+      <div className="desktop-2">
+        <div className="desktop-2-child" />
         <div className="desktop-2-item" />
-        <div className="desktop-2-inner" />
         <div className="explore-our-top">Explore Our Top Cities</div>
         <div className="near-me">Near me</div>
-        <div className="rectangle-div" />
+        <div className="desktop-2-inner" />
         <div className="enter-city-namearea">Enter city name,area etc.....</div>
-        <div className="desktop-2-child1" />
+        <div className="rectangle-div" />
         <img className="ellipse-icon" alt="" src="../ellipse-1@2x.png" />
+        <img className="desktop-2-child1" alt="" src="../ellipse-1@2x.png" />
         <img className="desktop-2-child2" alt="" src="../ellipse-1@2x.png" />
-        <img className="desktop-2-child3" alt="" src="../ellipse-1@2x.png" />
+        <img className="desktop-2-child3" alt="" src="../ellipse-8@2x.png" />
         <img className="desktop-2-child4" alt="" src="../ellipse-8@2x.png" />
-        <img className="desktop-2-child5" alt="" src="../ellipse-8@2x.png" />
-        <img className="desktop-2-child6" alt="" src="../ellipse-1@2x.png" />
-        <img className="desktop-2-child7" alt="" src="../ellipse-8@2x.png" />
-        <img className="desktop-2-child8" alt="" src="../ellipse-1@2x.png" />
+        <img className="desktop-2-child5" alt="" src="../ellipse-1@2x.png" />
+        <img className="desktop-2-child6" alt="" src="../ellipse-8@2x.png" />
+        <img className="desktop-2-child7" alt="" src="../ellipse-1@2x.png" />
+        <img className="desktop-2-child8" alt="" src="../ellipse-8@2x.png" />
         <img className="desktop-2-child9" alt="" src="../ellipse-8@2x.png" />
         <img className="desktop-2-child10" alt="" src="../ellipse-8@2x.png" />
-        <img className="desktop-2-child11" alt="" src="../ellipse-8@2x.png" />
-        <img className="desktop-2-child12" alt="" src="../ellipse-1@2x.png" />
+        <img className="desktop-2-child11" alt="" src="../ellipse-1@2x.png" />
         <img className="pin-icon" alt="" src="../pin@2x.png" />
         <div className="image-1-wrapper">
-          <img className="image-1-icon1" alt="" src="../image-11@2x.png" />
+          <img className="image-1-icon" alt="" src="../image-1@2x.png" />
         </div>
         <div className="near-me1">Near me</div>
         <div className="lucknow">Lucknow</div>
@@ -96,110 +96,110 @@ const Desktop7 = () => {
       </div>
       <div className="desktop-4">
         <div className="desktop-4-inner">
-          <div className="group-wrapper139">
-            <div className="group-wrapper139">
-              <div className="group-wrapper139">
-                <div className="group-wrapper139">
-                  <div className="group-wrapper139">
-                    <div className="group-wrapper139">
-                      <div className="group-wrapper139">
-                        <div className="group-wrapper139">
-                          <div className="group-wrapper139">
-                            <div className="group-wrapper139">
-                              <div className="group-wrapper139">
-                                <div className="group-wrapper139">
-                                  <div className="group-wrapper139">
-                                    <div className="group-wrapper139">
-                                      <div className="group-wrapper139">
-                                        <div className="group-wrapper139">
-                                          <div className="group-wrapper139">
-                                            <div className="group-wrapper139">
-                                              <div className="group-wrapper139">
-                                                <div className="group-wrapper139">
-                                                  <div className="group-wrapper139">
-                                                    <div className="group-wrapper139">
-                                                      <div className="group-wrapper139">
-                                                        <div className="group-wrapper139">
-                                                          <div className="group-wrapper139">
-                                                            <div className="group-wrapper139">
-                                                              <div className="group-wrapper139">
-                                                                <div className="group-wrapper139">
-                                                                  <div className="group-wrapper139">
-                                                                    <div className="group-wrapper139">
-                                                                      <div className="group-wrapper139">
-                                                                        <div className="group-wrapper139">
-                                                                          <div className="group-wrapper139">
-                                                                            <div className="group-wrapper139">
-                                                                              <div className="group-wrapper139">
-                                                                                <div className="group-wrapper139">
-                                                                                  <div className="group-wrapper139">
-                                                                                    <div className="group-wrapper139">
-                                                                                      <div className="group-wrapper139">
-                                                                                        <div className="group-wrapper139">
-                                                                                          <div className="group-wrapper139">
-                                                                                            <div className="group-wrapper139">
-                                                                                              <div className="group-wrapper139">
-                                                                                                <div className="group-wrapper181">
-                                                                                                  <div className="hostel-hopper-container">
-                                                                                                    <div className="hostel-hopper-container">
-                                                                                                      <div className="hostel-hopper-container">
-                                                                                                        <div className="hostel-hopper-container">
-                                                                                                          <div className="hostel-hopper-container">
-                                                                                                            <div className="hostel-hopper-container">
-                                                                                                              <div className="hostel-hopper-container">
-                                                                                                                <div className="hostel-hopper-container">
-                                                                                                                  <div className="hostel-hopper-container">
-                                                                                                                    <div className="hostel-hopper-container">
-                                                                                                                      <div className="hostel-hopper-container">
-                                                                                                                        <div className="hostel-hopper-container">
-                                                                                                                          <div className="hostel-hopper-container">
-                                                                                                                            <div className="hostel-hopper-container">
-                                                                                                                              <div className="hostel-hopper-container">
-                                                                                                                                <div className="hostel-hopper-container">
-                                                                                                                                  <div className="hostel-hopper-container">
-                                                                                                                                    <div className="hostel-hopper-container">
-                                                                                                                                      <div className="hostel-hopper-container">
-                                                                                                                                        <div className="hostel-hopper-container">
-                                                                                                                                          <div className="hostel-hopper-container">
-                                                                                                                                            <div className="hostel-hopper-container">
-                                                                                                                                              <div className="hostel-hopper-container">
-                                                                                                                                                <div className="hostel-hopper-container">
-                                                                                                                                                  <div className="hostel-hopper-container">
-                                                                                                                                                    <div className="hostel-hopper-container">
-                                                                                                                                                      <div className="hostel-hopper-container">
-                                                                                                                                                        <div className="hostel-hopper-container">
-                                                                                                                                                          <div className="hostel-hopper-container">
-                                                                                                                                                            <div className="hostel-hopper-container">
-                                                                                                                                                              <div className="hostel-hopper-container">
-                                                                                                                                                                <div className="hostel-hopper-container">
-                                                                                                                                                                  <div className="hostel-hopper-container">
-                                                                                                                                                                    <div className="hostel-hopper-container">
-                                                                                                                                                                      <div className="hostel-hopper-container">
-                                                                                                                                                                        <div className="hostel-hopper-container">
-                                                                                                                                                                          <div className="hostel-hopper-container">
-                                                                                                                                                                            <div className="hostel-hopper-container">
-                                                                                                                                                                              <div className="hostel-hopper-container">
-                                                                                                                                                                                <div className="hostel-hopper-container">
-                                                                                                                                                                                  <div className="hostel-hopper-container">
-                                                                                                                                                                                    <div className="hostel-hopper-container">
-                                                                                                                                                                                      <div className="hostel-hopper-container">
-                                                                                                                                                                                        <div className="hostel-hopper-container">
-                                                                                                                                                                                          <div className="hostel-hopper-container">
-                                                                                                                                                                                            <div className="hostel-hopper-container">
-                                                                                                                                                                                              <div className="hostel-hopper-container">
-                                                                                                                                                                                                <div className="hostel-hopper-container">
-                                                                                                                                                                                                  <div className="hostel-hopper-container">
-                                                                                                                                                                                                    <div className="hostel-hopper-container">
-                                                                                                                                                                                                      <div className="hostel-hopper-container">
-                                                                                                                                                                                                        <div className="hostel-hopper-container">
-                                                                                                                                                                                                          <div className="hostel-hopper-container">
-                                                                                                                                                                                                            <div className="hostel-hopper-container">
-                                                                                                                                                                                                              <div className="hostel-hopper-container">
-                                                                                                                                                                                                                <div className="hostel-hopper-container">
-                                                                                                                                                                                                                  <div className="hostel-hopper-container">
-                                                                                                                                                                                                                    <div className="hostel-hopper-container">
-                                                                                                                                                                                                                      <div className="hostel-hopper-container">
-                                                                                                                                                                                                                        <div className="hostel-hopper1">
+          <div className="group-wrapper">
+            <div className="group-wrapper">
+              <div className="group-wrapper">
+                <div className="group-wrapper">
+                  <div className="group-wrapper">
+                    <div className="group-wrapper">
+                      <div className="group-wrapper">
+                        <div className="group-wrapper">
+                          <div className="group-wrapper">
+                            <div className="group-wrapper">
+                              <div className="group-wrapper">
+                                <div className="group-wrapper">
+                                  <div className="group-wrapper">
+                                    <div className="group-wrapper">
+                                      <div className="group-wrapper">
+                                        <div className="group-wrapper">
+                                          <div className="group-wrapper">
+                                            <div className="group-wrapper">
+                                              <div className="group-wrapper">
+                                                <div className="group-wrapper">
+                                                  <div className="group-wrapper">
+                                                    <div className="group-wrapper">
+                                                      <div className="group-wrapper">
+                                                        <div className="group-wrapper">
+                                                          <div className="group-wrapper">
+                                                            <div className="group-wrapper">
+                                                              <div className="group-wrapper">
+                                                                <div className="group-wrapper">
+                                                                  <div className="group-wrapper">
+                                                                    <div className="group-wrapper">
+                                                                      <div className="group-wrapper">
+                                                                        <div className="group-wrapper">
+                                                                          <div className="group-wrapper">
+                                                                            <div className="group-wrapper">
+                                                                              <div className="group-wrapper">
+                                                                                <div className="group-wrapper">
+                                                                                  <div className="group-wrapper">
+                                                                                    <div className="group-wrapper">
+                                                                                      <div className="group-wrapper">
+                                                                                        <div className="group-wrapper">
+                                                                                          <div className="group-wrapper">
+                                                                                            <div className="group-wrapper">
+                                                                                              <div className="group-wrapper">
+                                                                                                <div className="group-wrapper39">
+                                                                                                  <div className="hostel-hopper-wrapper">
+                                                                                                    <div className="hostel-hopper-wrapper">
+                                                                                                      <div className="hostel-hopper-wrapper">
+                                                                                                        <div className="hostel-hopper-wrapper">
+                                                                                                          <div className="hostel-hopper-wrapper">
+                                                                                                            <div className="hostel-hopper-wrapper">
+                                                                                                              <div className="hostel-hopper-wrapper">
+                                                                                                                <div className="hostel-hopper-wrapper">
+                                                                                                                  <div className="hostel-hopper-wrapper">
+                                                                                                                    <div className="hostel-hopper-wrapper">
+                                                                                                                      <div className="hostel-hopper-wrapper">
+                                                                                                                        <div className="hostel-hopper-wrapper">
+                                                                                                                          <div className="hostel-hopper-wrapper">
+                                                                                                                            <div className="hostel-hopper-wrapper">
+                                                                                                                              <div className="hostel-hopper-wrapper">
+                                                                                                                                <div className="hostel-hopper-wrapper">
+                                                                                                                                  <div className="hostel-hopper-wrapper">
+                                                                                                                                    <div className="hostel-hopper-wrapper">
+                                                                                                                                      <div className="hostel-hopper-wrapper">
+                                                                                                                                        <div className="hostel-hopper-wrapper">
+                                                                                                                                          <div className="hostel-hopper-wrapper">
+                                                                                                                                            <div className="hostel-hopper-wrapper">
+                                                                                                                                              <div className="hostel-hopper-wrapper">
+                                                                                                                                                <div className="hostel-hopper-wrapper">
+                                                                                                                                                  <div className="hostel-hopper-wrapper">
+                                                                                                                                                    <div className="hostel-hopper-wrapper">
+                                                                                                                                                      <div className="hostel-hopper-wrapper">
+                                                                                                                                                        <div className="hostel-hopper-wrapper">
+                                                                                                                                                          <div className="hostel-hopper-wrapper">
+                                                                                                                                                            <div className="hostel-hopper-wrapper">
+                                                                                                                                                              <div className="hostel-hopper-wrapper">
+                                                                                                                                                                <div className="hostel-hopper-wrapper">
+                                                                                                                                                                  <div className="hostel-hopper-wrapper">
+                                                                                                                                                                    <div className="hostel-hopper-wrapper">
+                                                                                                                                                                      <div className="hostel-hopper-wrapper">
+                                                                                                                                                                        <div className="hostel-hopper-wrapper">
+                                                                                                                                                                          <div className="hostel-hopper-wrapper">
+                                                                                                                                                                            <div className="hostel-hopper-wrapper">
+                                                                                                                                                                              <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                  <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                    <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                      <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                        <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                          <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                            <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                              <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                  <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                    <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                      <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                        <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                          <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                            <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                              <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                                <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                                  <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                                    <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                                      <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                                        <div className="hostel-hopper">
                                                                                                                                                                                                                           Hostel
                                                                                                                                                                                                                           Hopper
                                                                                                                                                                                                                         </div>
@@ -264,53 +264,53 @@ const Desktop7 = () => {
                                                                                                   </div>
                                                                                                 </div>
                                                                                                 <img
-                                                                                                  className="bunk-1-icon1"
+                                                                                                  className="bunk-1-icon"
                                                                                                   alt=""
                                                                                                   src="../bunk-1@2x.png"
                                                                                                 />
-                                                                                                <div className="pngwing-1-container">
-                                                                                                  <div className="pngwing-1-container">
-                                                                                                    <div className="pngwing-1-container">
-                                                                                                      <div className="pngwing-1-container">
-                                                                                                        <div className="pngwing-1-container">
-                                                                                                          <div className="pngwing-1-container">
-                                                                                                            <div className="pngwing-1-container">
-                                                                                                              <div className="pngwing-1-container">
-                                                                                                                <div className="pngwing-1-container">
-                                                                                                                  <div className="pngwing-1-container">
-                                                                                                                    <div className="pngwing-1-container">
-                                                                                                                      <div className="pngwing-1-container">
-                                                                                                                        <div className="pngwing-1-container">
-                                                                                                                          <div className="pngwing-1-container">
-                                                                                                                            <div className="pngwing-1-container">
-                                                                                                                              <div className="pngwing-1-container">
-                                                                                                                                <div className="pngwing-1-container">
-                                                                                                                                  <div className="pngwing-1-container">
-                                                                                                                                    <div className="pngwing-1-container">
-                                                                                                                                      <div className="pngwing-1-container">
-                                                                                                                                        <div className="pngwing-1-container">
-                                                                                                                                          <div className="pngwing-1-container">
-                                                                                                                                            <div className="pngwing-1-container">
-                                                                                                                                              <div className="pngwing-1-container">
-                                                                                                                                                <div className="pngwing-1-container">
-                                                                                                                                                  <div className="pngwing-1-container">
-                                                                                                                                                    <div className="pngwing-1-container">
-                                                                                                                                                      <div className="pngwing-1-container">
-                                                                                                                                                        <div className="pngwing-1-container">
-                                                                                                                                                          <div className="pngwing-1-container">
-                                                                                                                                                            <div className="pngwing-1-container">
-                                                                                                                                                              <div className="pngwing-1-container">
-                                                                                                                                                                <div className="pngwing-1-container">
-                                                                                                                                                                  <div className="pngwing-1-container">
-                                                                                                                                                                    <div className="pngwing-1-container">
-                                                                                                                                                                      <div className="pngwing-1-container">
-                                                                                                                                                                        <div className="pngwing-1-container">
-                                                                                                                                                                          <div className="pngwing-1-container">
-                                                                                                                                                                            <div className="pngwing-1-container">
-                                                                                                                                                                              <div className="pngwing-1-container">
-                                                                                                                                                                                <div className="pngwing-1-container">
+                                                                                                <div className="pngwing-1-wrapper">
+                                                                                                  <div className="pngwing-1-wrapper">
+                                                                                                    <div className="pngwing-1-wrapper">
+                                                                                                      <div className="pngwing-1-wrapper">
+                                                                                                        <div className="pngwing-1-wrapper">
+                                                                                                          <div className="pngwing-1-wrapper">
+                                                                                                            <div className="pngwing-1-wrapper">
+                                                                                                              <div className="pngwing-1-wrapper">
+                                                                                                                <div className="pngwing-1-wrapper">
+                                                                                                                  <div className="pngwing-1-wrapper">
+                                                                                                                    <div className="pngwing-1-wrapper">
+                                                                                                                      <div className="pngwing-1-wrapper">
+                                                                                                                        <div className="pngwing-1-wrapper">
+                                                                                                                          <div className="pngwing-1-wrapper">
+                                                                                                                            <div className="pngwing-1-wrapper">
+                                                                                                                              <div className="pngwing-1-wrapper">
+                                                                                                                                <div className="pngwing-1-wrapper">
+                                                                                                                                  <div className="pngwing-1-wrapper">
+                                                                                                                                    <div className="pngwing-1-wrapper">
+                                                                                                                                      <div className="pngwing-1-wrapper">
+                                                                                                                                        <div className="pngwing-1-wrapper">
+                                                                                                                                          <div className="pngwing-1-wrapper">
+                                                                                                                                            <div className="pngwing-1-wrapper">
+                                                                                                                                              <div className="pngwing-1-wrapper">
+                                                                                                                                                <div className="pngwing-1-wrapper">
+                                                                                                                                                  <div className="pngwing-1-wrapper">
+                                                                                                                                                    <div className="pngwing-1-wrapper">
+                                                                                                                                                      <div className="pngwing-1-wrapper">
+                                                                                                                                                        <div className="pngwing-1-wrapper">
+                                                                                                                                                          <div className="pngwing-1-wrapper">
+                                                                                                                                                            <div className="pngwing-1-wrapper">
+                                                                                                                                                              <div className="pngwing-1-wrapper">
+                                                                                                                                                                <div className="pngwing-1-wrapper">
+                                                                                                                                                                  <div className="pngwing-1-wrapper">
+                                                                                                                                                                    <div className="pngwing-1-wrapper">
+                                                                                                                                                                      <div className="pngwing-1-wrapper">
+                                                                                                                                                                        <div className="pngwing-1-wrapper">
+                                                                                                                                                                          <div className="pngwing-1-wrapper">
+                                                                                                                                                                            <div className="pngwing-1-wrapper">
+                                                                                                                                                                              <div className="pngwing-1-wrapper">
+                                                                                                                                                                                <div className="pngwing-1-wrapper">
                                                                                                                                                                                   <img
-                                                                                                                                                                                    className="pngwing-1-icon1"
+                                                                                                                                                                                    className="pngwing-1-icon"
                                                                                                                                                                                     alt=""
                                                                                                                                                                                     src="../pngwing-1@2x.png"
                                                                                                                                                                                   />
@@ -443,8 +443,8 @@ const Desktop7 = () => {
         <div className="location">LOCATION</div>
         <div className="locate-about-us-container">
           <ul className="locate-about-us-contacts">
-            <li className="about-us">Locate</li>
-            <li className="about-us">About Us</li>
+            <li className="locate">Locate</li>
+            <li className="locate">About Us</li>
             <li>Contacts</li>
           </ul>
         </div>
@@ -460,7 +460,7 @@ const Desktop7 = () => {
         <div className="delhi-bangalore-mumbai-container">
           <p className="receive-a-call">&nbsp;</p>
           <ul className="locate-about-us-contacts">
-            <li className="about-us">
+            <li className="locate">
               <a
                 className="delhi1"
                 href="https://www.your-space.in/delhi/"
@@ -469,7 +469,7 @@ const Desktop7 = () => {
                 <span className="delhi2">Delhi</span>
               </a>
             </li>
-            <li className="about-us">
+            <li className="locate">
               <a
                 className="gurgaon"
                 href="https://www.your-space.in/bangalore/"
@@ -478,7 +478,7 @@ const Desktop7 = () => {
                 <span className="delhi2">Bangalore</span>
               </a>
             </li>
-            <li className="about-us">
+            <li className="locate">
               <a
                 className="gurgaon"
                 href="https://www.your-space.in/mumbai/"
@@ -487,7 +487,7 @@ const Desktop7 = () => {
                 <span className="delhi2">Mumbai</span>
               </a>
             </li>
-            <li className="about-us">
+            <li className="locate">
               <a
                 className="gurgaon"
                 href="https://www.your-space.in/pune/"
@@ -496,7 +496,7 @@ const Desktop7 = () => {
                 <span className="delhi2">Pune</span>
               </a>
             </li>
-            <li className="about-us">
+            <li className="locate">
               <a
                 className="gurgaon"
                 href="https://www.your-space.in/ahmedabad/"
@@ -505,7 +505,7 @@ const Desktop7 = () => {
                 <span className="delhi2">Ahmedabad</span>
               </a>
             </li>
-            <li className="about-us">
+            <li className="locate">
               <a
                 className="gurgaon"
                 href="https://www.your-space.in/dehradun/"
@@ -514,7 +514,7 @@ const Desktop7 = () => {
                 <span className="delhi2">Dehradun</span>
               </a>
             </li>
-            <li className="about-us">
+            <li className="locate">
               <a
                 className="gurgaon"
                 href="https://www.your-space.in/noida/"
@@ -523,7 +523,7 @@ const Desktop7 = () => {
                 <span className="delhi2">Noida</span>
               </a>
             </li>
-            <li className="about-us">
+            <li className="locate">
               <a
                 className="gurgaon"
                 href="https://www.your-space.in/indore/"
@@ -532,7 +532,7 @@ const Desktop7 = () => {
                 <span className="delhi2">Indore</span>
               </a>
             </li>
-            <li className="about-us">
+            <li className="locate">
               <a
                 className="gurgaon"
                 href="https://www.your-space.in/jaipur/"
@@ -556,25 +556,25 @@ const Desktop7 = () => {
         <div className="menu">MENU</div>
         <div className="privacy-policy-terms-container">
           <ul className="locate-about-us-contacts">
-            <li className="about-us">Privacy Policy</li>
-            <li className="about-us">{`Terms & Conditions`}</li>
+            <li className="locate">Privacy Policy</li>
+            <li className="locate">{`Terms & Conditions`}</li>
             <li>Refund Policy</li>
           </ul>
         </div>
         <div className="desktop-4-child4" />
         <div className="services">SERVICES</div>
       </div>
-      <a className="desktop-11">
+      <a className="desktop-1">
         <div className="desktop-5">
-          <img className="desktop-5-child" alt="" src="../group-1321.svg" />
-          <div className="locate2">Locate</div>
-          <div className="about1">About</div>
-          <div className="contact-us1">Contact us</div>
+          <img className="desktop-5-child" alt="" src="../group-132.svg" />
+          <div className="locate1">Locate</div>
+          <div className="about">About</div>
+          <div className="contact-us">Contact us</div>
           <div className="desktop-5-item" />
           <div className="sign-in">Sign In</div>
           <div className="desktop-5-inner" />
           <div className="sign-up">Sign Up</div>
-          <div className="hostel-hopper2">Hostel Hopper</div>
+          <div className="hostel-hopper1">Hostel Hopper</div>
           <div className="simplify-your-accommodation-container">
             <p className="receive-a-call">Simplify your accommodation</p>
             <p className="search-with">search with</p>
@@ -593,107 +593,107 @@ const Desktop7 = () => {
             </p>
           </div>
           <div className="desktop-5-inner1">
-            <div className="group-wrapper139">
-              <div className="group-wrapper139">
-                <div className="group-wrapper139">
-                  <div className="group-wrapper139">
-                    <div className="group-wrapper139">
-                      <div className="group-wrapper139">
-                        <div className="group-wrapper139">
-                          <div className="group-wrapper139">
-                            <div className="group-wrapper139">
-                              <div className="group-wrapper139">
-                                <div className="group-wrapper139">
-                                  <div className="group-wrapper139">
-                                    <div className="group-wrapper139">
-                                      <div className="group-wrapper139">
-                                        <div className="group-wrapper139">
-                                          <div className="group-wrapper139">
-                                            <div className="group-wrapper139">
-                                              <div className="group-wrapper139">
-                                                <div className="group-wrapper139">
-                                                  <div className="group-wrapper139">
-                                                    <div className="group-wrapper139">
-                                                      <div className="group-wrapper139">
-                                                        <div className="group-wrapper139">
-                                                          <div className="group-wrapper139">
-                                                            <div className="group-wrapper139">
-                                                              <div className="group-wrapper139">
-                                                                <div className="group-wrapper139">
-                                                                  <div className="group-wrapper139">
-                                                                    <div className="group-wrapper139">
-                                                                      <div className="group-wrapper139">
-                                                                        <div className="group-wrapper139">
-                                                                          <div className="group-wrapper139">
-                                                                            <div className="group-wrapper139">
-                                                                              <div className="group-wrapper139">
-                                                                                <div className="group-wrapper139">
-                                                                                  <div className="group-wrapper139">
-                                                                                    <div className="group-wrapper139">
-                                                                                      <div className="group-wrapper139">
-                                                                                        <div className="group-wrapper139">
-                                                                                          <div className="group-wrapper139">
-                                                                                            <div className="group-wrapper181">
-                                                                                              <div className="hostel-hopper-container">
-                                                                                                <div className="hostel-hopper-container">
-                                                                                                  <div className="hostel-hopper-container">
-                                                                                                    <div className="hostel-hopper-container">
-                                                                                                      <div className="hostel-hopper-container">
-                                                                                                        <div className="hostel-hopper-container">
-                                                                                                          <div className="hostel-hopper-container">
-                                                                                                            <div className="hostel-hopper-container">
-                                                                                                              <div className="hostel-hopper-container">
-                                                                                                                <div className="hostel-hopper-container">
-                                                                                                                  <div className="hostel-hopper-container">
-                                                                                                                    <div className="hostel-hopper-container">
-                                                                                                                      <div className="hostel-hopper-container">
-                                                                                                                        <div className="hostel-hopper-container">
-                                                                                                                          <div className="hostel-hopper-container">
-                                                                                                                            <div className="hostel-hopper-container">
-                                                                                                                              <div className="hostel-hopper-container">
-                                                                                                                                <div className="hostel-hopper-container">
-                                                                                                                                  <div className="hostel-hopper-container">
-                                                                                                                                    <div className="hostel-hopper-container">
-                                                                                                                                      <div className="hostel-hopper-container">
-                                                                                                                                        <div className="hostel-hopper-container">
-                                                                                                                                          <div className="hostel-hopper-container">
-                                                                                                                                            <div className="hostel-hopper-container">
-                                                                                                                                              <div className="hostel-hopper-container">
-                                                                                                                                                <div className="hostel-hopper-container">
-                                                                                                                                                  <div className="hostel-hopper-container">
-                                                                                                                                                    <div className="hostel-hopper-container">
-                                                                                                                                                      <div className="hostel-hopper-container">
-                                                                                                                                                        <div className="hostel-hopper-container">
-                                                                                                                                                          <div className="hostel-hopper-container">
-                                                                                                                                                            <div className="hostel-hopper-container">
-                                                                                                                                                              <div className="hostel-hopper-container">
-                                                                                                                                                                <div className="hostel-hopper-container">
-                                                                                                                                                                  <div className="hostel-hopper-container">
-                                                                                                                                                                    <div className="hostel-hopper-container">
-                                                                                                                                                                      <div className="hostel-hopper-container">
-                                                                                                                                                                        <div className="hostel-hopper-container">
-                                                                                                                                                                          <div className="hostel-hopper-container">
-                                                                                                                                                                            <div className="hostel-hopper-container">
-                                                                                                                                                                              <div className="hostel-hopper-container">
-                                                                                                                                                                                <div className="hostel-hopper-container">
-                                                                                                                                                                                  <div className="hostel-hopper-container">
-                                                                                                                                                                                    <div className="hostel-hopper-container">
-                                                                                                                                                                                      <div className="hostel-hopper-container">
-                                                                                                                                                                                        <div className="hostel-hopper-container">
-                                                                                                                                                                                          <div className="hostel-hopper-container">
-                                                                                                                                                                                            <div className="hostel-hopper-container">
-                                                                                                                                                                                              <div className="hostel-hopper-container">
-                                                                                                                                                                                                <div className="hostel-hopper-container">
-                                                                                                                                                                                                  <div className="hostel-hopper-container">
-                                                                                                                                                                                                    <div className="hostel-hopper-container">
-                                                                                                                                                                                                      <div className="hostel-hopper-container">
-                                                                                                                                                                                                        <div className="hostel-hopper-container">
-                                                                                                                                                                                                          <div className="hostel-hopper-container">
-                                                                                                                                                                                                            <div className="hostel-hopper-container">
-                                                                                                                                                                                                              <div className="hostel-hopper-container">
-                                                                                                                                                                                                                <div className="hostel-hopper-container">
-                                                                                                                                                                                                                  <div className="hostel-hopper-container">
-                                                                                                                                                                                                                    <div className="hostel-hopper3">
+            <div className="group-wrapper">
+              <div className="group-wrapper">
+                <div className="group-wrapper">
+                  <div className="group-wrapper">
+                    <div className="group-wrapper">
+                      <div className="group-wrapper">
+                        <div className="group-wrapper">
+                          <div className="group-wrapper">
+                            <div className="group-wrapper">
+                              <div className="group-wrapper">
+                                <div className="group-wrapper">
+                                  <div className="group-wrapper">
+                                    <div className="group-wrapper">
+                                      <div className="group-wrapper">
+                                        <div className="group-wrapper">
+                                          <div className="group-wrapper">
+                                            <div className="group-wrapper">
+                                              <div className="group-wrapper">
+                                                <div className="group-wrapper">
+                                                  <div className="group-wrapper">
+                                                    <div className="group-wrapper">
+                                                      <div className="group-wrapper">
+                                                        <div className="group-wrapper">
+                                                          <div className="group-wrapper">
+                                                            <div className="group-wrapper">
+                                                              <div className="group-wrapper">
+                                                                <div className="group-wrapper">
+                                                                  <div className="group-wrapper">
+                                                                    <div className="group-wrapper">
+                                                                      <div className="group-wrapper">
+                                                                        <div className="group-wrapper">
+                                                                          <div className="group-wrapper">
+                                                                            <div className="group-wrapper">
+                                                                              <div className="group-wrapper">
+                                                                                <div className="group-wrapper">
+                                                                                  <div className="group-wrapper">
+                                                                                    <div className="group-wrapper">
+                                                                                      <div className="group-wrapper">
+                                                                                        <div className="group-wrapper">
+                                                                                          <div className="group-wrapper">
+                                                                                            <div className="group-wrapper39">
+                                                                                              <div className="hostel-hopper-wrapper">
+                                                                                                <div className="hostel-hopper-wrapper">
+                                                                                                  <div className="hostel-hopper-wrapper">
+                                                                                                    <div className="hostel-hopper-wrapper">
+                                                                                                      <div className="hostel-hopper-wrapper">
+                                                                                                        <div className="hostel-hopper-wrapper">
+                                                                                                          <div className="hostel-hopper-wrapper">
+                                                                                                            <div className="hostel-hopper-wrapper">
+                                                                                                              <div className="hostel-hopper-wrapper">
+                                                                                                                <div className="hostel-hopper-wrapper">
+                                                                                                                  <div className="hostel-hopper-wrapper">
+                                                                                                                    <div className="hostel-hopper-wrapper">
+                                                                                                                      <div className="hostel-hopper-wrapper">
+                                                                                                                        <div className="hostel-hopper-wrapper">
+                                                                                                                          <div className="hostel-hopper-wrapper">
+                                                                                                                            <div className="hostel-hopper-wrapper">
+                                                                                                                              <div className="hostel-hopper-wrapper">
+                                                                                                                                <div className="hostel-hopper-wrapper">
+                                                                                                                                  <div className="hostel-hopper-wrapper">
+                                                                                                                                    <div className="hostel-hopper-wrapper">
+                                                                                                                                      <div className="hostel-hopper-wrapper">
+                                                                                                                                        <div className="hostel-hopper-wrapper">
+                                                                                                                                          <div className="hostel-hopper-wrapper">
+                                                                                                                                            <div className="hostel-hopper-wrapper">
+                                                                                                                                              <div className="hostel-hopper-wrapper">
+                                                                                                                                                <div className="hostel-hopper-wrapper">
+                                                                                                                                                  <div className="hostel-hopper-wrapper">
+                                                                                                                                                    <div className="hostel-hopper-wrapper">
+                                                                                                                                                      <div className="hostel-hopper-wrapper">
+                                                                                                                                                        <div className="hostel-hopper-wrapper">
+                                                                                                                                                          <div className="hostel-hopper-wrapper">
+                                                                                                                                                            <div className="hostel-hopper-wrapper">
+                                                                                                                                                              <div className="hostel-hopper-wrapper">
+                                                                                                                                                                <div className="hostel-hopper-wrapper">
+                                                                                                                                                                  <div className="hostel-hopper-wrapper">
+                                                                                                                                                                    <div className="hostel-hopper-wrapper">
+                                                                                                                                                                      <div className="hostel-hopper-wrapper">
+                                                                                                                                                                        <div className="hostel-hopper-wrapper">
+                                                                                                                                                                          <div className="hostel-hopper-wrapper">
+                                                                                                                                                                            <div className="hostel-hopper-wrapper">
+                                                                                                                                                                              <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                  <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                    <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                      <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                        <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                          <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                            <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                              <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                  <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                    <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                      <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                        <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                          <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                            <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                              <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                                <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                                  <div className="hostel-hopper-wrapper">
+                                                                                                                                                                                                                    <div className="hostel-hopper2">
                                                                                                                                                                                                                       Hostel
                                                                                                                                                                                                                       Hopper
                                                                                                                                                                                                                     </div>
@@ -758,53 +758,53 @@ const Desktop7 = () => {
                                                                                               </div>
                                                                                             </div>
                                                                                             <img
-                                                                                              className="bunk-1-icon1"
+                                                                                              className="bunk-1-icon"
                                                                                               alt=""
                                                                                               src="../bunk-1@2x.png"
                                                                                             />
-                                                                                            <div className="pngwing-1-container">
-                                                                                              <div className="pngwing-1-container">
-                                                                                                <div className="pngwing-1-container">
-                                                                                                  <div className="pngwing-1-container">
-                                                                                                    <div className="pngwing-1-container">
-                                                                                                      <div className="pngwing-1-container">
-                                                                                                        <div className="pngwing-1-container">
-                                                                                                          <div className="pngwing-1-container">
-                                                                                                            <div className="pngwing-1-container">
-                                                                                                              <div className="pngwing-1-container">
-                                                                                                                <div className="pngwing-1-container">
-                                                                                                                  <div className="pngwing-1-container">
-                                                                                                                    <div className="pngwing-1-container">
-                                                                                                                      <div className="pngwing-1-container">
-                                                                                                                        <div className="pngwing-1-container">
-                                                                                                                          <div className="pngwing-1-container">
-                                                                                                                            <div className="pngwing-1-container">
-                                                                                                                              <div className="pngwing-1-container">
-                                                                                                                                <div className="pngwing-1-container">
-                                                                                                                                  <div className="pngwing-1-container">
-                                                                                                                                    <div className="pngwing-1-container">
-                                                                                                                                      <div className="pngwing-1-container">
-                                                                                                                                        <div className="pngwing-1-container">
-                                                                                                                                          <div className="pngwing-1-container">
-                                                                                                                                            <div className="pngwing-1-container">
-                                                                                                                                              <div className="pngwing-1-container">
-                                                                                                                                                <div className="pngwing-1-container">
-                                                                                                                                                  <div className="pngwing-1-container">
-                                                                                                                                                    <div className="pngwing-1-container">
-                                                                                                                                                      <div className="pngwing-1-container">
-                                                                                                                                                        <div className="pngwing-1-container">
-                                                                                                                                                          <div className="pngwing-1-container">
-                                                                                                                                                            <div className="pngwing-1-container">
-                                                                                                                                                              <div className="pngwing-1-container">
-                                                                                                                                                                <div className="pngwing-1-container">
-                                                                                                                                                                  <div className="pngwing-1-container">
-                                                                                                                                                                    <div className="pngwing-1-container">
-                                                                                                                                                                      <div className="pngwing-1-container">
-                                                                                                                                                                        <div className="pngwing-1-container">
-                                                                                                                                                                          <div className="pngwing-1-container">
-                                                                                                                                                                            <div className="pngwing-1-container">
+                                                                                            <div className="pngwing-1-wrapper">
+                                                                                              <div className="pngwing-1-wrapper">
+                                                                                                <div className="pngwing-1-wrapper">
+                                                                                                  <div className="pngwing-1-wrapper">
+                                                                                                    <div className="pngwing-1-wrapper">
+                                                                                                      <div className="pngwing-1-wrapper">
+                                                                                                        <div className="pngwing-1-wrapper">
+                                                                                                          <div className="pngwing-1-wrapper">
+                                                                                                            <div className="pngwing-1-wrapper">
+                                                                                                              <div className="pngwing-1-wrapper">
+                                                                                                                <div className="pngwing-1-wrapper">
+                                                                                                                  <div className="pngwing-1-wrapper">
+                                                                                                                    <div className="pngwing-1-wrapper">
+                                                                                                                      <div className="pngwing-1-wrapper">
+                                                                                                                        <div className="pngwing-1-wrapper">
+                                                                                                                          <div className="pngwing-1-wrapper">
+                                                                                                                            <div className="pngwing-1-wrapper">
+                                                                                                                              <div className="pngwing-1-wrapper">
+                                                                                                                                <div className="pngwing-1-wrapper">
+                                                                                                                                  <div className="pngwing-1-wrapper">
+                                                                                                                                    <div className="pngwing-1-wrapper">
+                                                                                                                                      <div className="pngwing-1-wrapper">
+                                                                                                                                        <div className="pngwing-1-wrapper">
+                                                                                                                                          <div className="pngwing-1-wrapper">
+                                                                                                                                            <div className="pngwing-1-wrapper">
+                                                                                                                                              <div className="pngwing-1-wrapper">
+                                                                                                                                                <div className="pngwing-1-wrapper">
+                                                                                                                                                  <div className="pngwing-1-wrapper">
+                                                                                                                                                    <div className="pngwing-1-wrapper">
+                                                                                                                                                      <div className="pngwing-1-wrapper">
+                                                                                                                                                        <div className="pngwing-1-wrapper">
+                                                                                                                                                          <div className="pngwing-1-wrapper">
+                                                                                                                                                            <div className="pngwing-1-wrapper">
+                                                                                                                                                              <div className="pngwing-1-wrapper">
+                                                                                                                                                                <div className="pngwing-1-wrapper">
+                                                                                                                                                                  <div className="pngwing-1-wrapper">
+                                                                                                                                                                    <div className="pngwing-1-wrapper">
+                                                                                                                                                                      <div className="pngwing-1-wrapper">
+                                                                                                                                                                        <div className="pngwing-1-wrapper">
+                                                                                                                                                                          <div className="pngwing-1-wrapper">
+                                                                                                                                                                            <div className="pngwing-1-wrapper">
                                                                                                                                                                               <img
-                                                                                                                                                                                className="pngwing-1-icon1"
+                                                                                                                                                                                className="pngwing-1-icon"
                                                                                                                                                                                 alt=""
                                                                                                                                                                                 src="../pngwing-1@2x.png"
                                                                                                                                                                               />
@@ -890,15 +890,15 @@ const Desktop7 = () => {
               </div>
             </div>
           </div>
-          <div className="group-parent4">
-            <div className="rectangle-group">
-              <div className="group-inner" />
+          <div className="group-parent2">
+            <div className="rectangle-parent">
+              <div className="group-child" />
               <div className="search-for-files">
                 Search for files, plugins, and creators
               </div>
             </div>
-            <img className="group-icon" alt="" src="../group-151.svg" />
-            <div className="search2">search</div>
+            <img className="group-item" alt="" src="../group-15.svg" />
+            <div className="search">search</div>
           </div>
           <img
             className="hotel-booking-pana-1"

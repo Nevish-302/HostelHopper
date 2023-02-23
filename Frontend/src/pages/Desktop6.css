@@ -14,8 +14,8 @@
   height: 115.5px;
 }
 .about6,
-.contact-us7,
-.locate7 {
+.contact-us6,
+.locate8 {
   position: absolute;
   top: 32px;
   left: 419px;
@@ -24,49 +24,49 @@
   height: 53px;
 }
 .about6,
-.contact-us7 {
+.contact-us6 {
   left: 554px;
   width: 120px;
   height: 49px;
 }
-.contact-us7 {
+.contact-us6 {
   left: 682px;
   width: 207px;
   height: 45px;
 }
-.hostel-hopper8 {
+.hostel-hopper11 {
   display: inline-block;
   -webkit-text-stroke: 1px #4e5dc0;
 }
-.bunk-1-icon7,
-.group-wrapper1021,
-.group-wrapper1022,
-.hostel-hopper8 {
+.bunk-1-icon10,
+.group-wrapper1437,
+.group-wrapper1438,
+.hostel-hopper11 {
   position: absolute;
   top: 0;
   left: 0;
   width: 251px;
   height: 44px;
 }
-.bunk-1-icon7,
-.group-wrapper1021 {
+.bunk-1-icon10,
+.group-wrapper1437 {
   top: 17px;
   left: 88px;
 }
-.bunk-1-icon7 {
+.bunk-1-icon10 {
   top: 11px;
   left: 24px;
   width: 50px;
   height: 50px;
 }
-.bunk-1-icon7,
-.pngwing-1-icon7 {
+.bunk-1-icon10,
+.pngwing-1-icon10 {
   object-fit: cover;
 }
 .desktop-6-inner1,
-.group-wrapper1080,
-.group-wrapper979,
-.pngwing-1-icon7 {
+.group-wrapper1395,
+.group-wrapper1496,
+.pngwing-1-icon10 {
   position: absolute;
   top: 0;
   left: 0;
@@ -74,7 +74,7 @@
   height: 80px;
 }
 .desktop-6-inner1,
-.group-wrapper979 {
+.group-wrapper1395 {
   width: 339px;
 }
 .desktop-6-inner1 {
@@ -83,7 +83,7 @@
   font-size: var(--font-size-15xl);
   color: var(--color-slateblue);
 }
-.group-child9 {
+.group-child15 {
   position: absolute;
   top: 0;
   left: 0;
@@ -93,7 +93,7 @@
   width: 489px;
   height: 65px;
 }
-.search-for-files4 {
+.search-for-files6 {
   position: absolute;
   top: 20.55px;
   left: 32.94px;
@@ -102,21 +102,21 @@
   width: 364.58px;
   height: 23.9px;
 }
-.group-child10,
-.rectangle-parent4 {
+.group-child16,
+.rectangle-parent6 {
   position: absolute;
   top: 0;
   left: 0;
   width: 489px;
   height: 65px;
 }
-.group-child10 {
+.group-child16 {
   top: 10.04px;
   left: 418.03px;
   width: 47.01px;
   height: 44.93px;
 }
-.search11 {
+.search13 {
   position: absolute;
   top: 21px;
   left: 431px;
@@ -124,7 +124,7 @@
   font-family: var(--font-font-awesome-5-free);
   color: var(--color-white);
 }
-.group-parent14 {
+.group-parent21 {
   position: absolute;
   top: 14px;
   left: 903px;

@@ -1,4 +1,4 @@
-.desktop-2-item {
+.desktop-2-child {
   position: absolute;
   top: 0;
   left: 0;
@@ -13,7 +13,7 @@
   width: 1440px;
   height: 1024px;
 }
-.desktop-2-inner {
+.desktop-2-item {
   position: absolute;
   top: 324px;
   left: 289px;
@@ -41,7 +41,7 @@
   font-family: var(--font-inter);
   color: var(--color-white);
 }
-.rectangle-div {
+.desktop-2-inner {
   position: absolute;
   top: 346px;
   left: 316px;
@@ -57,9 +57,9 @@
   left: 328px;
   font-size: var(--font-size-12xl);
   font-family: var(--font-inter);
-  color: var(--color-darkgray-300);
+  color: var(--color-darkgray-200);
 }
-.desktop-2-child1 {
+.rectangle-div {
   position: absolute;
   top: 346px;
   left: 976px;
@@ -69,7 +69,7 @@
   width: 200px;
   height: 70px;
 }
-.desktop-2-child2,
+.desktop-2-child1,
 .ellipse-icon {
   position: absolute;
   top: 434px;
@@ -78,13 +78,13 @@
   height: 75px;
   object-fit: cover;
 }
-.desktop-2-child2 {
+.desktop-2-child1 {
   top: 553px;
 }
+.desktop-2-child2,
 .desktop-2-child3,
 .desktop-2-child4,
-.desktop-2-child5,
-.desktop-2-child6 {
+.desktop-2-child5 {
   position: absolute;
   top: 434px;
   left: 913px;
@@ -92,20 +92,20 @@
   height: 75px;
   object-fit: cover;
 }
+.desktop-2-child3,
 .desktop-2-child4,
-.desktop-2-child5,
-.desktop-2-child6 {
+.desktop-2-child5 {
   top: 553px;
 }
-.desktop-2-child5,
-.desktop-2-child6 {
+.desktop-2-child4,
+.desktop-2-child5 {
   top: 434px;
   left: 773px;
 }
-.desktop-2-child6 {
+.desktop-2-child5 {
   top: 553px;
 }
-.desktop-2-child10,
+.desktop-2-child6,
 .desktop-2-child7,
 .desktop-2-child8,
 .desktop-2-child9 {
@@ -116,22 +116,22 @@
   height: 75px;
   object-fit: cover;
 }
-.desktop-2-child10,
+.desktop-2-child7,
 .desktop-2-child8,
 .desktop-2-child9 {
   top: 553px;
 }
-.desktop-2-child10,
+.desktop-2-child8,
 .desktop-2-child9 {
   top: 434px;
   left: 633px;
 }
-.desktop-2-child10 {
+.desktop-2-child9 {
   top: 553px;
 }
+.desktop-2-child10,
 .desktop-2-child11,
-.desktop-2-child12,
-.image-1-icon1,
+.image-1-icon,
 .pin-icon {
   position: absolute;
   top: 434px;
@@ -140,19 +140,19 @@
   height: 75px;
   object-fit: cover;
 }
-.desktop-2-child12,
-.image-1-icon1,
+.desktop-2-child11,
+.image-1-icon,
 .pin-icon {
   top: 553px;
 }
-.image-1-icon1,
+.image-1-icon,
 .pin-icon {
   top: 361px;
   left: 991px;
   width: 40px;
   height: 40px;
 }
-.image-1-icon1 {
+.image-1-icon {
   top: 0;
   left: 0;
   width: 1440px;
@@ -280,7 +280,7 @@
   object-fit: cover;
   opacity: 0.6;
 }
-.desktop-21 {
+.desktop-2 {
   position: absolute;
   top: 1004px;
   left: 0;
@@ -353,7 +353,7 @@
   left: 568px;
   font-size: var(--font-size-17xl);
   font-family: var(--font-mulish);
-  color: var(--color-gray-1000);
+  color: var(--color-gray-900);
   width: 304px;
   height: 46px;
 }
@@ -484,39 +484,39 @@
   font-size: var(--font-size-xl);
   font-family: var(--font-pt-sans);
 }
-.hostel-hopper1 {
+.hostel-hopper {
   display: inline-block;
   -webkit-text-stroke: 1px #f0f0f0;
 }
-.bunk-1-icon1,
-.group-wrapper181,
-.hostel-hopper-container,
-.hostel-hopper1 {
+.bunk-1-icon,
+.group-wrapper39,
+.hostel-hopper,
+.hostel-hopper-wrapper {
   position: absolute;
   top: 0;
   left: 0;
   width: 251px;
   height: 44px;
 }
-.bunk-1-icon1,
-.group-wrapper181 {
+.bunk-1-icon,
+.group-wrapper39 {
   top: 17px;
   left: 88px;
 }
-.bunk-1-icon1 {
+.bunk-1-icon {
   top: 11px;
   left: 24px;
   width: 50px;
   height: 50px;
 }
-.bunk-1-icon1,
-.pngwing-1-icon1 {
+.bunk-1-icon,
+.pngwing-1-icon {
   object-fit: cover;
 }
 .desktop-4-inner,
-.group-wrapper139,
-.pngwing-1-container,
-.pngwing-1-icon1 {
+.group-wrapper,
+.pngwing-1-icon,
+.pngwing-1-wrapper {
   position: absolute;
   top: 0;
   left: 0;
@@ -524,7 +524,7 @@
   height: 80px;
 }
 .desktop-4-inner,
-.group-wrapper139 {
+.group-wrapper {
   width: 339px;
 }
 .desktop-4-inner {
@@ -724,7 +724,7 @@
   width: 138px;
   height: 15px;
 }
-.about-us {
+.locate {
   margin-bottom: 0;
 }
 .locate-about-us-contacts {
@@ -851,9 +851,9 @@
   left: 2px;
   height: 115.5px;
 }
-.about1,
-.contact-us1,
-.locate2 {
+.about,
+.contact-us,
+.locate1 {
   position: absolute;
   top: 32px;
   left: 419px;
@@ -862,13 +862,13 @@
   width: 123px;
   height: 53px;
 }
-.about1,
-.contact-us1 {
+.about,
+.contact-us {
   left: 554px;
   width: 120px;
   height: 49px;
 }
-.contact-us1 {
+.contact-us {
   left: 682px;
   width: 207px;
   height: 45px;
@@ -907,7 +907,7 @@
   width: 186px;
   height: 61.6px;
 }
-.hostel-hopper2,
+.hostel-hopper1,
 .sign-up {
   position: absolute;
   top: 523px;
@@ -918,7 +918,7 @@
   width: 111px;
   height: 38px;
 }
-.hostel-hopper2 {
+.hostel-hopper1 {
   top: 398px;
   left: 36px;
   font-size: var(--font-size-20xl);
@@ -969,7 +969,7 @@
   font-weight: 800;
 }
 .happy-hoppers,
-.hostel-hopper3 {
+.hostel-hopper2 {
   position: absolute;
   display: inline-block;
 }
@@ -980,7 +980,7 @@
   width: 241px;
   height: 70px;
 }
-.hostel-hopper3 {
+.hostel-hopper2 {
   top: 0;
   left: 0;
   width: 251px;
@@ -997,7 +997,7 @@
   color: var(--color-slateblue);
   font-family: var(--font-mulish);
 }
-.group-inner {
+.group-child {
   position: absolute;
   top: 0;
   left: 0;
@@ -1016,21 +1016,21 @@
   width: 364.58px;
   height: 23.9px;
 }
-.group-icon,
-.rectangle-group {
+.group-item,
+.rectangle-parent {
   position: absolute;
   top: 0;
   left: 0;
   width: 489px;
   height: 65px;
 }
-.group-icon {
+.group-item {
   top: 11px;
   left: 413px;
   width: 47.01px;
   height: 44.93px;
 }
-.search2 {
+.search {
   position: absolute;
   top: 21.96px;
   left: 425.97px;
@@ -1038,7 +1038,7 @@
   font-family: var(--font-font-awesome-5-free);
   color: var(--color-white);
 }
-.group-parent4 {
+.group-parent2 {
   position: absolute;
   top: 14px;
   left: 903px;
@@ -1057,7 +1057,7 @@
   object-fit: cover;
   opacity: 0.89;
 }
-.desktop-11,
+.desktop-1,
 .desktop-5,
 .desktop-7 {
   background-color: var(--color-white);
@@ -1070,11 +1070,11 @@
   height: 1028px;
   overflow-y: auto;
 }
-.desktop-11,
+.desktop-1,
 .desktop-7 {
   overflow: hidden;
 }
-.desktop-11 {
+.desktop-1 {
   text-decoration: none;
   position: absolute;
   top: 0;

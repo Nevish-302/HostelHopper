@@ -49,7 +49,7 @@
   width: 330.72px;
   height: 18px;
 }
-.div876 {
+.div872 {
   position: absolute;
   top: 241px;
   left: 0;
@@ -133,7 +133,7 @@
   display: flex;
   align-items: center;
 }
-.div877 {
+.div873 {
   position: absolute;
   top: 16px;
   left: 0;
@@ -160,7 +160,7 @@
   font-size: var(--font-size-lg);
   line-height: 22.5px;
 }
-.div878 {
+.div874 {
   position: absolute;
   top: 91px;
   left: 0;
@@ -187,15 +187,15 @@
   font-size: var(--font-size-lg);
   line-height: 22.5px;
 }
-.div880 {
+.div876 {
   position: relative;
   line-height: 30px;
 }
-.div879,
-.span83 {
+.div875,
+.span85 {
   position: absolute;
 }
-.span83 {
+.span85 {
   top: 15px;
   left: 413.61px;
   display: flex;
@@ -205,7 +205,7 @@
   font-size: var(--font-size-5xl);
   font-family: var(--font-inter);
 }
-.div879 {
+.div875 {
   top: 166px;
   left: 0;
   width: 453.61px;
@@ -218,20 +218,20 @@
   flex-shrink: 0;
   overflow: hidden;
 }
-.a31,
-.a32,
-.a33,
-.a34,
+.a6,
+.a7,
+.a8,
+.a9,
 .icon-googlesvg {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.a31,
-.a32,
-.a33,
-.a34 {
+.a6,
+.a7,
+.a8,
+.a9 {
   position: absolute;
   top: 0;
   left: 0;
@@ -239,20 +239,20 @@
   border: 1px solid var(--color-lightgray-200);
   padding: var(--padding-4xs);
 }
-.a32,
-.a33,
-.a34 {
+.a7,
+.a8,
+.a9 {
   left: 123.2px;
 }
-.a33,
-.a34 {
+.a8,
+.a9 {
   left: 246.41px;
 }
-.a34 {
+.a9 {
   left: 369.61px;
 }
 .h4before,
-.ul17 {
+.ul16 {
   position: absolute;
   top: 70.8px;
   left: 0;
@@ -276,10 +276,10 @@
   height: 16px;
 }
 .h4,
-.span84 {
+.span86 {
   height: 16.8px;
 }
-.span84 {
+.span86 {
   position: absolute;
   top: 0;
   left: calc(50% - 69.87px);
@@ -289,14 +289,14 @@
 .h4 {
   top: 30px;
 }
-.div881,
+.div877,
 .form,
 .h4 {
   position: absolute;
   left: 0;
   width: 453.61px;
 }
-.div881 {
+.div877 {
   top: 409.5px;
   height: 220.8px;
   text-align: center;
@@ -307,18 +307,18 @@
   height: 630.3px;
   font-size: var(--font-size-2xl);
 }
-.div875 {
-  top: 75.59px;
+.div871 {
+  top: 96.59px;
   left: 75.59px;
   width: 453.61px;
   height: 744.8px;
 }
-.div874,
-.div875,
+.div870,
+.div871,
 .icon {
   position: absolute;
 }
-.div874 {
+.div870 {
   height: 100%;
   width: calc(100% - 907.2px);
   top: 0;
@@ -350,8 +350,8 @@
   height: 115.5px;
 }
 .about4,
-.contact-us5,
-.locate5 {
+.contact-us4,
+.locate6 {
   position: absolute;
   top: 32px;
   left: 419px;
@@ -360,49 +360,49 @@
   height: 53px;
 }
 .about4,
-.contact-us5 {
+.contact-us4 {
   left: 554px;
   width: 120px;
   height: 49px;
 }
-.contact-us5 {
+.contact-us4 {
   left: 682px;
   width: 207px;
   height: 45px;
 }
-.hostel-hopper6 {
+.hostel-hopper9 {
   display: inline-block;
   -webkit-text-stroke: 1px #4e5dc0;
 }
-.bunk-1-icon5,
-.group-wrapper739,
-.group-wrapper740,
-.hostel-hopper6 {
+.bunk-1-icon8,
+.group-wrapper1155,
+.group-wrapper1156,
+.hostel-hopper9 {
   position: absolute;
   top: 0;
   left: 0;
   width: 251px;
   height: 44px;
 }
-.bunk-1-icon5,
-.group-wrapper739 {
+.bunk-1-icon8,
+.group-wrapper1155 {
   top: 17px;
   left: 88px;
 }
-.bunk-1-icon5 {
+.bunk-1-icon8 {
   top: 11px;
   left: 24px;
   width: 50px;
   height: 50px;
 }
-.bunk-1-icon5,
-.pngwing-1-icon5 {
+.bunk-1-icon8,
+.pngwing-1-icon8 {
   object-fit: cover;
 }
 .desktop-6-inner,
-.group-wrapper697,
-.group-wrapper798,
-.pngwing-1-icon5 {
+.group-wrapper1113,
+.group-wrapper1214,
+.pngwing-1-icon8 {
   position: absolute;
   top: 0;
   left: 0;
@@ -410,7 +410,7 @@
   height: 80px;
 }
 .desktop-6-inner,
-.group-wrapper697 {
+.group-wrapper1113 {
   width: 339px;
 }
 .desktop-6-inner {
@@ -419,7 +419,7 @@
   font-size: var(--font-size-15xl);
   color: var(--color-slateblue);
 }
-.group-child5 {
+.group-child11 {
   position: absolute;
   top: 0;
   left: 0;
@@ -429,7 +429,7 @@
   width: 489px;
   height: 65px;
 }
-.search-for-files3 {
+.search-for-files5 {
   position: absolute;
   top: 20.55px;
   left: 32.94px;
@@ -438,21 +438,21 @@
   width: 364.58px;
   height: 23.9px;
 }
-.group-child6,
-.rectangle-parent2 {
+.group-child12,
+.rectangle-parent4 {
   position: absolute;
   top: 0;
   left: 0;
   width: 489px;
   height: 65px;
 }
-.group-child6 {
+.group-child12 {
   top: 10.04px;
   left: 418.03px;
   width: 47.01px;
   height: 44.93px;
 }
-.search8 {
+.search10 {
   position: absolute;
   top: 21px;
   left: 431px;
@@ -460,7 +460,7 @@
   font-family: var(--font-font-awesome-5-free);
   color: var(--color-white);
 }
-.group-parent10 {
+.group-parent17 {
   position: absolute;
   top: 14px;
   left: 903px;

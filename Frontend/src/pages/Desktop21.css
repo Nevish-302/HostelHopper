@@ -32,6 +32,6 @@
   overflow: hidden;
   text-align: left;
   font-size: var(--font-size-7xl);
-  color: var(--color-darkgray-200);
+  color: var(--color-darkgray-100);
   font-family: var(--font-inter);
 }
