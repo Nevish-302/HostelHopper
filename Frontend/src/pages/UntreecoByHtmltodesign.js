@@ -3,14 +3,14 @@ import "./UntreecoByHtmltodesign.css";
 const UntreecoByHtmltodesign = () => {
   return (
     <div className="untreeco-by-htmltodesign">
-      <div className="div">
-        <div className="div1">
-          <div className="sign-up">Sign up</div>
+      <div className="div874">
+        <div className="div875">
+          <div className="sign-up1">Sign up</div>
           <div className="create-your-account">
             Create your account in seconds.
           </div>
           <div className="form">
-            <div className="div2">
+            <div className="div876">
               <div className="inputremember" />
               <div className="i-agree-to-container">
                 <span className="i-agree-to-container1">
@@ -21,7 +21,7 @@ const UntreecoByHtmltodesign = () => {
                 </span>
               </div>
             </div>
-            <div className="button">
+            <div className="button64">
               <div className="create-an-account">Create an account</div>
             </div>
             <div className="already-a-member-container">
@@ -30,36 +30,36 @@ const UntreecoByHtmltodesign = () => {
                 <span className="terms-of-service">Log in</span>
               </span>
             </div>
-            <div className="div3">
+            <div className="div877">
               <div className="inputname">
-                <div className="divplaceholder">
+                <div className="divplaceholder1">
                   <div className="full-name">Full Name</div>
                 </div>
               </div>
               <div className="full-name1">Full Name</div>
             </div>
-            <div className="div4">
+            <div className="div878">
               <div className="inputname">
-                <div className="divplaceholder">
+                <div className="divplaceholder1">
                   <div className="infoexamplecom">info@example.com</div>
                 </div>
               </div>
               <div className="email-address">Email Address</div>
             </div>
-            <div className="div5">
+            <div className="div879">
               <div className="inputname">
-                <div className="divplaceholder">
+                <div className="divplaceholder1">
                   <div className="password">Password</div>
                 </div>
               </div>
               <div className="password1">Password</div>
-              <div className="span">
-                <div className="div6"></div>
+              <div className="span83">
+                <div className="div880"></div>
               </div>
             </div>
-            <div className="div7">
-              <div className="ul">
-                <div className="a">
+            <div className="div881">
+              <div className="ul17">
+                <div className="a31">
                   <div className="icon-googlesvg">
                     <img
                       className="icon-googlesvg1"
@@ -68,7 +68,7 @@ const UntreecoByHtmltodesign = () => {
                     />
                   </div>
                 </div>
-                <div className="a1">
+                <div className="a32">
                   <div className="icon-googlesvg">
                     <img
                       className="icon-googlesvg1"
@@ -77,7 +77,7 @@ const UntreecoByHtmltodesign = () => {
                     />
                   </div>
                 </div>
-                <div className="a2">
+                <div className="a33">
                   <div className="icon-googlesvg">
                     <img
                       className="icon-googlesvg1"
@@ -86,7 +86,7 @@ const UntreecoByHtmltodesign = () => {
                     />
                   </div>
                 </div>
-                <div className="a3">
+                <div className="a34">
                   <div className="icon-googlesvg">
                     <img
                       className="icon-googlesvg1"
@@ -98,7 +98,7 @@ const UntreecoByHtmltodesign = () => {
               </div>
               <div className="h4">
                 <div className="h4before" />
-                <div className="span1">
+                <div className="span84">
                   <div className="or-continue-with">or continue with</div>
                 </div>
               </div>
@@ -107,6 +107,335 @@ const UntreecoByHtmltodesign = () => {
         </div>
       </div>
       <img className="icon" alt="" src="../20944167-2@2x.png" />
+      <div className="desktop-6">
+        <div className="desktop-6-child" />
+        <img className="desktop-6-item" alt="" src="../group-1324.svg" />
+        <div className="locate5">Locate</div>
+        <div className="about4">About</div>
+        <div className="contact-us5">Contact us</div>
+        <div className="desktop-6-inner">
+          <div className="group-wrapper697">
+            <div className="group-wrapper697">
+              <div className="group-wrapper697">
+                <div className="group-wrapper697">
+                  <div className="group-wrapper697">
+                    <div className="group-wrapper697">
+                      <div className="group-wrapper697">
+                        <div className="group-wrapper697">
+                          <div className="group-wrapper697">
+                            <div className="group-wrapper697">
+                              <div className="group-wrapper697">
+                                <div className="group-wrapper697">
+                                  <div className="group-wrapper697">
+                                    <div className="group-wrapper697">
+                                      <div className="group-wrapper697">
+                                        <div className="group-wrapper697">
+                                          <div className="group-wrapper697">
+                                            <div className="group-wrapper697">
+                                              <div className="group-wrapper697">
+                                                <div className="group-wrapper697">
+                                                  <div className="group-wrapper697">
+                                                    <div className="group-wrapper697">
+                                                      <div className="group-wrapper697">
+                                                        <div className="group-wrapper697">
+                                                          <div className="group-wrapper697">
+                                                            <div className="group-wrapper697">
+                                                              <div className="group-wrapper697">
+                                                                <div className="group-wrapper697">
+                                                                  <div className="group-wrapper697">
+                                                                    <div className="group-wrapper697">
+                                                                      <div className="group-wrapper697">
+                                                                        <div className="group-wrapper697">
+                                                                          <div className="group-wrapper697">
+                                                                            <div className="group-wrapper697">
+                                                                              <div className="group-wrapper697">
+                                                                                <div className="group-wrapper697">
+                                                                                  <div className="group-wrapper697">
+                                                                                    <div className="group-wrapper697">
+                                                                                      <div className="group-wrapper697">
+                                                                                        <div className="group-wrapper697">
+                                                                                          <div className="group-wrapper697">
+                                                                                            <div className="group-wrapper697">
+                                                                                              <div className="group-wrapper697">
+                                                                                                <div className="group-wrapper739">
+                                                                                                  <div className="group-wrapper740">
+                                                                                                    <div className="group-wrapper740">
+                                                                                                      <div className="group-wrapper740">
+                                                                                                        <div className="group-wrapper740">
+                                                                                                          <div className="group-wrapper740">
+                                                                                                            <div className="group-wrapper740">
+                                                                                                              <div className="group-wrapper740">
+                                                                                                                <div className="group-wrapper740">
+                                                                                                                  <div className="group-wrapper740">
+                                                                                                                    <div className="group-wrapper740">
+                                                                                                                      <div className="group-wrapper740">
+                                                                                                                        <div className="group-wrapper740">
+                                                                                                                          <div className="group-wrapper740">
+                                                                                                                            <div className="group-wrapper740">
+                                                                                                                              <div className="group-wrapper740">
+                                                                                                                                <div className="group-wrapper740">
+                                                                                                                                  <div className="group-wrapper740">
+                                                                                                                                    <div className="group-wrapper740">
+                                                                                                                                      <div className="group-wrapper740">
+                                                                                                                                        <div className="group-wrapper740">
+                                                                                                                                          <div className="group-wrapper740">
+                                                                                                                                            <div className="group-wrapper740">
+                                                                                                                                              <div className="group-wrapper740">
+                                                                                                                                                <div className="group-wrapper740">
+                                                                                                                                                  <div className="group-wrapper740">
+                                                                                                                                                    <div className="group-wrapper740">
+                                                                                                                                                      <div className="group-wrapper740">
+                                                                                                                                                        <div className="group-wrapper740">
+                                                                                                                                                          <div className="group-wrapper740">
+                                                                                                                                                            <div className="group-wrapper740">
+                                                                                                                                                              <div className="group-wrapper740">
+                                                                                                                                                                <div className="group-wrapper740">
+                                                                                                                                                                  <div className="group-wrapper740">
+                                                                                                                                                                    <div className="group-wrapper740">
+                                                                                                                                                                      <div className="group-wrapper740">
+                                                                                                                                                                        <div className="group-wrapper740">
+                                                                                                                                                                          <div className="group-wrapper740">
+                                                                                                                                                                            <div className="group-wrapper740">
+                                                                                                                                                                              <div className="group-wrapper740">
+                                                                                                                                                                                <div className="group-wrapper740">
+                                                                                                                                                                                  <div className="group-wrapper740">
+                                                                                                                                                                                    <div className="group-wrapper740">
+                                                                                                                                                                                      <div className="group-wrapper740">
+                                                                                                                                                                                        <div className="group-wrapper740">
+                                                                                                                                                                                          <div className="group-wrapper740">
+                                                                                                                                                                                            <div className="group-wrapper740">
+                                                                                                                                                                                              <div className="group-wrapper740">
+                                                                                                                                                                                                <div className="group-wrapper740">
+                                                                                                                                                                                                  <div className="group-wrapper740">
+                                                                                                                                                                                                    <div className="group-wrapper740">
+                                                                                                                                                                                                      <div className="group-wrapper740">
+                                                                                                                                                                                                        <div className="group-wrapper740">
+                                                                                                                                                                                                          <div className="group-wrapper740">
+                                                                                                                                                                                                            <div className="group-wrapper740">
+                                                                                                                                                                                                              <div className="group-wrapper740">
+                                                                                                                                                                                                                <div className="group-wrapper740">
+                                                                                                                                                                                                                  <div className="group-wrapper740">
+                                                                                                                                                                                                                    <div className="group-wrapper740">
+                                                                                                                                                                                                                      <div className="group-wrapper740">
+                                                                                                                                                                                                                        <div className="hostel-hopper6">
+                                                                                                                                                                                                                          Hostel
+                                                                                                                                                                                                                          Hopper
+                                                                                                                                                                                                                        </div>
+                                                                                                                                                                                                                      </div>
+                                                                                                                                                                                                                    </div>
+                                                                                                                                                                                                                  </div>
+                                                                                                                                                                                                                </div>
+                                                                                                                                                                                                              </div>
+                                                                                                                                                                                                            </div>
+                                                                                                                                                                                                          </div>
+                                                                                                                                                                                                        </div>
+                                                                                                                                                                                                      </div>
+                                                                                                                                                                                                    </div>
+                                                                                                                                                                                                  </div>
+                                                                                                                                                                                                </div>
+                                                                                                                                                                                              </div>
+                                                                                                                                                                                            </div>
+                                                                                                                                                                                          </div>
+                                                                                                                                                                                        </div>
+                                                                                                                                                                                      </div>
+                                                                                                                                                                                    </div>
+                                                                                                                                                                                  </div>
+                                                                                                                                                                                </div>
+                                                                                                                                                                              </div>
+                                                                                                                                                                            </div>
+                                                                                                                                                                          </div>
+                                                                                                                                                                        </div>
+                                                                                                                                                                      </div>
+                                                                                                                                                                    </div>
+                                                                                                                                                                  </div>
+                                                                                                                                                                </div>
+                                                                                                                                                              </div>
+                                                                                                                                                            </div>
+                                                                                                                                                          </div>
+                                                                                                                                                        </div>
+                                                                                                                                                      </div>
+                                                                                                                                                    </div>
+                                                                                                                                                  </div>
+                                                                                                                                                </div>
+                                                                                                                                              </div>
+                                                                                                                                            </div>
+                                                                                                                                          </div>
+                                                                                                                                        </div>
+                                                                                                                                      </div>
+                                                                                                                                    </div>
+                                                                                                                                  </div>
+                                                                                                                                </div>
+                                                                                                                              </div>
+                                                                                                                            </div>
+                                                                                                                          </div>
+                                                                                                                        </div>
+                                                                                                                      </div>
+                                                                                                                    </div>
+                                                                                                                  </div>
+                                                                                                                </div>
+                                                                                                              </div>
+                                                                                                            </div>
+                                                                                                          </div>
+                                                                                                        </div>
+                                                                                                      </div>
+                                                                                                    </div>
+                                                                                                  </div>
+                                                                                                </div>
+                                                                                                <img
+                                                                                                  className="bunk-1-icon5"
+                                                                                                  alt=""
+                                                                                                  src="../bunk-1@2x.png"
+                                                                                                />
+                                                                                                <div className="group-wrapper798">
+                                                                                                  <div className="group-wrapper798">
+                                                                                                    <div className="group-wrapper798">
+                                                                                                      <div className="group-wrapper798">
+                                                                                                        <div className="group-wrapper798">
+                                                                                                          <div className="group-wrapper798">
+                                                                                                            <div className="group-wrapper798">
+                                                                                                              <div className="group-wrapper798">
+                                                                                                                <div className="group-wrapper798">
+                                                                                                                  <div className="group-wrapper798">
+                                                                                                                    <div className="group-wrapper798">
+                                                                                                                      <div className="group-wrapper798">
+                                                                                                                        <div className="group-wrapper798">
+                                                                                                                          <div className="group-wrapper798">
+                                                                                                                            <div className="group-wrapper798">
+                                                                                                                              <div className="group-wrapper798">
+                                                                                                                                <div className="group-wrapper798">
+                                                                                                                                  <div className="group-wrapper798">
+                                                                                                                                    <div className="group-wrapper798">
+                                                                                                                                      <div className="group-wrapper798">
+                                                                                                                                        <div className="group-wrapper798">
+                                                                                                                                          <div className="group-wrapper798">
+                                                                                                                                            <div className="group-wrapper798">
+                                                                                                                                              <div className="group-wrapper798">
+                                                                                                                                                <div className="group-wrapper798">
+                                                                                                                                                  <div className="group-wrapper798">
+                                                                                                                                                    <div className="group-wrapper798">
+                                                                                                                                                      <div className="group-wrapper798">
+                                                                                                                                                        <div className="group-wrapper798">
+                                                                                                                                                          <div className="group-wrapper798">
+                                                                                                                                                            <div className="group-wrapper798">
+                                                                                                                                                              <div className="group-wrapper798">
+                                                                                                                                                                <div className="group-wrapper798">
+                                                                                                                                                                  <div className="group-wrapper798">
+                                                                                                                                                                    <div className="group-wrapper798">
+                                                                                                                                                                      <div className="group-wrapper798">
+                                                                                                                                                                        <div className="group-wrapper798">
+                                                                                                                                                                          <div className="group-wrapper798">
+                                                                                                                                                                            <div className="group-wrapper798">
+                                                                                                                                                                              <div className="group-wrapper798">
+                                                                                                                                                                                <div className="group-wrapper798">
+                                                                                                                                                                                  <img
+                                                                                                                                                                                    className="pngwing-1-icon5"
+                                                                                                                                                                                    alt=""
+                                                                                                                                                                                    src="../pngwing-1@2x.png"
+                                                                                                                                                                                  />
+                                                                                                                                                                                </div>
+                                                                                                                                                                              </div>
+                                                                                                                                                                            </div>
+                                                                                                                                                                          </div>
+                                                                                                                                                                        </div>
+                                                                                                                                                                      </div>
+                                                                                                                                                                    </div>
+                                                                                                                                                                  </div>
+                                                                                                                                                                </div>
+                                                                                                                                                              </div>
+                                                                                                                                                            </div>
+                                                                                                                                                          </div>
+                                                                                                                                                        </div>
+                                                                                                                                                      </div>
+                                                                                                                                                    </div>
+                                                                                                                                                  </div>
+                                                                                                                                                </div>
+                                                                                                                                              </div>
+                                                                                                                                            </div>
+                                                                                                                                          </div>
+                                                                                                                                        </div>
+                                                                                                                                      </div>
+                                                                                                                                    </div>
+                                                                                                                                  </div>
+                                                                                                                                </div>
+                                                                                                                              </div>
+                                                                                                                            </div>
+                                                                                                                          </div>
+                                                                                                                        </div>
+                                                                                                                      </div>
+                                                                                                                    </div>
+                                                                                                                  </div>
+                                                                                                                </div>
+                                                                                                              </div>
+                                                                                                            </div>
+                                                                                                          </div>
+                                                                                                        </div>
+                                                                                                      </div>
+                                                                                                    </div>
+                                                                                                  </div>
+                                                                                                </div>
+                                                                                              </div>
+                                                                                            </div>
+                                                                                          </div>
+                                                                                        </div>
+                                                                                      </div>
+                                                                                    </div>
+                                                                                  </div>
+                                                                                </div>
+                                                                              </div>
+                                                                            </div>
+                                                                          </div>
+                                                                        </div>
+                                                                      </div>
+                                                                    </div>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="group-parent10">
+          <div className="rectangle-parent2">
+            <div className="group-child5" />
+            <div className="search-for-files3">
+              Search for files, plugins, and creators
+            </div>
+          </div>
+          <img className="group-child6" alt="" src="../group-154.svg" />
+          <div className="search8">search</div>
+        </div>
+        <img className="desktop-6-child1" alt="" src="../ellipse-13@2x.png" />
+        <div className="yashu9084">Yashu9084</div>
+        <div className="desktop-6-child2" />
+        <div className="desktop-6-child3" />
+        <b className="change-password">Change Password</b>
+        <b className="log-out">Log Out</b>
+        <div className="current-residency">Current Residency</div>
+        <div className="oops-no-residency">Oops! No Residency found</div>
+      </div>
     </div>
   );
 };

@@ -1,53 +1,33 @@
-import { useCallback } from "react";
-import { useNavigate } from "react-router-dom";
 import "./Desktop71.css";
 
 const Desktop71 = () => {
-  const navigate = useNavigate();
-
-  const onRectangle12Click = useCallback(() => {
-    navigate("/iframe");
-  }, [navigate]);
-
-  const onSignInTextClick = useCallback(() => {
-    navigate("/iframe");
-  }, [navigate]);
-
-  const onRectangle13Click = useCallback(() => {
-    navigate("/untreeco-by-htmltodesign-free-version-20022023-101231-gmt530");
-  }, [navigate]);
-
-  const onSignUpTextClick = useCallback(() => {
-    navigate("/untreeco-by-htmltodesign-free-version-20022023-101231-gmt530");
-  }, [navigate]);
-
   return (
     <div className="desktop-71">
-      <div className="desktop-22">
-        <div className="desktop-2-child13" />
+      <div className="desktop-23">
         <div className="desktop-2-child14" />
+        <div className="desktop-2-child15" />
         <div className="explore-our-top1">Explore Our Top Cities</div>
         <div className="near-me2">Near me</div>
-        <div className="desktop-2-child15" />
+        <div className="desktop-2-child16" />
         <div className="enter-city-namearea1">
           Enter city name,area etc.....
         </div>
-        <div className="desktop-2-child16" />
-        <img className="desktop-2-child17" alt="" src="../ellipse-1@2x.png" />
+        <div className="desktop-2-child17" />
         <img className="desktop-2-child18" alt="" src="../ellipse-1@2x.png" />
         <img className="desktop-2-child19" alt="" src="../ellipse-1@2x.png" />
-        <img className="desktop-2-child20" alt="" src="../ellipse-8@2x.png" />
+        <img className="desktop-2-child20" alt="" src="../ellipse-1@2x.png" />
         <img className="desktop-2-child21" alt="" src="../ellipse-8@2x.png" />
-        <img className="desktop-2-child22" alt="" src="../ellipse-1@2x.png" />
-        <img className="desktop-2-child23" alt="" src="../ellipse-8@2x.png" />
-        <img className="desktop-2-child24" alt="" src="../ellipse-1@2x.png" />
-        <img className="desktop-2-child25" alt="" src="../ellipse-8@2x.png" />
+        <img className="desktop-2-child22" alt="" src="../ellipse-8@2x.png" />
+        <img className="desktop-2-child23" alt="" src="../ellipse-1@2x.png" />
+        <img className="desktop-2-child24" alt="" src="../ellipse-8@2x.png" />
+        <img className="desktop-2-child25" alt="" src="../ellipse-1@2x.png" />
         <img className="desktop-2-child26" alt="" src="../ellipse-8@2x.png" />
         <img className="desktop-2-child27" alt="" src="../ellipse-8@2x.png" />
-        <img className="desktop-2-child28" alt="" src="../ellipse-1@2x.png" />
+        <img className="desktop-2-child28" alt="" src="../ellipse-8@2x.png" />
+        <img className="desktop-2-child29" alt="" src="../ellipse-1@2x.png" />
         <img className="pin-icon1" alt="" src="../pin@2x.png" />
         <div className="image-1-container">
-          <img className="image-1-icon1" alt="" src="../image-1@2x.png" />
+          <img className="image-1-icon3" alt="" src="../image-11@2x.png" />
         </div>
         <div className="near-me3">Near me</div>
         <div className="lucknow12">Lucknow</div>
@@ -118,110 +98,110 @@ const Desktop71 = () => {
       </div>
       <div className="desktop-41">
         <div className="desktop-4-inner1">
-          <div className="group-wrapper696">
-            <div className="group-wrapper696">
-              <div className="group-wrapper696">
-                <div className="group-wrapper696">
-                  <div className="group-wrapper696">
-                    <div className="group-wrapper696">
-                      <div className="group-wrapper696">
-                        <div className="group-wrapper696">
-                          <div className="group-wrapper696">
-                            <div className="group-wrapper696">
-                              <div className="group-wrapper696">
-                                <div className="group-wrapper696">
-                                  <div className="group-wrapper696">
-                                    <div className="group-wrapper696">
-                                      <div className="group-wrapper696">
-                                        <div className="group-wrapper696">
-                                          <div className="group-wrapper696">
-                                            <div className="group-wrapper696">
-                                              <div className="group-wrapper696">
-                                                <div className="group-wrapper696">
-                                                  <div className="group-wrapper696">
-                                                    <div className="group-wrapper696">
-                                                      <div className="group-wrapper696">
-                                                        <div className="group-wrapper696">
-                                                          <div className="group-wrapper696">
-                                                            <div className="group-wrapper696">
-                                                              <div className="group-wrapper696">
-                                                                <div className="group-wrapper696">
-                                                                  <div className="group-wrapper696">
-                                                                    <div className="group-wrapper696">
-                                                                      <div className="group-wrapper696">
-                                                                        <div className="group-wrapper696">
-                                                                          <div className="group-wrapper696">
-                                                                            <div className="group-wrapper696">
-                                                                              <div className="group-wrapper696">
-                                                                                <div className="group-wrapper696">
-                                                                                  <div className="group-wrapper696">
-                                                                                    <div className="group-wrapper696">
-                                                                                      <div className="group-wrapper696">
-                                                                                        <div className="group-wrapper696">
-                                                                                          <div className="group-wrapper696">
-                                                                                            <div className="group-wrapper696">
-                                                                                              <div className="group-wrapper696">
-                                                                                                <div className="group-wrapper738">
-                                                                                                  <div className="group-wrapper739">
-                                                                                                    <div className="group-wrapper739">
-                                                                                                      <div className="group-wrapper739">
-                                                                                                        <div className="group-wrapper739">
-                                                                                                          <div className="group-wrapper739">
-                                                                                                            <div className="group-wrapper739">
-                                                                                                              <div className="group-wrapper739">
-                                                                                                                <div className="group-wrapper739">
-                                                                                                                  <div className="group-wrapper739">
-                                                                                                                    <div className="group-wrapper739">
-                                                                                                                      <div className="group-wrapper739">
-                                                                                                                        <div className="group-wrapper739">
-                                                                                                                          <div className="group-wrapper739">
-                                                                                                                            <div className="group-wrapper739">
-                                                                                                                              <div className="group-wrapper739">
-                                                                                                                                <div className="group-wrapper739">
-                                                                                                                                  <div className="group-wrapper739">
-                                                                                                                                    <div className="group-wrapper739">
-                                                                                                                                      <div className="group-wrapper739">
-                                                                                                                                        <div className="group-wrapper739">
-                                                                                                                                          <div className="group-wrapper739">
-                                                                                                                                            <div className="group-wrapper739">
-                                                                                                                                              <div className="group-wrapper739">
-                                                                                                                                                <div className="group-wrapper739">
-                                                                                                                                                  <div className="group-wrapper739">
-                                                                                                                                                    <div className="group-wrapper739">
-                                                                                                                                                      <div className="group-wrapper739">
-                                                                                                                                                        <div className="group-wrapper739">
-                                                                                                                                                          <div className="group-wrapper739">
-                                                                                                                                                            <div className="group-wrapper739">
-                                                                                                                                                              <div className="group-wrapper739">
-                                                                                                                                                                <div className="group-wrapper739">
-                                                                                                                                                                  <div className="group-wrapper739">
-                                                                                                                                                                    <div className="group-wrapper739">
-                                                                                                                                                                      <div className="group-wrapper739">
-                                                                                                                                                                        <div className="group-wrapper739">
-                                                                                                                                                                          <div className="group-wrapper739">
-                                                                                                                                                                            <div className="group-wrapper739">
-                                                                                                                                                                              <div className="group-wrapper739">
-                                                                                                                                                                                <div className="group-wrapper739">
-                                                                                                                                                                                  <div className="group-wrapper739">
-                                                                                                                                                                                    <div className="group-wrapper739">
-                                                                                                                                                                                      <div className="group-wrapper739">
-                                                                                                                                                                                        <div className="group-wrapper739">
-                                                                                                                                                                                          <div className="group-wrapper739">
-                                                                                                                                                                                            <div className="group-wrapper739">
-                                                                                                                                                                                              <div className="group-wrapper739">
-                                                                                                                                                                                                <div className="group-wrapper739">
-                                                                                                                                                                                                  <div className="group-wrapper739">
-                                                                                                                                                                                                    <div className="group-wrapper739">
-                                                                                                                                                                                                      <div className="group-wrapper739">
-                                                                                                                                                                                                        <div className="group-wrapper739">
-                                                                                                                                                                                                          <div className="group-wrapper739">
-                                                                                                                                                                                                            <div className="group-wrapper739">
-                                                                                                                                                                                                              <div className="group-wrapper739">
-                                                                                                                                                                                                                <div className="group-wrapper739">
-                                                                                                                                                                                                                  <div className="group-wrapper739">
-                                                                                                                                                                                                                    <div className="group-wrapper739">
-                                                                                                                                                                                                                      <div className="group-wrapper739">
-                                                                                                                                                                                                                        <div className="hostel-hopper6">
+          <div className="group-wrapper1120">
+            <div className="group-wrapper1120">
+              <div className="group-wrapper1120">
+                <div className="group-wrapper1120">
+                  <div className="group-wrapper1120">
+                    <div className="group-wrapper1120">
+                      <div className="group-wrapper1120">
+                        <div className="group-wrapper1120">
+                          <div className="group-wrapper1120">
+                            <div className="group-wrapper1120">
+                              <div className="group-wrapper1120">
+                                <div className="group-wrapper1120">
+                                  <div className="group-wrapper1120">
+                                    <div className="group-wrapper1120">
+                                      <div className="group-wrapper1120">
+                                        <div className="group-wrapper1120">
+                                          <div className="group-wrapper1120">
+                                            <div className="group-wrapper1120">
+                                              <div className="group-wrapper1120">
+                                                <div className="group-wrapper1120">
+                                                  <div className="group-wrapper1120">
+                                                    <div className="group-wrapper1120">
+                                                      <div className="group-wrapper1120">
+                                                        <div className="group-wrapper1120">
+                                                          <div className="group-wrapper1120">
+                                                            <div className="group-wrapper1120">
+                                                              <div className="group-wrapper1120">
+                                                                <div className="group-wrapper1120">
+                                                                  <div className="group-wrapper1120">
+                                                                    <div className="group-wrapper1120">
+                                                                      <div className="group-wrapper1120">
+                                                                        <div className="group-wrapper1120">
+                                                                          <div className="group-wrapper1120">
+                                                                            <div className="group-wrapper1120">
+                                                                              <div className="group-wrapper1120">
+                                                                                <div className="group-wrapper1120">
+                                                                                  <div className="group-wrapper1120">
+                                                                                    <div className="group-wrapper1120">
+                                                                                      <div className="group-wrapper1120">
+                                                                                        <div className="group-wrapper1120">
+                                                                                          <div className="group-wrapper1120">
+                                                                                            <div className="group-wrapper1120">
+                                                                                              <div className="group-wrapper1120">
+                                                                                                <div className="group-wrapper1162">
+                                                                                                  <div className="group-wrapper1163">
+                                                                                                    <div className="group-wrapper1163">
+                                                                                                      <div className="group-wrapper1163">
+                                                                                                        <div className="group-wrapper1163">
+                                                                                                          <div className="group-wrapper1163">
+                                                                                                            <div className="group-wrapper1163">
+                                                                                                              <div className="group-wrapper1163">
+                                                                                                                <div className="group-wrapper1163">
+                                                                                                                  <div className="group-wrapper1163">
+                                                                                                                    <div className="group-wrapper1163">
+                                                                                                                      <div className="group-wrapper1163">
+                                                                                                                        <div className="group-wrapper1163">
+                                                                                                                          <div className="group-wrapper1163">
+                                                                                                                            <div className="group-wrapper1163">
+                                                                                                                              <div className="group-wrapper1163">
+                                                                                                                                <div className="group-wrapper1163">
+                                                                                                                                  <div className="group-wrapper1163">
+                                                                                                                                    <div className="group-wrapper1163">
+                                                                                                                                      <div className="group-wrapper1163">
+                                                                                                                                        <div className="group-wrapper1163">
+                                                                                                                                          <div className="group-wrapper1163">
+                                                                                                                                            <div className="group-wrapper1163">
+                                                                                                                                              <div className="group-wrapper1163">
+                                                                                                                                                <div className="group-wrapper1163">
+                                                                                                                                                  <div className="group-wrapper1163">
+                                                                                                                                                    <div className="group-wrapper1163">
+                                                                                                                                                      <div className="group-wrapper1163">
+                                                                                                                                                        <div className="group-wrapper1163">
+                                                                                                                                                          <div className="group-wrapper1163">
+                                                                                                                                                            <div className="group-wrapper1163">
+                                                                                                                                                              <div className="group-wrapper1163">
+                                                                                                                                                                <div className="group-wrapper1163">
+                                                                                                                                                                  <div className="group-wrapper1163">
+                                                                                                                                                                    <div className="group-wrapper1163">
+                                                                                                                                                                      <div className="group-wrapper1163">
+                                                                                                                                                                        <div className="group-wrapper1163">
+                                                                                                                                                                          <div className="group-wrapper1163">
+                                                                                                                                                                            <div className="group-wrapper1163">
+                                                                                                                                                                              <div className="group-wrapper1163">
+                                                                                                                                                                                <div className="group-wrapper1163">
+                                                                                                                                                                                  <div className="group-wrapper1163">
+                                                                                                                                                                                    <div className="group-wrapper1163">
+                                                                                                                                                                                      <div className="group-wrapper1163">
+                                                                                                                                                                                        <div className="group-wrapper1163">
+                                                                                                                                                                                          <div className="group-wrapper1163">
+                                                                                                                                                                                            <div className="group-wrapper1163">
+                                                                                                                                                                                              <div className="group-wrapper1163">
+                                                                                                                                                                                                <div className="group-wrapper1163">
+                                                                                                                                                                                                  <div className="group-wrapper1163">
+                                                                                                                                                                                                    <div className="group-wrapper1163">
+                                                                                                                                                                                                      <div className="group-wrapper1163">
+                                                                                                                                                                                                        <div className="group-wrapper1163">
+                                                                                                                                                                                                          <div className="group-wrapper1163">
+                                                                                                                                                                                                            <div className="group-wrapper1163">
+                                                                                                                                                                                                              <div className="group-wrapper1163">
+                                                                                                                                                                                                                <div className="group-wrapper1163">
+                                                                                                                                                                                                                  <div className="group-wrapper1163">
+                                                                                                                                                                                                                    <div className="group-wrapper1163">
+                                                                                                                                                                                                                      <div className="group-wrapper1163">
+                                                                                                                                                                                                                        <div className="hostel-hopper9">
                                                                                                                                                                                                                           Hostel
                                                                                                                                                                                                                           Hopper
                                                                                                                                                                                                                         </div>
@@ -286,53 +266,53 @@ const Desktop71 = () => {
                                                                                                   </div>
                                                                                                 </div>
                                                                                                 <img
-                                                                                                  className="bunk-1-icon5"
+                                                                                                  className="bunk-1-icon8"
                                                                                                   alt=""
                                                                                                   src="../bunk-1@2x.png"
                                                                                                 />
-                                                                                                <div className="group-wrapper797">
-                                                                                                  <div className="group-wrapper797">
-                                                                                                    <div className="group-wrapper797">
-                                                                                                      <div className="group-wrapper797">
-                                                                                                        <div className="group-wrapper797">
-                                                                                                          <div className="group-wrapper797">
-                                                                                                            <div className="group-wrapper797">
-                                                                                                              <div className="group-wrapper797">
-                                                                                                                <div className="group-wrapper797">
-                                                                                                                  <div className="group-wrapper797">
-                                                                                                                    <div className="group-wrapper797">
-                                                                                                                      <div className="group-wrapper797">
-                                                                                                                        <div className="group-wrapper797">
-                                                                                                                          <div className="group-wrapper797">
-                                                                                                                            <div className="group-wrapper797">
-                                                                                                                              <div className="group-wrapper797">
-                                                                                                                                <div className="group-wrapper797">
-                                                                                                                                  <div className="group-wrapper797">
-                                                                                                                                    <div className="group-wrapper797">
-                                                                                                                                      <div className="group-wrapper797">
-                                                                                                                                        <div className="group-wrapper797">
-                                                                                                                                          <div className="group-wrapper797">
-                                                                                                                                            <div className="group-wrapper797">
-                                                                                                                                              <div className="group-wrapper797">
-                                                                                                                                                <div className="group-wrapper797">
-                                                                                                                                                  <div className="group-wrapper797">
-                                                                                                                                                    <div className="group-wrapper797">
-                                                                                                                                                      <div className="group-wrapper797">
-                                                                                                                                                        <div className="group-wrapper797">
-                                                                                                                                                          <div className="group-wrapper797">
-                                                                                                                                                            <div className="group-wrapper797">
-                                                                                                                                                              <div className="group-wrapper797">
-                                                                                                                                                                <div className="group-wrapper797">
-                                                                                                                                                                  <div className="group-wrapper797">
-                                                                                                                                                                    <div className="group-wrapper797">
-                                                                                                                                                                      <div className="group-wrapper797">
-                                                                                                                                                                        <div className="group-wrapper797">
-                                                                                                                                                                          <div className="group-wrapper797">
-                                                                                                                                                                            <div className="group-wrapper797">
-                                                                                                                                                                              <div className="group-wrapper797">
-                                                                                                                                                                                <div className="group-wrapper797">
+                                                                                                <div className="group-wrapper1221">
+                                                                                                  <div className="group-wrapper1221">
+                                                                                                    <div className="group-wrapper1221">
+                                                                                                      <div className="group-wrapper1221">
+                                                                                                        <div className="group-wrapper1221">
+                                                                                                          <div className="group-wrapper1221">
+                                                                                                            <div className="group-wrapper1221">
+                                                                                                              <div className="group-wrapper1221">
+                                                                                                                <div className="group-wrapper1221">
+                                                                                                                  <div className="group-wrapper1221">
+                                                                                                                    <div className="group-wrapper1221">
+                                                                                                                      <div className="group-wrapper1221">
+                                                                                                                        <div className="group-wrapper1221">
+                                                                                                                          <div className="group-wrapper1221">
+                                                                                                                            <div className="group-wrapper1221">
+                                                                                                                              <div className="group-wrapper1221">
+                                                                                                                                <div className="group-wrapper1221">
+                                                                                                                                  <div className="group-wrapper1221">
+                                                                                                                                    <div className="group-wrapper1221">
+                                                                                                                                      <div className="group-wrapper1221">
+                                                                                                                                        <div className="group-wrapper1221">
+                                                                                                                                          <div className="group-wrapper1221">
+                                                                                                                                            <div className="group-wrapper1221">
+                                                                                                                                              <div className="group-wrapper1221">
+                                                                                                                                                <div className="group-wrapper1221">
+                                                                                                                                                  <div className="group-wrapper1221">
+                                                                                                                                                    <div className="group-wrapper1221">
+                                                                                                                                                      <div className="group-wrapper1221">
+                                                                                                                                                        <div className="group-wrapper1221">
+                                                                                                                                                          <div className="group-wrapper1221">
+                                                                                                                                                            <div className="group-wrapper1221">
+                                                                                                                                                              <div className="group-wrapper1221">
+                                                                                                                                                                <div className="group-wrapper1221">
+                                                                                                                                                                  <div className="group-wrapper1221">
+                                                                                                                                                                    <div className="group-wrapper1221">
+                                                                                                                                                                      <div className="group-wrapper1221">
+                                                                                                                                                                        <div className="group-wrapper1221">
+                                                                                                                                                                          <div className="group-wrapper1221">
+                                                                                                                                                                            <div className="group-wrapper1221">
+                                                                                                                                                                              <div className="group-wrapper1221">
+                                                                                                                                                                                <div className="group-wrapper1221">
                                                                                                                                                                                   <img
-                                                                                                                                                                                    className="pngwing-1-icon5"
+                                                                                                                                                                                    className="pngwing-1-icon8"
                                                                                                                                                                                     alt=""
                                                                                                                                                                                     src="../pngwing-1@2x.png"
                                                                                                                                                                                   />
@@ -442,13 +422,13 @@ const Desktop71 = () => {
         <img className="image-2-icon1" alt="" src="../image-2@2x.png" />
         <img className="image-3-icon1" alt="" src="../image-3@2x.png" />
         <img className="image-4-icon1" alt="" src="../image-4@2x.png" />
-        <div className="div890">
+        <div className="div906">
           <span>+</span>
-          <span className="span87">91123456789</span>
+          <span className="span91">91123456789</span>
         </div>
-        <div className="div891">
+        <div className="div907">
           <span>+</span>
-          <span className="span88">91123456789</span>
+          <span className="span92">91123456789</span>
         </div>
         <div className="timings-9001">TIMINGS : 9:00 AM TO 6:00 PM</div>
         <img className="image-5-icon1" alt="" src="../image-5@2x.png" />
@@ -469,8 +449,8 @@ const Desktop71 = () => {
         <div className="location3">LOCATION</div>
         <div className="locate-about-us-container1">
           <ul className="locate-about-us-contacts1">
-            <li className="locate5">Locate</li>
-            <li className="locate5">About Us</li>
+            <li className="locate8">Locate</li>
+            <li className="locate8">About Us</li>
             <li>Contacts</li>
           </ul>
         </div>
@@ -486,7 +466,7 @@ const Desktop71 = () => {
         <div className="delhi-bangalore-mumbai-container1">
           <p className="receive-a-call1">&nbsp;</p>
           <ul className="locate-about-us-contacts1">
-            <li className="locate5">
+            <li className="locate8">
               <a
                 className="delhi4"
                 href="https://www.your-space.in/delhi/"
@@ -495,7 +475,7 @@ const Desktop71 = () => {
                 <span className="delhi5">Delhi</span>
               </a>
             </li>
-            <li className="locate5">
+            <li className="locate8">
               <a
                 className="bangalore4"
                 href="https://www.your-space.in/bangalore/"
@@ -504,7 +484,7 @@ const Desktop71 = () => {
                 <span className="delhi5">Bangalore</span>
               </a>
             </li>
-            <li className="locate5">
+            <li className="locate8">
               <a
                 className="bangalore4"
                 href="https://www.your-space.in/mumbai/"
@@ -513,7 +493,7 @@ const Desktop71 = () => {
                 <span className="delhi5">Mumbai</span>
               </a>
             </li>
-            <li className="locate5">
+            <li className="locate8">
               <a
                 className="bangalore4"
                 href="https://www.your-space.in/pune/"
@@ -522,7 +502,7 @@ const Desktop71 = () => {
                 <span className="delhi5">Pune</span>
               </a>
             </li>
-            <li className="locate5">
+            <li className="locate8">
               <a
                 className="bangalore4"
                 href="https://www.your-space.in/ahmedabad/"
@@ -531,7 +511,7 @@ const Desktop71 = () => {
                 <span className="delhi5">Ahmedabad</span>
               </a>
             </li>
-            <li className="locate5">
+            <li className="locate8">
               <a
                 className="bangalore4"
                 href="https://www.your-space.in/dehradun/"
@@ -540,7 +520,7 @@ const Desktop71 = () => {
                 <span className="delhi5">Dehradun</span>
               </a>
             </li>
-            <li className="locate5">
+            <li className="locate8">
               <a
                 className="bangalore4"
                 href="https://www.your-space.in/noida/"
@@ -549,7 +529,7 @@ const Desktop71 = () => {
                 <span className="delhi5">Noida</span>
               </a>
             </li>
-            <li className="locate5">
+            <li className="locate8">
               <a
                 className="bangalore4"
                 href="https://www.your-space.in/indore/"
@@ -558,7 +538,7 @@ const Desktop71 = () => {
                 <span className="delhi5">Indore</span>
               </a>
             </li>
-            <li className="locate5">
+            <li className="locate8">
               <a
                 className="bangalore4"
                 href="https://www.your-space.in/jaipur/"
@@ -582,29 +562,25 @@ const Desktop71 = () => {
         <div className="menu1">MENU</div>
         <div className="privacy-policy-terms-container1">
           <ul className="locate-about-us-contacts1">
-            <li className="locate5">Privacy Policy</li>
-            <li className="locate5">{`Terms & Conditions`}</li>
+            <li className="locate8">Privacy Policy</li>
+            <li className="locate8">{`Terms & Conditions`}</li>
             <li>Refund Policy</li>
           </ul>
         </div>
         <div className="desktop-4-child11" />
         <div className="services2">SERVICES</div>
       </div>
-      <a className="desktop-12">
+      <a className="desktop-13">
         <div className="desktop-51">
-          <img className="desktop-5-child6" alt="" src="../group-1324.svg" />
-          <div className="locate6">Locate</div>
-          <div className="about4">About</div>
-          <div className="contact-us5">Contact us</div>
-          <div className="desktop-5-child7" onClick={onRectangle12Click} />
-          <div className="sign-in3" onClick={onSignInTextClick}>
-            Sign In
-          </div>
-          <div className="desktop-5-child8" onClick={onRectangle13Click} />
-          <div className="sign-up3" onClick={onSignUpTextClick}>
-            Sign Up
-          </div>
-          <div className="hostel-hopper7">Hostel Hopper</div>
+          <img className="desktop-5-child6" alt="" src="../group-1327.svg" />
+          <div className="locate9">Locate</div>
+          <div className="about7">About</div>
+          <div className="contact-us8">Contact us</div>
+          <div className="desktop-5-child7" />
+          <div className="sign-in3">Sign In</div>
+          <div className="desktop-5-child8" />
+          <div className="sign-up5">Sign Up</div>
+          <div className="hostel-hopper10">Hostel Hopper</div>
           <div className="simplify-your-accommodation-container1">
             <p className="receive-a-call1">Simplify your accommodation</p>
             <p className="search-with1">search with</p>
@@ -616,114 +592,114 @@ const Desktop71 = () => {
           <img className="desktop-5-child13" alt="" src="../ellipse-71.svg" />
           <div className="happy-hoppers2">
             <p className="receive-a-call1">
-              <span className="span89">2000+</span>
+              <span className="span93">2000+</span>
             </p>
             <p className="search-with1">
               <span>Happy Hoppers</span>
             </p>
           </div>
           <div className="desktop-5-inner2">
-            <div className="group-wrapper696">
-              <div className="group-wrapper696">
-                <div className="group-wrapper696">
-                  <div className="group-wrapper696">
-                    <div className="group-wrapper696">
-                      <div className="group-wrapper696">
-                        <div className="group-wrapper696">
-                          <div className="group-wrapper696">
-                            <div className="group-wrapper696">
-                              <div className="group-wrapper696">
-                                <div className="group-wrapper696">
-                                  <div className="group-wrapper696">
-                                    <div className="group-wrapper696">
-                                      <div className="group-wrapper696">
-                                        <div className="group-wrapper696">
-                                          <div className="group-wrapper696">
-                                            <div className="group-wrapper696">
-                                              <div className="group-wrapper696">
-                                                <div className="group-wrapper696">
-                                                  <div className="group-wrapper696">
-                                                    <div className="group-wrapper696">
-                                                      <div className="group-wrapper696">
-                                                        <div className="group-wrapper696">
-                                                          <div className="group-wrapper696">
-                                                            <div className="group-wrapper696">
-                                                              <div className="group-wrapper696">
-                                                                <div className="group-wrapper696">
-                                                                  <div className="group-wrapper696">
-                                                                    <div className="group-wrapper696">
-                                                                      <div className="group-wrapper696">
-                                                                        <div className="group-wrapper696">
-                                                                          <div className="group-wrapper696">
-                                                                            <div className="group-wrapper696">
-                                                                              <div className="group-wrapper696">
-                                                                                <div className="group-wrapper696">
-                                                                                  <div className="group-wrapper696">
-                                                                                    <div className="group-wrapper696">
-                                                                                      <div className="group-wrapper696">
-                                                                                        <div className="group-wrapper696">
-                                                                                          <div className="group-wrapper696">
-                                                                                            <div className="group-wrapper738">
-                                                                                              <div className="group-wrapper739">
-                                                                                                <div className="group-wrapper739">
-                                                                                                  <div className="group-wrapper739">
-                                                                                                    <div className="group-wrapper739">
-                                                                                                      <div className="group-wrapper739">
-                                                                                                        <div className="group-wrapper739">
-                                                                                                          <div className="group-wrapper739">
-                                                                                                            <div className="group-wrapper739">
-                                                                                                              <div className="group-wrapper739">
-                                                                                                                <div className="group-wrapper739">
-                                                                                                                  <div className="group-wrapper739">
-                                                                                                                    <div className="group-wrapper739">
-                                                                                                                      <div className="group-wrapper739">
-                                                                                                                        <div className="group-wrapper739">
-                                                                                                                          <div className="group-wrapper739">
-                                                                                                                            <div className="group-wrapper739">
-                                                                                                                              <div className="group-wrapper739">
-                                                                                                                                <div className="group-wrapper739">
-                                                                                                                                  <div className="group-wrapper739">
-                                                                                                                                    <div className="group-wrapper739">
-                                                                                                                                      <div className="group-wrapper739">
-                                                                                                                                        <div className="group-wrapper739">
-                                                                                                                                          <div className="group-wrapper739">
-                                                                                                                                            <div className="group-wrapper739">
-                                                                                                                                              <div className="group-wrapper739">
-                                                                                                                                                <div className="group-wrapper739">
-                                                                                                                                                  <div className="group-wrapper739">
-                                                                                                                                                    <div className="group-wrapper739">
-                                                                                                                                                      <div className="group-wrapper739">
-                                                                                                                                                        <div className="group-wrapper739">
-                                                                                                                                                          <div className="group-wrapper739">
-                                                                                                                                                            <div className="group-wrapper739">
-                                                                                                                                                              <div className="group-wrapper739">
-                                                                                                                                                                <div className="group-wrapper739">
-                                                                                                                                                                  <div className="group-wrapper739">
-                                                                                                                                                                    <div className="group-wrapper739">
-                                                                                                                                                                      <div className="group-wrapper739">
-                                                                                                                                                                        <div className="group-wrapper739">
-                                                                                                                                                                          <div className="group-wrapper739">
-                                                                                                                                                                            <div className="group-wrapper739">
-                                                                                                                                                                              <div className="group-wrapper739">
-                                                                                                                                                                                <div className="group-wrapper739">
-                                                                                                                                                                                  <div className="group-wrapper739">
-                                                                                                                                                                                    <div className="group-wrapper739">
-                                                                                                                                                                                      <div className="group-wrapper739">
-                                                                                                                                                                                        <div className="group-wrapper739">
-                                                                                                                                                                                          <div className="group-wrapper739">
-                                                                                                                                                                                            <div className="group-wrapper739">
-                                                                                                                                                                                              <div className="group-wrapper739">
-                                                                                                                                                                                                <div className="group-wrapper739">
-                                                                                                                                                                                                  <div className="group-wrapper739">
-                                                                                                                                                                                                    <div className="group-wrapper739">
-                                                                                                                                                                                                      <div className="group-wrapper739">
-                                                                                                                                                                                                        <div className="group-wrapper739">
-                                                                                                                                                                                                          <div className="group-wrapper739">
-                                                                                                                                                                                                            <div className="group-wrapper739">
-                                                                                                                                                                                                              <div className="group-wrapper739">
-                                                                                                                                                                                                                <div className="group-wrapper739">
-                                                                                                                                                                                                                  <div className="group-wrapper739">
-                                                                                                                                                                                                                    <div className="hostel-hopper8">
+            <div className="group-wrapper1120">
+              <div className="group-wrapper1120">
+                <div className="group-wrapper1120">
+                  <div className="group-wrapper1120">
+                    <div className="group-wrapper1120">
+                      <div className="group-wrapper1120">
+                        <div className="group-wrapper1120">
+                          <div className="group-wrapper1120">
+                            <div className="group-wrapper1120">
+                              <div className="group-wrapper1120">
+                                <div className="group-wrapper1120">
+                                  <div className="group-wrapper1120">
+                                    <div className="group-wrapper1120">
+                                      <div className="group-wrapper1120">
+                                        <div className="group-wrapper1120">
+                                          <div className="group-wrapper1120">
+                                            <div className="group-wrapper1120">
+                                              <div className="group-wrapper1120">
+                                                <div className="group-wrapper1120">
+                                                  <div className="group-wrapper1120">
+                                                    <div className="group-wrapper1120">
+                                                      <div className="group-wrapper1120">
+                                                        <div className="group-wrapper1120">
+                                                          <div className="group-wrapper1120">
+                                                            <div className="group-wrapper1120">
+                                                              <div className="group-wrapper1120">
+                                                                <div className="group-wrapper1120">
+                                                                  <div className="group-wrapper1120">
+                                                                    <div className="group-wrapper1120">
+                                                                      <div className="group-wrapper1120">
+                                                                        <div className="group-wrapper1120">
+                                                                          <div className="group-wrapper1120">
+                                                                            <div className="group-wrapper1120">
+                                                                              <div className="group-wrapper1120">
+                                                                                <div className="group-wrapper1120">
+                                                                                  <div className="group-wrapper1120">
+                                                                                    <div className="group-wrapper1120">
+                                                                                      <div className="group-wrapper1120">
+                                                                                        <div className="group-wrapper1120">
+                                                                                          <div className="group-wrapper1120">
+                                                                                            <div className="group-wrapper1162">
+                                                                                              <div className="group-wrapper1163">
+                                                                                                <div className="group-wrapper1163">
+                                                                                                  <div className="group-wrapper1163">
+                                                                                                    <div className="group-wrapper1163">
+                                                                                                      <div className="group-wrapper1163">
+                                                                                                        <div className="group-wrapper1163">
+                                                                                                          <div className="group-wrapper1163">
+                                                                                                            <div className="group-wrapper1163">
+                                                                                                              <div className="group-wrapper1163">
+                                                                                                                <div className="group-wrapper1163">
+                                                                                                                  <div className="group-wrapper1163">
+                                                                                                                    <div className="group-wrapper1163">
+                                                                                                                      <div className="group-wrapper1163">
+                                                                                                                        <div className="group-wrapper1163">
+                                                                                                                          <div className="group-wrapper1163">
+                                                                                                                            <div className="group-wrapper1163">
+                                                                                                                              <div className="group-wrapper1163">
+                                                                                                                                <div className="group-wrapper1163">
+                                                                                                                                  <div className="group-wrapper1163">
+                                                                                                                                    <div className="group-wrapper1163">
+                                                                                                                                      <div className="group-wrapper1163">
+                                                                                                                                        <div className="group-wrapper1163">
+                                                                                                                                          <div className="group-wrapper1163">
+                                                                                                                                            <div className="group-wrapper1163">
+                                                                                                                                              <div className="group-wrapper1163">
+                                                                                                                                                <div className="group-wrapper1163">
+                                                                                                                                                  <div className="group-wrapper1163">
+                                                                                                                                                    <div className="group-wrapper1163">
+                                                                                                                                                      <div className="group-wrapper1163">
+                                                                                                                                                        <div className="group-wrapper1163">
+                                                                                                                                                          <div className="group-wrapper1163">
+                                                                                                                                                            <div className="group-wrapper1163">
+                                                                                                                                                              <div className="group-wrapper1163">
+                                                                                                                                                                <div className="group-wrapper1163">
+                                                                                                                                                                  <div className="group-wrapper1163">
+                                                                                                                                                                    <div className="group-wrapper1163">
+                                                                                                                                                                      <div className="group-wrapper1163">
+                                                                                                                                                                        <div className="group-wrapper1163">
+                                                                                                                                                                          <div className="group-wrapper1163">
+                                                                                                                                                                            <div className="group-wrapper1163">
+                                                                                                                                                                              <div className="group-wrapper1163">
+                                                                                                                                                                                <div className="group-wrapper1163">
+                                                                                                                                                                                  <div className="group-wrapper1163">
+                                                                                                                                                                                    <div className="group-wrapper1163">
+                                                                                                                                                                                      <div className="group-wrapper1163">
+                                                                                                                                                                                        <div className="group-wrapper1163">
+                                                                                                                                                                                          <div className="group-wrapper1163">
+                                                                                                                                                                                            <div className="group-wrapper1163">
+                                                                                                                                                                                              <div className="group-wrapper1163">
+                                                                                                                                                                                                <div className="group-wrapper1163">
+                                                                                                                                                                                                  <div className="group-wrapper1163">
+                                                                                                                                                                                                    <div className="group-wrapper1163">
+                                                                                                                                                                                                      <div className="group-wrapper1163">
+                                                                                                                                                                                                        <div className="group-wrapper1163">
+                                                                                                                                                                                                          <div className="group-wrapper1163">
+                                                                                                                                                                                                            <div className="group-wrapper1163">
+                                                                                                                                                                                                              <div className="group-wrapper1163">
+                                                                                                                                                                                                                <div className="group-wrapper1163">
+                                                                                                                                                                                                                  <div className="group-wrapper1163">
+                                                                                                                                                                                                                    <div className="hostel-hopper11">
                                                                                                                                                                                                                       Hostel
                                                                                                                                                                                                                       Hopper
                                                                                                                                                                                                                     </div>
@@ -788,53 +764,53 @@ const Desktop71 = () => {
                                                                                               </div>
                                                                                             </div>
                                                                                             <img
-                                                                                              className="bunk-1-icon5"
+                                                                                              className="bunk-1-icon8"
                                                                                               alt=""
                                                                                               src="../bunk-1@2x.png"
                                                                                             />
-                                                                                            <div className="group-wrapper797">
-                                                                                              <div className="group-wrapper797">
-                                                                                                <div className="group-wrapper797">
-                                                                                                  <div className="group-wrapper797">
-                                                                                                    <div className="group-wrapper797">
-                                                                                                      <div className="group-wrapper797">
-                                                                                                        <div className="group-wrapper797">
-                                                                                                          <div className="group-wrapper797">
-                                                                                                            <div className="group-wrapper797">
-                                                                                                              <div className="group-wrapper797">
-                                                                                                                <div className="group-wrapper797">
-                                                                                                                  <div className="group-wrapper797">
-                                                                                                                    <div className="group-wrapper797">
-                                                                                                                      <div className="group-wrapper797">
-                                                                                                                        <div className="group-wrapper797">
-                                                                                                                          <div className="group-wrapper797">
-                                                                                                                            <div className="group-wrapper797">
-                                                                                                                              <div className="group-wrapper797">
-                                                                                                                                <div className="group-wrapper797">
-                                                                                                                                  <div className="group-wrapper797">
-                                                                                                                                    <div className="group-wrapper797">
-                                                                                                                                      <div className="group-wrapper797">
-                                                                                                                                        <div className="group-wrapper797">
-                                                                                                                                          <div className="group-wrapper797">
-                                                                                                                                            <div className="group-wrapper797">
-                                                                                                                                              <div className="group-wrapper797">
-                                                                                                                                                <div className="group-wrapper797">
-                                                                                                                                                  <div className="group-wrapper797">
-                                                                                                                                                    <div className="group-wrapper797">
-                                                                                                                                                      <div className="group-wrapper797">
-                                                                                                                                                        <div className="group-wrapper797">
-                                                                                                                                                          <div className="group-wrapper797">
-                                                                                                                                                            <div className="group-wrapper797">
-                                                                                                                                                              <div className="group-wrapper797">
-                                                                                                                                                                <div className="group-wrapper797">
-                                                                                                                                                                  <div className="group-wrapper797">
-                                                                                                                                                                    <div className="group-wrapper797">
-                                                                                                                                                                      <div className="group-wrapper797">
-                                                                                                                                                                        <div className="group-wrapper797">
-                                                                                                                                                                          <div className="group-wrapper797">
-                                                                                                                                                                            <div className="group-wrapper797">
+                                                                                            <div className="group-wrapper1221">
+                                                                                              <div className="group-wrapper1221">
+                                                                                                <div className="group-wrapper1221">
+                                                                                                  <div className="group-wrapper1221">
+                                                                                                    <div className="group-wrapper1221">
+                                                                                                      <div className="group-wrapper1221">
+                                                                                                        <div className="group-wrapper1221">
+                                                                                                          <div className="group-wrapper1221">
+                                                                                                            <div className="group-wrapper1221">
+                                                                                                              <div className="group-wrapper1221">
+                                                                                                                <div className="group-wrapper1221">
+                                                                                                                  <div className="group-wrapper1221">
+                                                                                                                    <div className="group-wrapper1221">
+                                                                                                                      <div className="group-wrapper1221">
+                                                                                                                        <div className="group-wrapper1221">
+                                                                                                                          <div className="group-wrapper1221">
+                                                                                                                            <div className="group-wrapper1221">
+                                                                                                                              <div className="group-wrapper1221">
+                                                                                                                                <div className="group-wrapper1221">
+                                                                                                                                  <div className="group-wrapper1221">
+                                                                                                                                    <div className="group-wrapper1221">
+                                                                                                                                      <div className="group-wrapper1221">
+                                                                                                                                        <div className="group-wrapper1221">
+                                                                                                                                          <div className="group-wrapper1221">
+                                                                                                                                            <div className="group-wrapper1221">
+                                                                                                                                              <div className="group-wrapper1221">
+                                                                                                                                                <div className="group-wrapper1221">
+                                                                                                                                                  <div className="group-wrapper1221">
+                                                                                                                                                    <div className="group-wrapper1221">
+                                                                                                                                                      <div className="group-wrapper1221">
+                                                                                                                                                        <div className="group-wrapper1221">
+                                                                                                                                                          <div className="group-wrapper1221">
+                                                                                                                                                            <div className="group-wrapper1221">
+                                                                                                                                                              <div className="group-wrapper1221">
+                                                                                                                                                                <div className="group-wrapper1221">
+                                                                                                                                                                  <div className="group-wrapper1221">
+                                                                                                                                                                    <div className="group-wrapper1221">
+                                                                                                                                                                      <div className="group-wrapper1221">
+                                                                                                                                                                        <div className="group-wrapper1221">
+                                                                                                                                                                          <div className="group-wrapper1221">
+                                                                                                                                                                            <div className="group-wrapper1221">
                                                                                                                                                                               <img
-                                                                                                                                                                                className="pngwing-1-icon5"
+                                                                                                                                                                                className="pngwing-1-icon8"
                                                                                                                                                                                 alt=""
                                                                                                                                                                                 src="../pngwing-1@2x.png"
                                                                                                                                                                               />
@@ -920,15 +896,15 @@ const Desktop71 = () => {
               </div>
             </div>
           </div>
-          <div className="group-parent11">
-            <div className="rectangle-parent2">
-              <div className="group-child5" />
-              <div className="search-for-files3">
+          <div className="group-parent17">
+            <div className="rectangle-parent5">
+              <div className="group-child11" />
+              <div className="search-for-files5">
                 Search for files, plugins, and creators
               </div>
             </div>
-            <img className="group-child6" alt="" src="../group-15.svg" />
-            <div className="search8">search</div>
+            <img className="group-child12" alt="" src="../group-151.svg" />
+            <div className="search12">search</div>
           </div>
           <img
             className="hotel-booking-pana-11"

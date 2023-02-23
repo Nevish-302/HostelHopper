@@ -6,51 +6,51 @@ const Iframe = () => {
       <div className="body">
         <img className="icon1" alt="" src="../20944167-2@2x.png" />
       </div>
-      <div className="div8">
-        <div className="div9">
+      <div className="div882">
+        <div className="div883">
           <div className="login">Login</div>
           <div className="please-enter-your">
             Please enter your login details to sign in.
           </div>
           <div className="form1">
-            <div className="div10">
-              <div className="div11">
+            <div className="div884">
+              <div className="div885">
                 <div className="inputremember1" />
                 <div className="keep-me-logged">Keep me logged in</div>
               </div>
               <div className="forgot-password">Forgot password?</div>
             </div>
-            <div className="button1">
+            <div className="button65">
               <div className="log-in1">Log in</div>
             </div>
             <div className="dont-have-an-container">
               <span className="dont-have-an-container1">
                 <span>{`Don’t have an account? `}</span>
-                <span className="sign-up1">Sign up</span>
+                <span className="sign-up2">Sign up</span>
               </span>
             </div>
-            <div className="div12">
+            <div className="div886">
               <div className="inputemail1">
-                <div className="divplaceholder3">
+                <div className="divplaceholder4">
                   <div className="infoexamplecom1">info@example.com</div>
                 </div>
               </div>
               <div className="email-address1">Email Address</div>
             </div>
-            <div className="div13">
+            <div className="div887">
               <div className="inputemail1">
-                <div className="divplaceholder3">
+                <div className="divplaceholder4">
                   <div className="password2">Password</div>
                 </div>
               </div>
               <div className="password3">Password</div>
-              <div className="span2">
-                <div className="div14"></div>
+              <div className="span85">
+                <div className="div888"></div>
               </div>
             </div>
-            <div className="div15">
-              <div className="ul1">
-                <div className="a4">
+            <div className="div889">
+              <div className="ul18">
+                <div className="a35">
                   <div className="icon-googlesvg2">
                     <img
                       className="icon-googlesvg3"
@@ -59,7 +59,7 @@ const Iframe = () => {
                     />
                   </div>
                 </div>
-                <div className="a5">
+                <div className="a36">
                   <div className="icon-googlesvg2">
                     <img
                       className="icon-googlesvg3"
@@ -68,7 +68,7 @@ const Iframe = () => {
                     />
                   </div>
                 </div>
-                <div className="a6">
+                <div className="a37">
                   <div className="icon-googlesvg2">
                     <img
                       className="icon-googlesvg3"
@@ -77,7 +77,7 @@ const Iframe = () => {
                     />
                   </div>
                 </div>
-                <div className="a7">
+                <div className="a38">
                   <div className="icon-googlesvg2">
                     <img
                       className="icon-googlesvg3"
@@ -89,7 +89,7 @@ const Iframe = () => {
               </div>
               <div className="h41">
                 <div className="h4before1" />
-                <div className="span3">
+                <div className="span86">
                   <div className="or-continue-with1">or continue with</div>
                 </div>
               </div>

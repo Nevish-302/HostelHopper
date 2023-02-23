@@ -5,11 +5,11 @@ import "./WwwstanzalivingcomByHtmlt.css";
 const WwwstanzalivingcomByHtmlt = () => {
   return (
     <div className="wwwstanzalivingcom-by-htmlt">
-      <div className="div18">
-        <div className="div19">
+      <div className="div2">
+        <div className="div3">
           <div className="divmask-group">
-            <div className="div20">
-              <div className="div21">
+            <div className="div4">
+              <div className="div5">
                 <img
                   className="mg-2947-aa-1jpg-icon"
                   alt=""
@@ -18,7 +18,7 @@ const WwwstanzalivingcomByHtmlt = () => {
               </div>
             </div>
           </div>
-          <div className="div22">
+          <div className="div6">
             <img
               className="play-newpng-icon"
               alt=""
@@ -27,18 +27,18 @@ const WwwstanzalivingcomByHtmlt = () => {
             <div className="video">Video</div>
           </div>
         </div>
-        <div className="div23">
-          <div className="div24">
-            <div className="div25">
-              <div className="div26">
+        <div className="div7">
+          <div className="div8">
+            <div className="div9">
+              <div className="div10">
                 <div className="kyoto-house">Kyoto House</div>
               </div>
               <div className="south-campus">South Campus</div>
             </div>
             <img className="svgheart-icon" alt="" src="../svghearticon.svg" />
           </div>
-          <div className="div27">
-            <div className="div28">
+          <div className="div11">
+            <div className="div12">
               <img
                 className="female-listingpng-icon"
                 alt=""
@@ -46,8 +46,8 @@ const WwwstanzalivingcomByHtmlt = () => {
               />
               <div className="female">Female</div>
             </div>
-            <div className="div29" />
-            <div className="div30">
+            <div className="div13" />
+            <div className="div14">
               <img
                 className="female-listingpng-icon"
                 alt=""
@@ -55,7 +55,7 @@ const WwwstanzalivingcomByHtmlt = () => {
               />
               <div className="double-triple">Double, Triple</div>
             </div>
-            <div className="div31">
+            <div className="div15">
               <img
                 className="directionspng-icon"
                 alt=""
@@ -64,17 +64,17 @@ const WwwstanzalivingcomByHtmlt = () => {
               <div className="view-directions">View Directions</div>
             </div>
           </div>
-          <div className="div32">
+          <div className="div16">
             <div className="amenities">Amenities</div>
-            <div className="div33">
-              <div className="div34">
+            <div className="div17">
+              <div className="div18">
                 <img className="attached-balconypng-icon" alt="" />
                 <div className="attached-balcony">Attached Balcony</div>
               </div>
-              <Button className="div35" variant="primary">
+              <Button className="div19" variant="primary">
                 Air Conditioning
               </Button>
-              <div className="div36">
+              <div className="div20">
                 <img
                   className="attached-washroompng-icon"
                   alt=""
@@ -82,7 +82,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                 />
                 <div className="attached-washroom">Attached Washroom</div>
               </div>
-              <div className="div37">
+              <div className="div21">
                 <img
                   className="small-cupboardpng-icon"
                   alt=""
@@ -90,24 +90,24 @@ const WwwstanzalivingcomByHtmlt = () => {
                 />
                 <div className="spacious-cupboard">Spacious Cupboard</div>
               </div>
-              <div className="div38">
-                <div className="div39">+1</div>
+              <div className="div22">
+                <div className="div23">+1</div>
               </div>
             </div>
           </div>
-          <div className="div40">
-            <div className="div41">
+          <div className="div24">
+            <div className="div25">
               <div className="amenities">Starts from</div>
               <div className="mo">
                 <span>₹13,799</span>
                 <span className="mo1">/mo*</span>
               </div>
             </div>
-            <div className="div42">
-              <div className="button2">
+            <div className="div26">
+              <div className="button">
                 <div className="schedule-a-visit">Schedule a visit</div>
               </div>
-              <div className="button3">
+              <div className="button1">
                 <div className="reserve-now">Reserve Now</div>
               </div>
             </div>
@@ -115,36 +115,36 @@ const WwwstanzalivingcomByHtmlt = () => {
         </div>
       </div>
       <div className="div-next">
-        <a className="div43">
-          <div className="div44">
-            <div className="div45">
-              <div className="div46">
-                <div className="div47">
+        <a className="div27">
+          <div className="div28">
+            <div className="div29">
+              <div className="div30">
+                <div className="div31">
                   <div className="locality">Locality</div>
                   <img className="svg-icon" alt="" src="../svg.svg" />
                 </div>
-                <div className="div48">
+                <div className="div32">
                   <div className="locality">Budget</div>
                   <img className="svg-icon" alt="" src="../svg1.svg" />
                 </div>
-                <div className="div49">
+                <div className="div33">
                   <div className="locality">Occupancy</div>
                   <img className="svg-icon" alt="" src="../svg2.svg" />
                 </div>
-                <div className="div50">
+                <div className="div34">
                   <div className="locality">Gender</div>
                   <img className="svg-icon" alt="" src="../svg3.svg" />
                 </div>
-                <div className="div51">
+                <div className="div35">
                   <div className="locality">Amenities</div>
                   <img className="svg-icon" alt="" src="../svg4.svg" />
                 </div>
               </div>
-              <div className="div52" />
-              <div className="div53">
+              <div className="div36" />
+              <div className="div37">
                 <div className="locality">My Wishlist</div>
               </div>
-              <div className="div54">
+              <div className="div38">
                 <img
                   className="more-filterspng-icon"
                   alt=""
@@ -152,20 +152,20 @@ const WwwstanzalivingcomByHtmlt = () => {
                 />
                 <div className="more-filters">More Filters</div>
               </div>
-              <div className="div55">
+              <div className="div39">
                 <div className="sort-by">Sort By:</div>
                 <div className="popularity">Popularity</div>
                 <img className="svg-icon5" alt="" src="../svg5.svg" />
               </div>
             </div>
             <div className="pgs-found-near">53 PG’s found near JSS</div>
-            <div className="div56">
-              <div className="div57">
-                <div className="div58">
-                  <div className="div19">
+            <div className="div40">
+              <div className="div41">
+                <div className="div42">
+                  <div className="div3">
                     <div className="divmask-group1">
-                      <div className="div20">
-                        <div className="div21">
+                      <div className="div4">
+                        <div className="div5">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -174,7 +174,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -183,10 +183,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div23">
-                    <div className="div64">
-                      <div className="div25">
-                        <div className="div66">
+                  <div className="div7">
+                    <div className="div48">
+                      <div className="div9">
+                        <div className="div50">
                           <div className="kyoto-house">Boston House</div>
                         </div>
                         <div className="south-campus">North Campus</div>
@@ -197,8 +197,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon1.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div68">
+                    <div className="div11">
+                      <div className="div52">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -206,8 +206,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="male">Male</div>
                       </div>
-                      <div className="div69" />
-                      <div className="div70">
+                      <div className="div53" />
+                      <div className="div54">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -215,7 +215,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="double">Double</div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -224,10 +224,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions1">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div33">
-                        <div className="div74">
+                      <div className="div17">
+                        <div className="div58">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -237,7 +237,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div75">
+                        <div className="div59">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -247,7 +247,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div76">
+                        <div className="div60">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -257,7 +257,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Spacious Cupboard
                           </div>
                         </div>
-                        <div className="div77">
+                        <div className="div61">
                           <img
                             className="windowpng-icon"
                             alt=""
@@ -267,32 +267,32 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div78">
-                      <div className="div79">
+                    <div className="div62">
+                      <div className="div63">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹20,699</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div81">
-                  <div className="div82">
+                <div className="div65">
+                  <div className="div66">
                     <div className="divmask-group">
-                      <div className="div20">
-                        <div className="div84">
+                      <div className="div4">
+                        <div className="div68">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -301,7 +301,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -310,11 +310,11 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div86">
-                    <div className="div64">
-                      <div className="div25">
-                        <div className="div89">
-                          <div className="span7" />
+                  <div className="div70">
+                    <div className="div48">
+                      <div className="div9">
+                        <div className="div73">
+                          <div className="span3" />
                           <div className="nagoya-house">Nagoya House</div>
                           <div className="almost-full">Almost Full</div>
                         </div>
@@ -326,8 +326,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon2.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div68">
+                    <div className="div11">
+                      <div className="div52">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -335,8 +335,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="male">Male</div>
                       </div>
-                      <div className="div69" />
-                      <div className="div93">
+                      <div className="div53" />
+                      <div className="div77">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -344,7 +344,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="single-double">Single, Double</div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -353,10 +353,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div96">
-                        <div className="div97">
+                      <div className="div80">
+                        <div className="div81">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -366,7 +366,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div98">
+                        <div className="div82">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -376,7 +376,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div99">
+                        <div className="div83">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -388,32 +388,32 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div100">
-                      <div className="div101">
+                    <div className="div84">
+                      <div className="div85">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹16,799</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div103">
-                  <div className="div19">
+                <div className="div87">
+                  <div className="div3">
                     <div className="divmask-group">
-                      <div className="div20">
-                        <div className="div21">
+                      <div className="div4">
+                        <div className="div5">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -422,7 +422,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -431,10 +431,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div23">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div111">
+                  <div className="div7">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div95">
                           <div className="kyoto-house">Montreal House</div>
                         </div>
                         <div className="south-campus">North Campus</div>
@@ -445,8 +445,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon3.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div28">
+                    <div className="div11">
+                      <div className="div12">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -454,8 +454,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="female">Female</div>
                       </div>
-                      <div className="div29" />
-                      <div className="div30">
+                      <div className="div13" />
+                      <div className="div14">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -463,7 +463,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="double-triple">Double, Triple</div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -472,10 +472,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div33">
-                        <div className="div74">
+                      <div className="div17">
+                        <div className="div58">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -485,7 +485,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div75">
+                        <div className="div59">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -495,7 +495,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div76">
+                        <div className="div60">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -505,7 +505,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Spacious Cupboard
                           </div>
                         </div>
-                        <div className="div77">
+                        <div className="div61">
                           <img
                             className="windowpng-icon"
                             alt=""
@@ -515,32 +515,32 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div123">
-                      <div className="div124">
+                    <div className="div107">
+                      <div className="div108">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹16,199</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div126">
-                  <div className="div19">
+                <div className="div110">
+                  <div className="div3">
                     <div className="divmask-group">
-                      <div className="div20">
-                        <div className="div21">
+                      <div className="div4">
+                        <div className="div5">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -549,7 +549,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -558,12 +558,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div23">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div89">
+                  <div className="div7">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div73">
                           <div className="nagoya-house">Polaris House</div>
-                          <div className="span8" />
+                          <div className="span4" />
                         </div>
                         <div className="south-campus">North Campus</div>
                       </div>
@@ -573,8 +573,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon4.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div28">
+                    <div className="div11">
+                      <div className="div12">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -582,8 +582,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="female">Female</div>
                       </div>
-                      <div className="div29" />
-                      <div className="div30">
+                      <div className="div13" />
+                      <div className="div14">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -591,7 +591,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="double-triple">Double, Triple</div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -600,10 +600,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div33">
-                        <div className="div142">
+                      <div className="div17">
+                        <div className="div126">
                           <img
                             className="attached-balconypng-icon"
                             alt=""
@@ -613,7 +613,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Balcony
                           </div>
                         </div>
-                        <div className="div143">
+                        <div className="div127">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -623,7 +623,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div36">
+                        <div className="div20">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -633,7 +633,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div37">
+                        <div className="div21">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -645,32 +645,32 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div100">
-                      <div className="div101">
+                    <div className="div84">
+                      <div className="div85">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹16,799</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div149">
-                  <div className="div19">
+                <div className="div133">
+                  <div className="div3">
                     <div className="divmask-group">
-                      <div className="div20">
-                        <div className="div21">
+                      <div className="div4">
+                        <div className="div5">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -679,7 +679,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -688,12 +688,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div23">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div89">
+                  <div className="div7">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div73">
                           <div className="nagoya-house">Tokyo House</div>
-                          <div className="span9" />
+                          <div className="span5" />
                         </div>
                         <div className="south-campus">South Campus</div>
                       </div>
@@ -703,8 +703,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon5.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div28">
+                    <div className="div11">
+                      <div className="div12">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -712,8 +712,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="female">Female</div>
                       </div>
-                      <div className="div29" />
-                      <div className="div30">
+                      <div className="div13" />
+                      <div className="div14">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -721,7 +721,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="double-triple">Double, Triple</div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -730,10 +730,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div33">
-                        <div className="div142">
+                      <div className="div17">
+                        <div className="div126">
                           <img
                             className="attached-balconypng-icon"
                             alt=""
@@ -743,7 +743,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Balcony
                           </div>
                         </div>
-                        <div className="div143">
+                        <div className="div127">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -753,7 +753,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div36">
+                        <div className="div20">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -763,7 +763,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div37">
+                        <div className="div21">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -773,37 +773,37 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Spacious Cupboard
                           </div>
                         </div>
-                        <div className="div38">
-                          <div className="div39">+1</div>
+                        <div className="div22">
+                          <div className="div23">+1</div>
                         </div>
                       </div>
                     </div>
-                    <div className="div171">
-                      <div className="div172">
+                    <div className="div155">
+                      <div className="div156">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹15,299</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div174">
-                  <div className="div19">
+                <div className="div158">
+                  <div className="div3">
                     <div className="divmask-group">
-                      <div className="div20">
-                        <div className="div21">
+                      <div className="div4">
+                        <div className="div5">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -812,7 +812,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -821,12 +821,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div23">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div89">
+                  <div className="div7">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div73">
                           <div className="nagoya-house">Cardiff House</div>
-                          <div className="span10" />
+                          <div className="span6" />
                         </div>
                         <div className="south-campus">Laxmi Nagar</div>
                       </div>
@@ -836,8 +836,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon6.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div68">
+                    <div className="div11">
+                      <div className="div52">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -845,8 +845,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="male">Male</div>
                       </div>
-                      <div className="div69" />
-                      <div className="div70">
+                      <div className="div53" />
+                      <div className="div54">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -854,7 +854,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="double">Double</div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -863,10 +863,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div33">
-                        <div className="div74">
+                      <div className="div17">
+                        <div className="div58">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -876,7 +876,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div75">
+                        <div className="div59">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -886,7 +886,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div76">
+                        <div className="div60">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -896,7 +896,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Spacious Cupboard
                           </div>
                         </div>
-                        <div className="div77">
+                        <div className="div61">
                           <img
                             className="windowpng-icon"
                             alt=""
@@ -906,32 +906,32 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div194">
-                      <div className="div195">
+                    <div className="div178">
+                      <div className="div179">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹11,599</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div197">
-                  <div className="div19">
+                <div className="div181">
+                  <div className="div3">
                     <div className="divmask-group">
-                      <div className="div20">
-                        <div className="div21">
+                      <div className="div4">
+                        <div className="div5">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -940,7 +940,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -949,10 +949,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div23">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div26">
+                  <div className="div7">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div10">
                           <div className="kyoto-house">Kyoto House</div>
                         </div>
                         <div className="south-campus">South Campus</div>
@@ -963,8 +963,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon7.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div28">
+                    <div className="div11">
+                      <div className="div12">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -972,8 +972,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="female">Female</div>
                       </div>
-                      <div className="div29" />
-                      <div className="div30">
+                      <div className="div13" />
+                      <div className="div14">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -981,7 +981,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="double-triple">Double, Triple</div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -990,10 +990,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div33">
-                        <div className="div142">
+                      <div className="div17">
+                        <div className="div126">
                           <img
                             className="attached-balconypng-icon"
                             alt=""
@@ -1003,7 +1003,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Balcony
                           </div>
                         </div>
-                        <div className="div143">
+                        <div className="div127">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -1013,7 +1013,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div36">
+                        <div className="div20">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -1023,7 +1023,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div37">
+                        <div className="div21">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -1033,37 +1033,37 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Spacious Cupboard
                           </div>
                         </div>
-                        <div className="div38">
-                          <div className="div39">+1</div>
+                        <div className="div22">
+                          <div className="div23">+1</div>
                         </div>
                       </div>
                     </div>
-                    <div className="div40">
-                      <div className="div41">
+                    <div className="div24">
+                      <div className="div25">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹13,799</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div222">
-                  <div className="div19">
+                <div className="div206">
+                  <div className="div3">
                     <div className="divmask-group">
-                      <div className="div20">
-                        <div className="div21">
+                      <div className="div4">
+                        <div className="div5">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -1072,7 +1072,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -1081,12 +1081,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div23">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div89">
+                  <div className="div7">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div73">
                           <div className="nagoya-house">Cardiff House</div>
-                          <div className="span10" />
+                          <div className="span6" />
                         </div>
                         <div className="south-campus">Laxmi Nagar</div>
                       </div>
@@ -1096,8 +1096,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon8.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div68">
+                    <div className="div11">
+                      <div className="div52">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -1105,8 +1105,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="male">Male</div>
                       </div>
-                      <div className="div69" />
-                      <div className="div70">
+                      <div className="div53" />
+                      <div className="div54">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -1114,7 +1114,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="double">Double</div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -1123,10 +1123,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div33">
-                        <div className="div74">
+                      <div className="div17">
+                        <div className="div58">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -1136,7 +1136,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div75">
+                        <div className="div59">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -1146,7 +1146,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div76">
+                        <div className="div60">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -1156,7 +1156,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Spacious Cupboard
                           </div>
                         </div>
-                        <div className="div77">
+                        <div className="div61">
                           <img
                             className="windowpng-icon"
                             alt=""
@@ -1166,32 +1166,32 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div194">
-                      <div className="div195">
+                    <div className="div178">
+                      <div className="div179">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹11,599</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div245">
-                  <div className="div19">
+                <div className="div229">
+                  <div className="div3">
                     <div className="divmask-group">
-                      <div className="div20">
-                        <div className="div21">
+                      <div className="div4">
+                        <div className="div5">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -1200,7 +1200,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -1209,12 +1209,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div23">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div89">
+                  <div className="div7">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div73">
                           <div className="nagoya-house">Poznan House</div>
-                          <div className="span12" />
+                          <div className="span8" />
                         </div>
                         <div className="south-campus">Laxmi Nagar</div>
                       </div>
@@ -1224,8 +1224,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon9.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div28">
+                    <div className="div11">
+                      <div className="div12">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -1233,8 +1233,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="female">Female</div>
                       </div>
-                      <div className="div29" />
-                      <div className="div257">
+                      <div className="div13" />
+                      <div className="div241">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -1242,7 +1242,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="double">Double</div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -1251,10 +1251,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div33">
-                        <div className="div142">
+                      <div className="div17">
+                        <div className="div126">
                           <img
                             className="attached-balconypng-icon"
                             alt=""
@@ -1264,7 +1264,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Balcony
                           </div>
                         </div>
-                        <div className="div143">
+                        <div className="div127">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -1274,7 +1274,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div263">
+                        <div className="div247">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -1284,7 +1284,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Spacious Cupboard
                           </div>
                         </div>
-                        <div className="div264">
+                        <div className="div248">
                           <img
                             className="shared-washroompng-icon"
                             alt=""
@@ -1292,37 +1292,37 @@ const WwwstanzalivingcomByHtmlt = () => {
                           />
                           <div className="shared-washroom">Shared Washroom</div>
                         </div>
-                        <div className="div265">
-                          <div className="div39">+1</div>
+                        <div className="div249">
+                          <div className="div23">+1</div>
                         </div>
                       </div>
                     </div>
-                    <div className="div267">
-                      <div className="div268">
+                    <div className="div251">
+                      <div className="div252">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹10,299</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div270">
-                  <div className="div271">
+                <div className="div254">
+                  <div className="div255">
                     <div className="divmask-group10">
-                      <div className="div20">
-                        <div className="div21">
+                      <div className="div4">
+                        <div className="div5">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -1331,8 +1331,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div274">
-                      <div className="div275">
+                    <div className="div258">
+                      <div className="div259">
                         <img
                           className="play-newpng-icon"
                           alt=""
@@ -1340,7 +1340,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="video">Video</div>
                       </div>
-                      <div className="div276">
+                      <div className="div260">
                         <img
                           className="play-newpng-icon"
                           alt=""
@@ -1350,12 +1350,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="div23">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div89">
+                  <div className="div7">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div73">
                           <div className="nagoya-house">Perugia House</div>
-                          <div className="span13" />
+                          <div className="span9" />
                         </div>
                         <div className="south-campus">Laxmi Nagar</div>
                       </div>
@@ -1365,8 +1365,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon10.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div28">
+                    <div className="div11">
+                      <div className="div12">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -1374,8 +1374,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="female">Female</div>
                       </div>
-                      <div className="div29" />
-                      <div className="div284">
+                      <div className="div13" />
+                      <div className="div268">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -1385,7 +1385,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                           Single, Double, Triple, Quadruple
                         </div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -1394,10 +1394,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div33">
-                        <div className="div142">
+                      <div className="div17">
+                        <div className="div126">
                           <img
                             className="attached-balconypng-icon"
                             alt=""
@@ -1407,7 +1407,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Balcony
                           </div>
                         </div>
-                        <div className="div289">
+                        <div className="div273">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -1417,7 +1417,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div290">
+                        <div className="div274">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -1427,7 +1427,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Spacious Cupboard
                           </div>
                         </div>
-                        <div className="div77">
+                        <div className="div61">
                           <img
                             className="windowpng-icon"
                             alt=""
@@ -1437,32 +1437,32 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div292">
-                      <div className="div293">
+                    <div className="div276">
+                      <div className="div277">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹8,499</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div295">
-                  <div className="div19">
+                <div className="div279">
+                  <div className="div3">
                     <div className="divmask-group1">
-                      <div className="div20">
-                        <div className="div21">
+                      <div className="div4">
+                        <div className="div5">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -1471,7 +1471,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -1480,12 +1480,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div23">
-                    <div className="div301">
-                      <div className="div25">
-                        <div className="div89">
+                  <div className="div7">
+                    <div className="div285">
+                      <div className="div9">
+                        <div className="div73">
                           <div className="nagoya-house">Quito House</div>
-                          <div className="span14" />
+                          <div className="span10" />
                         </div>
                         <div className="south-campus">Laxmi Nagar</div>
                       </div>
@@ -1495,8 +1495,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon11.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div68">
+                    <div className="div11">
+                      <div className="div52">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -1504,8 +1504,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="male">Male</div>
                       </div>
-                      <div className="div69" />
-                      <div className="div307">
+                      <div className="div53" />
+                      <div className="div291">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -1515,7 +1515,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                           Single, Double, Triple
                         </div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -1524,10 +1524,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div33">
-                        <div className="div142">
+                      <div className="div17">
+                        <div className="div126">
                           <img
                             className="attached-balconypng-icon"
                             alt=""
@@ -1537,7 +1537,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Balcony
                           </div>
                         </div>
-                        <div className="div143">
+                        <div className="div127">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -1547,7 +1547,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div36">
+                        <div className="div20">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -1557,7 +1557,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div37">
+                        <div className="div21">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -1567,37 +1567,37 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Spacious Cupboard
                           </div>
                         </div>
-                        <div className="div38">
-                          <div className="div316">+2</div>
+                        <div className="div22">
+                          <div className="div300">+2</div>
                         </div>
                       </div>
                     </div>
-                    <div className="div317">
-                      <div className="div318">
+                    <div className="div301">
+                      <div className="div302">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹7,499</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div320">
-                  <div className="div19">
+                <div className="div304">
+                  <div className="div3">
                     <div className="divmask-group1">
-                      <div className="div20">
-                        <div className="div21">
+                      <div className="div4">
+                        <div className="div5">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -1606,7 +1606,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -1615,12 +1615,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div23">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div89">
+                  <div className="div7">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div73">
                           <div className="nagoya-house">Kiel House</div>
-                          <div className="span15" />
+                          <div className="span11" />
                         </div>
                         <div className="south-campus">North Campus</div>
                       </div>
@@ -1630,8 +1630,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon12.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div28">
+                    <div className="div11">
+                      <div className="div12">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -1639,8 +1639,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="female">Female</div>
                       </div>
-                      <div className="div29" />
-                      <div className="div332">
+                      <div className="div13" />
+                      <div className="div316">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -1650,7 +1650,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                           Double, Triple, Quadruple
                         </div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -1659,10 +1659,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div33">
-                        <div className="div142">
+                      <div className="div17">
+                        <div className="div126">
                           <img
                             className="attached-balconypng-icon"
                             alt=""
@@ -1672,7 +1672,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Balcony
                           </div>
                         </div>
-                        <div className="div143">
+                        <div className="div127">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -1682,7 +1682,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div36">
+                        <div className="div20">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -1692,7 +1692,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div37">
+                        <div className="div21">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -1704,32 +1704,32 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div340">
-                      <div className="div341">
+                    <div className="div324">
+                      <div className="div325">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹13,499</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div343">
-                  <div className="div82">
+                <div className="div327">
+                  <div className="div66">
                     <div className="divmask-group">
-                      <div className="div20">
-                        <div className="div84">
+                      <div className="div4">
+                        <div className="div68">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -1738,7 +1738,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -1747,10 +1747,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div86">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div351">
+                  <div className="div70">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div335">
                           <div className="kyoto-house">Kobe House</div>
                         </div>
                         <div className="south-campus">South Campus</div>
@@ -1761,8 +1761,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon13.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div28">
+                    <div className="div11">
+                      <div className="div12">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -1770,8 +1770,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="female">Female</div>
                       </div>
-                      <div className="div29" />
-                      <div className="div355">
+                      <div className="div13" />
+                      <div className="div339">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -1779,7 +1779,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="single-double">Single, Double</div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -1788,10 +1788,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div96">
-                        <div className="div97">
+                      <div className="div80">
+                        <div className="div81">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -1801,7 +1801,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div98">
+                        <div className="div82">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -1811,7 +1811,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div99">
+                        <div className="div83">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -1823,32 +1823,32 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div362">
-                      <div className="div363">
+                    <div className="div346">
+                      <div className="div347">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹15,499</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div365">
-                  <div className="div82">
+                <div className="div349">
+                  <div className="div66">
                     <div className="divmask-group">
-                      <div className="div20">
-                        <div className="div84">
+                      <div className="div4">
+                        <div className="div68">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -1857,7 +1857,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -1866,10 +1866,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div86">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div373">
+                  <div className="div70">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div357">
                           <div className="kyoto-house">Sheffield House</div>
                         </div>
                         <div className="south-campus">North Campus</div>
@@ -1880,8 +1880,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon14.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div68">
+                    <div className="div11">
+                      <div className="div52">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -1889,8 +1889,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="male">Male</div>
                       </div>
-                      <div className="div69" />
-                      <div className="div377">
+                      <div className="div53" />
+                      <div className="div361">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -1898,7 +1898,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="double-triple">Double, Triple</div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -1907,10 +1907,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div380">
-                        <div className="div98">
+                      <div className="div364">
+                        <div className="div82">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -1920,7 +1920,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div99">
+                        <div className="div83">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -1930,7 +1930,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Spacious Cupboard
                           </div>
                         </div>
-                        <div className="div383">
+                        <div className="div367">
                           <img
                             className="windowpng-icon"
                             alt=""
@@ -1940,32 +1940,32 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div384">
-                      <div className="div385">
+                    <div className="div368">
+                      <div className="div369">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹18,299</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div387">
-                  <div className="div19">
+                <div className="div371">
+                  <div className="div3">
                     <div className="divmask-group">
-                      <div className="div20">
-                        <div className="div21">
+                      <div className="div4">
+                        <div className="div5">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -1974,7 +1974,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -1983,12 +1983,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div23">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div89">
+                  <div className="div7">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div73">
                           <div className="nagoya-house">Osaka House</div>
-                          <div className="span16" />
+                          <div className="span12" />
                         </div>
                         <div className="south-campus">South Campus</div>
                       </div>
@@ -1998,8 +1998,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon15.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div28">
+                    <div className="div11">
+                      <div className="div12">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -2007,8 +2007,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="female">Female</div>
                       </div>
-                      <div className="div29" />
-                      <div className="div257">
+                      <div className="div13" />
+                      <div className="div241">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -2016,7 +2016,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="double">Double</div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -2025,10 +2025,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div33">
-                        <div className="div74">
+                      <div className="div17">
+                        <div className="div58">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -2038,7 +2038,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div75">
+                        <div className="div59">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -2048,7 +2048,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div76">
+                        <div className="div60">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -2058,7 +2058,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Spacious Cupboard
                           </div>
                         </div>
-                        <div className="div77">
+                        <div className="div61">
                           <img
                             className="windowpng-icon"
                             alt=""
@@ -2068,32 +2068,32 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div407">
-                      <div className="div408">
+                    <div className="div391">
+                      <div className="div392">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹15,899</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div410">
-                  <div className="div19">
+                <div className="div394">
+                  <div className="div3">
                     <div className="divmask-group1">
-                      <div className="div20">
-                        <div className="div21">
+                      <div className="div4">
+                        <div className="div5">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -2102,7 +2102,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -2111,10 +2111,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div23">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div418">
+                  <div className="div7">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div402">
                           <div className="kyoto-house">Penzance House</div>
                         </div>
                         <div className="south-campus">North Campus</div>
@@ -2125,8 +2125,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon16.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div28">
+                    <div className="div11">
+                      <div className="div12">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -2134,8 +2134,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="female">Female</div>
                       </div>
-                      <div className="div29" />
-                      <div className="div30">
+                      <div className="div13" />
+                      <div className="div14">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -2143,7 +2143,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="double-triple">Double, Triple</div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -2152,10 +2152,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div33">
-                        <div className="div142">
+                      <div className="div17">
+                        <div className="div126">
                           <img
                             className="attached-balconypng-icon"
                             alt=""
@@ -2165,7 +2165,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Balcony
                           </div>
                         </div>
-                        <div className="div143">
+                        <div className="div127">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -2175,7 +2175,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div36">
+                        <div className="div20">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -2185,7 +2185,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div37">
+                        <div className="div21">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -2195,37 +2195,37 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Spacious Cupboard
                           </div>
                         </div>
-                        <div className="div38">
-                          <div className="div39">+1</div>
+                        <div className="div22">
+                          <div className="div23">+1</div>
                         </div>
                       </div>
                     </div>
-                    <div className="div432">
-                      <div className="div433">
+                    <div className="div416">
+                      <div className="div417">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹14,799</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div435">
-                  <div className="div82">
+                <div className="div419">
+                  <div className="div66">
                     <div className="divmask-group">
-                      <div className="div20">
-                        <div className="div84">
+                      <div className="div4">
+                        <div className="div68">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -2234,7 +2234,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -2243,12 +2243,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div86">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div89">
+                  <div className="div70">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div73">
                           <div className="nagoya-house">Hiroshima House</div>
-                          <div className="span17" />
+                          <div className="span13" />
                         </div>
                         <div className="south-campus">South Campus</div>
                       </div>
@@ -2258,8 +2258,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon17.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div68">
+                    <div className="div11">
+                      <div className="div52">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -2267,8 +2267,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="male">Male</div>
                       </div>
-                      <div className="div69" />
-                      <div className="div93">
+                      <div className="div53" />
+                      <div className="div77">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -2276,7 +2276,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="single-double">Single, Double</div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -2285,10 +2285,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div96">
-                        <div className="div97">
+                      <div className="div80">
+                        <div className="div81">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -2298,7 +2298,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div98">
+                        <div className="div82">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -2308,7 +2308,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div99">
+                        <div className="div83">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -2320,32 +2320,32 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div362">
-                      <div className="div363">
+                    <div className="div346">
+                      <div className="div347">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹15,499</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div457">
-                  <div className="div19">
+                <div className="div441">
+                  <div className="div3">
                     <div className="divmask-group">
-                      <div className="div20">
-                        <div className="div21">
+                      <div className="div4">
+                        <div className="div5">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -2354,7 +2354,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -2363,10 +2363,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div23">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div465">
+                  <div className="div7">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div449">
                           <div className="kyoto-house">Toronto House</div>
                         </div>
                         <div className="south-campus">North Campus</div>
@@ -2377,8 +2377,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon18.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div28">
+                    <div className="div11">
+                      <div className="div12">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -2386,8 +2386,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="female">Female</div>
                       </div>
-                      <div className="div29" />
-                      <div className="div469">
+                      <div className="div13" />
+                      <div className="div453">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -2397,7 +2397,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                           Single, Double, Triple
                         </div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -2406,10 +2406,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div33">
-                        <div className="div142">
+                      <div className="div17">
+                        <div className="div126">
                           <img
                             className="attached-balconypng-icon"
                             alt=""
@@ -2419,7 +2419,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Balcony
                           </div>
                         </div>
-                        <div className="div143">
+                        <div className="div127">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -2429,7 +2429,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div36">
+                        <div className="div20">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -2439,7 +2439,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div37">
+                        <div className="div21">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -2449,37 +2449,37 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Spacious Cupboard
                           </div>
                         </div>
-                        <div className="div38">
-                          <div className="div39">+1</div>
+                        <div className="div22">
+                          <div className="div23">+1</div>
                         </div>
                       </div>
                     </div>
-                    <div className="div479">
-                      <div className="div480">
+                    <div className="div463">
+                      <div className="div464">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹14,499</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div482">
-                  <div className="div82">
+                <div className="div466">
+                  <div className="div66">
                     <div className="divmask-group">
-                      <div className="div20">
-                        <div className="div84">
+                      <div className="div4">
+                        <div className="div68">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -2488,7 +2488,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -2497,12 +2497,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div86">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div89">
+                  <div className="div70">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div73">
                           <div className="nagoya-house">Romford House</div>
-                          <div className="span18" />
+                          <div className="span14" />
                         </div>
                         <div className="south-campus">North Campus</div>
                       </div>
@@ -2512,8 +2512,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon19.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div68">
+                    <div className="div11">
+                      <div className="div52">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -2521,8 +2521,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="male">Male</div>
                       </div>
-                      <div className="div69" />
-                      <div className="div307">
+                      <div className="div53" />
+                      <div className="div291">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -2532,7 +2532,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                           Single, Double, Triple
                         </div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -2541,10 +2541,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div380">
-                        <div className="div98">
+                      <div className="div364">
+                        <div className="div82">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -2554,7 +2554,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div99">
+                        <div className="div83">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -2564,7 +2564,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Spacious Cupboard
                           </div>
                         </div>
-                        <div className="div383">
+                        <div className="div367">
                           <img
                             className="windowpng-icon"
                             alt=""
@@ -2574,32 +2574,32 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div501">
-                      <div className="div502">
+                    <div className="div485">
+                      <div className="div486">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹17,299</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div504">
-                  <div className="div19">
+                <div className="div488">
+                  <div className="div3">
                     <div className="divmask-group">
-                      <div className="div20">
-                        <div className="div21">
+                      <div className="div4">
+                        <div className="div5">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -2608,7 +2608,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -2617,10 +2617,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div23">
-                    <div className="div24">
-                      <div className="div25">
-                        <div className="div373">
+                  <div className="div7">
+                    <div className="div8">
+                      <div className="div9">
+                        <div className="div357">
                           <div className="kyoto-house">Stockton House</div>
                         </div>
                         <div className="south-campus">North Campus</div>
@@ -2631,8 +2631,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon20.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div28">
+                    <div className="div11">
+                      <div className="div12">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -2640,8 +2640,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="female">Female</div>
                       </div>
-                      <div className="div29" />
-                      <div className="div355">
+                      <div className="div13" />
+                      <div className="div339">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -2649,7 +2649,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="single-double">Single, Double</div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -2658,10 +2658,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div33">
-                        <div className="div142">
+                      <div className="div17">
+                        <div className="div126">
                           <img
                             className="attached-balconypng-icon"
                             alt=""
@@ -2671,7 +2671,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Balcony
                           </div>
                         </div>
-                        <div className="div289">
+                        <div className="div273">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -2681,7 +2681,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div290">
+                        <div className="div274">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -2691,7 +2691,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Spacious Cupboard
                           </div>
                         </div>
-                        <div className="div77">
+                        <div className="div61">
                           <img
                             className="windowpng-icon"
                             alt=""
@@ -2701,32 +2701,32 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div524">
-                      <div className="div41">
+                    <div className="div508">
+                      <div className="div25">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹19,699</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="div527">
-                  <div className="div19">
+                <div className="div511">
+                  <div className="div3">
                     <div className="divmask-group">
-                      <div className="div20">
-                        <div className="div21">
+                      <div className="div4">
+                        <div className="div5">
                           <img
                             className="mg-2947-aa-1jpg-icon"
                             alt=""
@@ -2735,7 +2735,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div22">
+                    <div className="div6">
                       <img
                         className="play-newpng-icon"
                         alt=""
@@ -2744,12 +2744,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="video">Video</div>
                     </div>
                   </div>
-                  <div className="div23">
-                    <div className="div24">
-                      <div className="div534">
-                        <div className="div89">
+                  <div className="div7">
+                    <div className="div8">
+                      <div className="div518">
+                        <div className="div73">
                           <div className="nagoya-house">Kiel House</div>
-                          <div className="span15" />
+                          <div className="span11" />
                         </div>
                         <div className="south-campus">North Campus</div>
                       </div>
@@ -2759,8 +2759,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         src="../svghearticon21.svg"
                       />
                     </div>
-                    <div className="div27">
-                      <div className="div28">
+                    <div className="div11">
+                      <div className="div12">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -2768,8 +2768,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                         <div className="female">Female</div>
                       </div>
-                      <div className="div29" />
-                      <div className="div332">
+                      <div className="div13" />
+                      <div className="div316">
                         <img
                           className="female-listingpng-icon"
                           alt=""
@@ -2779,7 +2779,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                           Double, Triple, Quadruple
                         </div>
                       </div>
-                      <div className="div31">
+                      <div className="div15">
                         <img
                           className="directionspng-icon"
                           alt=""
@@ -2788,10 +2788,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         <div className="view-directions">View Directions</div>
                       </div>
                     </div>
-                    <div className="div32">
+                    <div className="div16">
                       <div className="amenities">Amenities</div>
-                      <div className="div33">
-                        <div className="div142">
+                      <div className="div17">
+                        <div className="div126">
                           <img
                             className="attached-balconypng-icon"
                             alt=""
@@ -2801,7 +2801,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Balcony
                           </div>
                         </div>
-                        <div className="div143">
+                        <div className="div127">
                           <img
                             className="acpng-icon"
                             alt=""
@@ -2811,7 +2811,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Air Conditioning
                           </div>
                         </div>
-                        <div className="div36">
+                        <div className="div20">
                           <img
                             className="attached-washroompng-icon"
                             alt=""
@@ -2821,7 +2821,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             Attached Washroom
                           </div>
                         </div>
-                        <div className="div37">
+                        <div className="div21">
                           <img
                             className="small-cupboardpng-icon"
                             alt=""
@@ -2833,21 +2833,21 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div340">
-                      <div className="div341">
+                    <div className="div324">
+                      <div className="div325">
                         <div className="amenities">Starts from</div>
                         <div className="mo">
                           <span>₹13,499</span>
                           <span className="mo1">/mo*</span>
                         </div>
                       </div>
-                      <div className="div42">
-                        <div className="button2">
+                      <div className="div26">
+                        <div className="button">
                           <div className="schedule-a-visit">
                             Schedule a visit
                           </div>
                         </div>
-                        <div className="button3">
+                        <div className="button1">
                           <div className="reserve-now">Reserve Now</div>
                         </div>
                       </div>
@@ -2856,37 +2856,37 @@ const WwwstanzalivingcomByHtmlt = () => {
                 </div>
               </div>
               <div className="div-wrapper">
-                <div className="div550">
-                  <div className="div551">
-                    <div className="div552">
-                      <div className="div553">
+                <div className="div534">
+                  <div className="div535">
+                    <div className="div536">
+                      <div className="div537">
                         <div className="map">
                           <div className="map">
                             <img className="div-icon" alt="" src="../div.svg" />
-                            <div className="div555">
+                            <div className="div539">
                               <div className="map">
-                                <div className="div557">
+                                <div className="div541">
                                   <img
                                     className="transparentpng-icon"
                                     alt=""
                                     src="../transparentpng@2x.png"
                                   />
                                 </div>
-                                <div className="div558">
+                                <div className="div542">
                                   <img
                                     className="transparentpng-icon"
                                     alt=""
                                     src="../transparentpng@2x.png"
                                   />
                                 </div>
-                                <div className="div559">
+                                <div className="div543">
                                   <img
                                     className="transparentpng-icon"
                                     alt=""
                                     src="../transparentpng@2x.png"
                                   />
                                 </div>
-                                <div className="div560">
+                                <div className="div544">
                                   <img
                                     className="transparentpng-icon"
                                     alt=""
@@ -2894,17 +2894,17 @@ const WwwstanzalivingcomByHtmlt = () => {
                                   />
                                 </div>
                               </div>
-                              <div className="div561">
-                                <div className="div562">
-                                  <div className="div563">
-                                    <div className="div564">
+                              <div className="div545">
+                                <div className="div546">
+                                  <div className="div547">
+                                    <div className="div548">
                                       <img
                                         className="jpg-icon1"
                                         alt=""
                                         src="../3jpg1@2x.png"
                                       />
-                                      <div className="div565">
-                                        <div className="div566">
+                                      <div className="div549">
+                                        <div className="div550">
                                           <div className="boston-house1">
                                             Boston House
                                           </div>
@@ -2915,7 +2915,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                                         <div className="month">
                                           ₹20,699 / month*
                                         </div>
-                                        <div className="div567">
+                                        <div className="div551">
                                           <div className="north-campus10">
                                             North Campus
                                           </div>
@@ -2930,32 +2930,32 @@ const WwwstanzalivingcomByHtmlt = () => {
                             </div>
                           </div>
                           <img className="div-icon1" alt="" src="../div1.svg" />
-                          <div className="div568">
-                            <div className="div569">
-                              <div className="div570">
-                                <div className="div571" />
+                          <div className="div552">
+                            <div className="div553">
+                              <div className="div554">
+                                <div className="div555" />
                               </div>
                               <div className="report-a-map">
                                 Report a map error
                               </div>
                             </div>
-                            <div className="div572">
-                              <div className="div570">
-                                <div className="div574" />
+                            <div className="div556">
+                              <div className="div554">
+                                <div className="div558" />
                               </div>
                               <div className="keyboard-shortcuts">
                                 Keyboard shortcuts
                               </div>
                             </div>
-                            <div className="div575">
-                              <div className="div570">
-                                <div className="div577" />
+                            <div className="div559">
+                              <div className="div554">
+                                <div className="div561" />
                               </div>
                               <div className="report-a-map">Map data ©2023</div>
                             </div>
-                            <div className="div578">
-                              <div className="div570">
-                                <div className="div580" />
+                            <div className="div562">
+                              <div className="div554">
+                                <div className="div564" />
                               </div>
                               <div className="report-a-map">Terms of Use</div>
                             </div>
@@ -2967,7 +2967,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                   </div>
                 </div>
               </div>
-              <div className="div581">
+              <div className="div565">
                 <img
                   className="whatsapppng-icon"
                   alt=""
@@ -2977,83 +2977,83 @@ const WwwstanzalivingcomByHtmlt = () => {
             </div>
             <div className="filters">Filters</div>
           </div>
-          <div className="div582">
-            <div className="div583">
+          <div className="div566">
+            <div className="div567">
               <div className="popular-searches">Popular Searches</div>
               <div className="ulmagic-quad-scroll">
-                <div className="a8">
+                <div className="a">
                   <div className="pg-in-greater">PG in Greater Noida</div>
                 </div>
-                <div className="a9">
+                <div className="a1">
                   <div className="pg-in-bengaluru">PG in Bengaluru</div>
                 </div>
-                <div className="a10">
+                <div className="a2">
                   <div className="pg-in-vadodara">PG in Vadodara</div>
                 </div>
-                <div className="a11">
+                <div className="a3">
                   <div className="pg-in-dehradun">PG in Dehradun</div>
                 </div>
-                <div className="a12">
+                <div className="a4">
                   <div className="pg-in-indore">PG in Indore</div>
                 </div>
-                <div className="a13">
+                <div className="a5">
                   <div className="pg-in-pune">PG in Pune</div>
                 </div>
-                <div className="a14">
+                <div className="a6">
                   <div className="pg-in-hyderabad">PG in Hyderabad</div>
                 </div>
-                <div className="a15">
+                <div className="a7">
                   <div className="pg-in-coimbatore">PG in Coimbatore</div>
                 </div>
-                <div className="a16">
+                <div className="a8">
                   <div className="pg-in-ahmedabad">PG in Ahmedabad</div>
                 </div>
-                <div className="a17">
+                <div className="a9">
                   <div className="pg-in-visakhapatnam">PG in Visakhapatnam</div>
                 </div>
-                <div className="a18">
+                <div className="a10">
                   <div className="pg-in-vidyanagar">PG in Vidyanagar</div>
                 </div>
-                <div className="a19">
+                <div className="a11">
                   <div className="pg-in-manipal">PG in Manipal</div>
                 </div>
-                <div className="a20">
+                <div className="a12">
                   <div className="pg-in-kochi">PG in Kochi</div>
                 </div>
-                <div className="a21">
+                <div className="a13">
                   <div className="pg-in-gandhinagar">PG in Gandhinagar</div>
                 </div>
-                <div className="a22">
+                <div className="a14">
                   <div className="pg-in-jaipur">PG in Jaipur</div>
                 </div>
-                <div className="a23">
+                <div className="a15">
                   <div className="pg-in-nagpur">PG in Nagpur</div>
                 </div>
-                <div className="a24">
+                <div className="a16">
                   <div className="pg-in-vijayawada">PG in Vijayawada</div>
                 </div>
-                <div className="a25">
+                <div className="a17">
                   <div className="pg-in-chennai">PG in Chennai</div>
                 </div>
-                <div className="a26">
+                <div className="a18">
                   <div className="pg-in-belgaum">PG in Belgaum</div>
                 </div>
-                <div className="a27">
+                <div className="a19">
                   <div className="pg-in-kota">PG in Kota</div>
                 </div>
-                <div className="a28">
+                <div className="a20">
                   <div className="pg-in-mumbai">PG in Mumbai</div>
                 </div>
-                <div className="a29">
+                <div className="a21">
                   <div className="pg-in-gurgaon">PG in Gurgaon</div>
                 </div>
-                <div className="a30">
+                <div className="a22">
                   <div className="pg-in-south">PG in South Campus</div>
                 </div>
-                <div className="a31">
+                <div className="a23">
                   <div className="pg-in-north">PG in North Campus</div>
                 </div>
-                <div className="a32">
+                <div className="a24">
                   <div className="pg-in-laxmi">PG in Laxmi Nagar</div>
                 </div>
               </div>
@@ -3061,9 +3061,9 @@ const WwwstanzalivingcomByHtmlt = () => {
           </div>
           <img className="div-child" alt="" />
         </a>
-        <div className="div584">
-          <div className="div585">
-            <div className="ul2">
+        <div className="div568">
+          <div className="div569">
+            <div className="ul">
               <div className="about-us1">About Us</div>
               <div className="team">Team</div>
               <div className="investor-relations">Investor Relations</div>
@@ -3073,7 +3073,7 @@ const WwwstanzalivingcomByHtmlt = () => {
               <div className="refer-and-earn">Refer and Earn</div>
               <div className="house-rules">House Rules</div>
               <div className="tc">{`T&C`}</div>
-              <div className="privacy-policy2">Privacy Policy</div>
+              <div className="privacy-policy1">Privacy Policy</div>
               <div className="careers">Careers</div>
               <div className="contact-us2">Contact Us</div>
               <div className="covid-19">COVID-19</div>
@@ -3081,7 +3081,7 @@ const WwwstanzalivingcomByHtmlt = () => {
               <div className="partner-with-us">Partner With Us</div>
               <div className="cookie-policy">Cookie Policy</div>
             </div>
-            <div className="div586">
+            <div className="div570">
               <img className="fbpng-icon" alt="" src="../fbpng@2x.png" />
               <img className="linkpng-icon" alt="" src="../linkpng@2x.png" />
               <img
@@ -3096,7 +3096,7 @@ const WwwstanzalivingcomByHtmlt = () => {
               src="../stanzalogopng@2x.png"
             />
           </div>
-          <div className="div587">
+          <div className="div571">
             <div className="copyright-2022">
               Copyright © 2022 | All Rights Reserved by Dtwelve Spaces Pvt Ltd.
               | Sitemap
@@ -3112,109 +3112,109 @@ const WwwstanzalivingcomByHtmlt = () => {
         <div className="about2">About</div>
         <div className="contact-us3">Contact us</div>
         <div className="div-next-inner">
-          <div className="group-wrapper417">
-            <div className="group-wrapper417">
-              <div className="group-wrapper417">
-                <div className="group-wrapper417">
-                  <div className="group-wrapper417">
-                    <div className="group-wrapper417">
-                      <div className="group-wrapper417">
-                        <div className="group-wrapper417">
-                          <div className="group-wrapper417">
-                            <div className="group-wrapper417">
-                              <div className="group-wrapper417">
-                                <div className="group-wrapper417">
-                                  <div className="group-wrapper417">
-                                    <div className="group-wrapper417">
-                                      <div className="group-wrapper417">
-                                        <div className="group-wrapper417">
-                                          <div className="group-wrapper417">
-                                            <div className="group-wrapper417">
-                                              <div className="group-wrapper417">
-                                                <div className="group-wrapper417">
-                                                  <div className="group-wrapper417">
-                                                    <div className="group-wrapper417">
-                                                      <div className="group-wrapper417">
-                                                        <div className="group-wrapper417">
-                                                          <div className="group-wrapper417">
-                                                            <div className="group-wrapper417">
-                                                              <div className="group-wrapper417">
-                                                                <div className="group-wrapper417">
-                                                                  <div className="group-wrapper417">
-                                                                    <div className="group-wrapper417">
-                                                                      <div className="group-wrapper417">
-                                                                        <div className="group-wrapper417">
-                                                                          <div className="group-wrapper417">
-                                                                            <div className="group-wrapper417">
-                                                                              <div className="group-wrapper417">
-                                                                                <div className="group-wrapper417">
-                                                                                  <div className="group-wrapper417">
-                                                                                    <div className="group-wrapper417">
-                                                                                      <div className="group-wrapper417">
-                                                                                        <div className="group-wrapper417">
-                                                                                          <div className="group-wrapper417">
-                                                                                            <div className="group-wrapper417">
-                                                                                              <div className="group-wrapper417">
-                                                                                                <div className="group-wrapper459">
-                                                                                                  <div className="group-wrapper460">
-                                                                                                    <div className="group-wrapper460">
-                                                                                                      <div className="group-wrapper460">
-                                                                                                        <div className="group-wrapper460">
-                                                                                                          <div className="group-wrapper460">
-                                                                                                            <div className="group-wrapper460">
-                                                                                                              <div className="group-wrapper460">
-                                                                                                                <div className="group-wrapper460">
-                                                                                                                  <div className="group-wrapper460">
-                                                                                                                    <div className="group-wrapper460">
-                                                                                                                      <div className="group-wrapper460">
-                                                                                                                        <div className="group-wrapper460">
-                                                                                                                          <div className="group-wrapper460">
-                                                                                                                            <div className="group-wrapper460">
-                                                                                                                              <div className="group-wrapper460">
-                                                                                                                                <div className="group-wrapper460">
-                                                                                                                                  <div className="group-wrapper460">
-                                                                                                                                    <div className="group-wrapper460">
-                                                                                                                                      <div className="group-wrapper460">
-                                                                                                                                        <div className="group-wrapper460">
-                                                                                                                                          <div className="group-wrapper460">
-                                                                                                                                            <div className="group-wrapper460">
-                                                                                                                                              <div className="group-wrapper460">
-                                                                                                                                                <div className="group-wrapper460">
-                                                                                                                                                  <div className="group-wrapper460">
-                                                                                                                                                    <div className="group-wrapper460">
-                                                                                                                                                      <div className="group-wrapper460">
-                                                                                                                                                        <div className="group-wrapper460">
-                                                                                                                                                          <div className="group-wrapper460">
-                                                                                                                                                            <div className="group-wrapper460">
-                                                                                                                                                              <div className="group-wrapper460">
-                                                                                                                                                                <div className="group-wrapper460">
-                                                                                                                                                                  <div className="group-wrapper460">
-                                                                                                                                                                    <div className="group-wrapper460">
-                                                                                                                                                                      <div className="group-wrapper460">
-                                                                                                                                                                        <div className="group-wrapper460">
-                                                                                                                                                                          <div className="group-wrapper460">
-                                                                                                                                                                            <div className="group-wrapper460">
-                                                                                                                                                                              <div className="group-wrapper460">
-                                                                                                                                                                                <div className="group-wrapper460">
-                                                                                                                                                                                  <div className="group-wrapper460">
-                                                                                                                                                                                    <div className="group-wrapper460">
-                                                                                                                                                                                      <div className="group-wrapper460">
-                                                                                                                                                                                        <div className="group-wrapper460">
-                                                                                                                                                                                          <div className="group-wrapper460">
-                                                                                                                                                                                            <div className="group-wrapper460">
-                                                                                                                                                                                              <div className="group-wrapper460">
-                                                                                                                                                                                                <div className="group-wrapper460">
-                                                                                                                                                                                                  <div className="group-wrapper460">
-                                                                                                                                                                                                    <div className="group-wrapper460">
-                                                                                                                                                                                                      <div className="group-wrapper460">
-                                                                                                                                                                                                        <div className="group-wrapper460">
-                                                                                                                                                                                                          <div className="group-wrapper460">
-                                                                                                                                                                                                            <div className="group-wrapper460">
-                                                                                                                                                                                                              <div className="group-wrapper460">
-                                                                                                                                                                                                                <div className="group-wrapper460">
-                                                                                                                                                                                                                  <div className="group-wrapper460">
-                                                                                                                                                                                                                    <div className="group-wrapper460">
-                                                                                                                                                                                                                      <div className="group-wrapper460">
+          <div className="group-wrapper418">
+            <div className="group-wrapper418">
+              <div className="group-wrapper418">
+                <div className="group-wrapper418">
+                  <div className="group-wrapper418">
+                    <div className="group-wrapper418">
+                      <div className="group-wrapper418">
+                        <div className="group-wrapper418">
+                          <div className="group-wrapper418">
+                            <div className="group-wrapper418">
+                              <div className="group-wrapper418">
+                                <div className="group-wrapper418">
+                                  <div className="group-wrapper418">
+                                    <div className="group-wrapper418">
+                                      <div className="group-wrapper418">
+                                        <div className="group-wrapper418">
+                                          <div className="group-wrapper418">
+                                            <div className="group-wrapper418">
+                                              <div className="group-wrapper418">
+                                                <div className="group-wrapper418">
+                                                  <div className="group-wrapper418">
+                                                    <div className="group-wrapper418">
+                                                      <div className="group-wrapper418">
+                                                        <div className="group-wrapper418">
+                                                          <div className="group-wrapper418">
+                                                            <div className="group-wrapper418">
+                                                              <div className="group-wrapper418">
+                                                                <div className="group-wrapper418">
+                                                                  <div className="group-wrapper418">
+                                                                    <div className="group-wrapper418">
+                                                                      <div className="group-wrapper418">
+                                                                        <div className="group-wrapper418">
+                                                                          <div className="group-wrapper418">
+                                                                            <div className="group-wrapper418">
+                                                                              <div className="group-wrapper418">
+                                                                                <div className="group-wrapper418">
+                                                                                  <div className="group-wrapper418">
+                                                                                    <div className="group-wrapper418">
+                                                                                      <div className="group-wrapper418">
+                                                                                        <div className="group-wrapper418">
+                                                                                          <div className="group-wrapper418">
+                                                                                            <div className="group-wrapper418">
+                                                                                              <div className="group-wrapper418">
+                                                                                                <div className="group-wrapper460">
+                                                                                                  <div className="group-wrapper461">
+                                                                                                    <div className="group-wrapper461">
+                                                                                                      <div className="group-wrapper461">
+                                                                                                        <div className="group-wrapper461">
+                                                                                                          <div className="group-wrapper461">
+                                                                                                            <div className="group-wrapper461">
+                                                                                                              <div className="group-wrapper461">
+                                                                                                                <div className="group-wrapper461">
+                                                                                                                  <div className="group-wrapper461">
+                                                                                                                    <div className="group-wrapper461">
+                                                                                                                      <div className="group-wrapper461">
+                                                                                                                        <div className="group-wrapper461">
+                                                                                                                          <div className="group-wrapper461">
+                                                                                                                            <div className="group-wrapper461">
+                                                                                                                              <div className="group-wrapper461">
+                                                                                                                                <div className="group-wrapper461">
+                                                                                                                                  <div className="group-wrapper461">
+                                                                                                                                    <div className="group-wrapper461">
+                                                                                                                                      <div className="group-wrapper461">
+                                                                                                                                        <div className="group-wrapper461">
+                                                                                                                                          <div className="group-wrapper461">
+                                                                                                                                            <div className="group-wrapper461">
+                                                                                                                                              <div className="group-wrapper461">
+                                                                                                                                                <div className="group-wrapper461">
+                                                                                                                                                  <div className="group-wrapper461">
+                                                                                                                                                    <div className="group-wrapper461">
+                                                                                                                                                      <div className="group-wrapper461">
+                                                                                                                                                        <div className="group-wrapper461">
+                                                                                                                                                          <div className="group-wrapper461">
+                                                                                                                                                            <div className="group-wrapper461">
+                                                                                                                                                              <div className="group-wrapper461">
+                                                                                                                                                                <div className="group-wrapper461">
+                                                                                                                                                                  <div className="group-wrapper461">
+                                                                                                                                                                    <div className="group-wrapper461">
+                                                                                                                                                                      <div className="group-wrapper461">
+                                                                                                                                                                        <div className="group-wrapper461">
+                                                                                                                                                                          <div className="group-wrapper461">
+                                                                                                                                                                            <div className="group-wrapper461">
+                                                                                                                                                                              <div className="group-wrapper461">
+                                                                                                                                                                                <div className="group-wrapper461">
+                                                                                                                                                                                  <div className="group-wrapper461">
+                                                                                                                                                                                    <div className="group-wrapper461">
+                                                                                                                                                                                      <div className="group-wrapper461">
+                                                                                                                                                                                        <div className="group-wrapper461">
+                                                                                                                                                                                          <div className="group-wrapper461">
+                                                                                                                                                                                            <div className="group-wrapper461">
+                                                                                                                                                                                              <div className="group-wrapper461">
+                                                                                                                                                                                                <div className="group-wrapper461">
+                                                                                                                                                                                                  <div className="group-wrapper461">
+                                                                                                                                                                                                    <div className="group-wrapper461">
+                                                                                                                                                                                                      <div className="group-wrapper461">
+                                                                                                                                                                                                        <div className="group-wrapper461">
+                                                                                                                                                                                                          <div className="group-wrapper461">
+                                                                                                                                                                                                            <div className="group-wrapper461">
+                                                                                                                                                                                                              <div className="group-wrapper461">
+                                                                                                                                                                                                                <div className="group-wrapper461">
+                                                                                                                                                                                                                  <div className="group-wrapper461">
+                                                                                                                                                                                                                    <div className="group-wrapper461">
+                                                                                                                                                                                                                      <div className="group-wrapper461">
                                                                                                                                                                                                                         <div className="hostel-hopper4">
                                                                                                                                                                                                                           Hostel
                                                                                                                                                                                                                           Hopper
@@ -3284,47 +3284,47 @@ const WwwstanzalivingcomByHtmlt = () => {
                                                                                                   alt=""
                                                                                                   src="../bunk-1@2x.png"
                                                                                                 />
-                                                                                                <div className="group-wrapper518">
-                                                                                                  <div className="group-wrapper518">
-                                                                                                    <div className="group-wrapper518">
-                                                                                                      <div className="group-wrapper518">
-                                                                                                        <div className="group-wrapper518">
-                                                                                                          <div className="group-wrapper518">
-                                                                                                            <div className="group-wrapper518">
-                                                                                                              <div className="group-wrapper518">
-                                                                                                                <div className="group-wrapper518">
-                                                                                                                  <div className="group-wrapper518">
-                                                                                                                    <div className="group-wrapper518">
-                                                                                                                      <div className="group-wrapper518">
-                                                                                                                        <div className="group-wrapper518">
-                                                                                                                          <div className="group-wrapper518">
-                                                                                                                            <div className="group-wrapper518">
-                                                                                                                              <div className="group-wrapper518">
-                                                                                                                                <div className="group-wrapper518">
-                                                                                                                                  <div className="group-wrapper518">
-                                                                                                                                    <div className="group-wrapper518">
-                                                                                                                                      <div className="group-wrapper518">
-                                                                                                                                        <div className="group-wrapper518">
-                                                                                                                                          <div className="group-wrapper518">
-                                                                                                                                            <div className="group-wrapper518">
-                                                                                                                                              <div className="group-wrapper518">
-                                                                                                                                                <div className="group-wrapper518">
-                                                                                                                                                  <div className="group-wrapper518">
-                                                                                                                                                    <div className="group-wrapper518">
-                                                                                                                                                      <div className="group-wrapper518">
-                                                                                                                                                        <div className="group-wrapper518">
-                                                                                                                                                          <div className="group-wrapper518">
-                                                                                                                                                            <div className="group-wrapper518">
-                                                                                                                                                              <div className="group-wrapper518">
-                                                                                                                                                                <div className="group-wrapper518">
-                                                                                                                                                                  <div className="group-wrapper518">
-                                                                                                                                                                    <div className="group-wrapper518">
-                                                                                                                                                                      <div className="group-wrapper518">
-                                                                                                                                                                        <div className="group-wrapper518">
-                                                                                                                                                                          <div className="group-wrapper518">
-                                                                                                                                                                            <div className="group-wrapper518">
-                                                                                                                                                                              <div className="group-wrapper518">
-                                                                                                                                                                                <div className="group-wrapper518">
+                                                                                                <div className="group-wrapper519">
+                                                                                                  <div className="group-wrapper519">
+                                                                                                    <div className="group-wrapper519">
+                                                                                                      <div className="group-wrapper519">
+                                                                                                        <div className="group-wrapper519">
+                                                                                                          <div className="group-wrapper519">
+                                                                                                            <div className="group-wrapper519">
+                                                                                                              <div className="group-wrapper519">
+                                                                                                                <div className="group-wrapper519">
+                                                                                                                  <div className="group-wrapper519">
+                                                                                                                    <div className="group-wrapper519">
+                                                                                                                      <div className="group-wrapper519">
+                                                                                                                        <div className="group-wrapper519">
+                                                                                                                          <div className="group-wrapper519">
+                                                                                                                            <div className="group-wrapper519">
+                                                                                                                              <div className="group-wrapper519">
+                                                                                                                                <div className="group-wrapper519">
+                                                                                                                                  <div className="group-wrapper519">
+                                                                                                                                    <div className="group-wrapper519">
+                                                                                                                                      <div className="group-wrapper519">
+                                                                                                                                        <div className="group-wrapper519">
+                                                                                                                                          <div className="group-wrapper519">
+                                                                                                                                            <div className="group-wrapper519">
+                                                                                                                                              <div className="group-wrapper519">
+                                                                                                                                                <div className="group-wrapper519">
+                                                                                                                                                  <div className="group-wrapper519">
+                                                                                                                                                    <div className="group-wrapper519">
+                                                                                                                                                      <div className="group-wrapper519">
+                                                                                                                                                        <div className="group-wrapper519">
+                                                                                                                                                          <div className="group-wrapper519">
+                                                                                                                                                            <div className="group-wrapper519">
+                                                                                                                                                              <div className="group-wrapper519">
+                                                                                                                                                                <div className="group-wrapper519">
+                                                                                                                                                                  <div className="group-wrapper519">
+                                                                                                                                                                    <div className="group-wrapper519">
+                                                                                                                                                                      <div className="group-wrapper519">
+                                                                                                                                                                        <div className="group-wrapper519">
+                                                                                                                                                                          <div className="group-wrapper519">
+                                                                                                                                                                            <div className="group-wrapper519">
+                                                                                                                                                                              <div className="group-wrapper519">
+                                                                                                                                                                                <div className="group-wrapper519">
                                                                                                                                                                                   <img
                                                                                                                                                                                     className="pngwing-1-icon3"
                                                                                                                                                                                     alt=""
@@ -3422,7 +3422,7 @@ const WwwstanzalivingcomByHtmlt = () => {
               Search for files, plugins, and creators
             </div>
           </div>
-          <img className="group-child2" alt="" src="../group-152.svg" />
+          <img className="group-child2" alt="" src="../group-15.svg" />
           <div className="search3">search</div>
         </div>
       </div>
@@ -3431,33 +3431,33 @@ const WwwstanzalivingcomByHtmlt = () => {
           <div className="ol">
             <div className="home">Home</div>
             <img className="svg-icon6" alt="" src="../svg6.svg" />
-            <div className="div588">
+            <div className="div572">
               <div className="all-hostels">All hostels</div>
-              <div className="span20">
+              <div className="span16">
                 <div className="hostels">Hostels</div>
                 <img className="svg-icon7" alt="" src="../svg7.svg" />
               </div>
             </div>
             <img className="svg-icon8" alt="" src="../svg8.svg" />
-            <div className="div589">
+            <div className="div573">
               <div className="all-hostels">India</div>
-              <div className="span21">
+              <div className="span17">
                 <div className="hostels">Hostels</div>
                 <img className="svg-icon7" alt="" src="../svg9.svg" />
               </div>
             </div>
             <img className="svg-icon10" alt="" src="../svg10.svg" />
-            <div className="div590">
+            <div className="div574">
               <div className="all-hostels">Delhi NCR</div>
-              <div className="span21">
+              <div className="span17">
                 <div className="hostels">Hostels</div>
                 <img className="svg-icon7" alt="" src="../svg11.svg" />
               </div>
             </div>
             <img className="svg-icon12" alt="" src="../svg12.svg" />
-            <div className="div591">
+            <div className="div575">
               <div className="all-hostels">New Delhi</div>
-              <div className="span21">
+              <div className="span17">
                 <div className="hostels">Hostels</div>
                 <img className="svg-icon7" alt="" src="../svg13.svg" />
               </div>
@@ -3467,8 +3467,8 @@ const WwwstanzalivingcomByHtmlt = () => {
               A Sleepy fox (Hostel), New Delhi (India) deals
             </div>
           </div>
-          <div className="div592">
-            <div className="div593">
+          <div className="div576">
+            <div className="div577">
               <div className="svg">
                 <img className="frame-icon" alt="" src="../frame.svg" />
               </div>
@@ -3481,13 +3481,13 @@ const WwwstanzalivingcomByHtmlt = () => {
             </div>
           </div>
           <div className="divhoteltmpl">
-            <div className="div594">
-              <div className="div595">
-                <div className="div596">
-                  <div className="div597">
-                    <div className="button46">
-                      <div className="span24">
-                        <div className="span24">
+            <div className="div578">
+              <div className="div579">
+                <div className="div580">
+                  <div className="div581">
+                    <div className="button44">
+                      <div className="span20">
+                        <div className="span20">
                           <img
                             className="frame-icon2"
                             alt=""
@@ -3498,16 +3498,16 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="we-price-match">We Price Match</div>
                     </div>
                   </div>
-                  <div className="div598">
+                  <div className="div582">
                     <div className="search4">Search</div>
-                    <div className="div599">
+                    <div className="div583">
                       <div className="all-hostels">
                         Destination/property name:
                       </div>
-                      <div className="div600">
-                        <div className="div601" />
-                        <div className="div602">
-                          <div className="span24">
+                      <div className="div584">
+                        <div className="div585" />
+                        <div className="div586">
+                          <div className="span20">
                             <img
                               className="frame-icon"
                               alt=""
@@ -3515,16 +3515,16 @@ const WwwstanzalivingcomByHtmlt = () => {
                             />
                           </div>
                           <div className="input">
-                            <div className="div603">
+                            <div className="div587">
                               <div className="new-delhi1">New Delhi</div>
                             </div>
                           </div>
                         </div>
                       </div>
                     </div>
-                    <div className="div604">
+                    <div className="div588">
                       <div className="check-in-date">Check-in date</div>
-                      <div className="button47">
+                      <div className="button45">
                         <div className="svg4">
                           <img
                             className="frame-icon4"
@@ -3532,7 +3532,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             src="../frame4.svg"
                           />
                         </div>
-                        <div className="div605">+</div>
+                        <div className="div589">+</div>
                         <div className="check-in-date1">Check-in date</div>
                         <div className="svg5">
                           <img
@@ -3543,7 +3543,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                       <div className="check-out-date">Check-out date</div>
-                      <div className="button48">
+                      <div className="button46">
                         <div className="svg4">
                           <img
                             className="frame-icon4"
@@ -3551,7 +3551,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             src="../frame4.svg"
                           />
                         </div>
-                        <div className="div605">+</div>
+                        <div className="div589">+</div>
                         <div className="check-in-date1">Check-out date</div>
                         <div className="svg5">
                           <img
@@ -3562,7 +3562,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="button49">
+                    <div className="button47">
                       <div className="adults-0">
                         2 adults · 0 children · 1 room
                       </div>
@@ -3574,12 +3574,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                       </div>
                     </div>
-                    <div className="div607">
+                    <div className="div591">
                       <div className="label">
                         <div className="im-travelling-for">
                           I'm travelling for work
                         </div>
-                        <div className="span25" />
+                        <div className="span21" />
                       </div>
                       <div className="svg9">
                         <img
@@ -3589,22 +3589,22 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                       </div>
                     </div>
-                    <div className="button50">
+                    <div className="button48">
                       <div className="pseudo" />
                       <b className="search5">Search</b>
                     </div>
                   </div>
                   <div className="ahotel-sidebar-static-map">
                     <img className="svg-icon15" alt="" src="../svg15.svg" />
-                    <div className="button51">
+                    <div className="button49">
                       <div className="pseudo1" />
                       <div className="show-on-map">Show on map</div>
                     </div>
                   </div>
                 </div>
-                <div className="div608">
-                  <div className="div609">
-                    <div className="ul3">
+                <div className="div592">
+                  <div className="div593">
+                    <div className="ul1">
                       <div className="li">
                         <div className="we-price-match">{`Info & prices`}</div>
                       </div>
@@ -3619,11 +3619,11 @@ const WwwstanzalivingcomByHtmlt = () => {
                   </div>
                   <div className="divwrap-hotelpage-top">
                     <div className="divhp-hotel-name">
-                      <div className="span26">
-                        <div className="span27">
+                      <div className="span22">
+                        <div className="span23">
                           <div className="all-hostels">Hostel</div>
                         </div>
-                        <div className="span28">
+                        <div className="span24">
                           <div className="all-hostels">New to Booking.com</div>
                         </div>
                       </div>
@@ -3635,7 +3635,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         B12A kailash colony Greater kailsh 1, Kailash Colony,
                         110048 New Delhi, India
                       </div>
-                      <div className="span29">
+                      <div className="span25">
                         <div className="excellent-location-container">
                           <span className="metro-access-txt-container">
                             <span>{`– `}</span>
@@ -3661,12 +3661,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <img className="svg-icon16" alt="" src="../svg16.svg" />
                       <div className="buttonshare-center-btn">
                         <div className="i">
-                          <div className="div610">ꀐ</div>
+                          <div className="div594">ꀐ</div>
                         </div>
                       </div>
-                      <div className="button52">
-                        <div className="span24">
-                          <div className="span24">
+                      <div className="button50">
+                        <div className="span20">
+                          <div className="span20">
                             <img
                               className="frame-icon2"
                               alt=""
@@ -3678,18 +3678,18 @@ const WwwstanzalivingcomByHtmlt = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="div611">
+                  <div className="div595">
                     <img className="a-icon" alt="" src="../a@2x.png" />
                     <img className="a-icon1" alt="" src="../a1@2x.png" />
                     <img className="a-icon2" alt="" src="../a2@2x.png" />
-                    <div className="div612">
+                    <div className="div596">
                       <img className="a-icon3" alt="" src="../a3@2x.png" />
                       <img className="a-icon4" alt="" src="../a4@2x.png" />
                       <img className="a-icon5" alt="" src="../a5@2x.png" />
                       <img className="a-icon6" alt="" src="../a6@2x.png" />
-                      <div className="a33">
-                        <div className="span31">
-                          <div className="span32">
+                      <div className="a25">
+                        <div className="span27">
+                          <div className="span28">
                             <b className="photos">+25 photos</b>
                           </div>
                         </div>
@@ -3697,30 +3697,30 @@ const WwwstanzalivingcomByHtmlt = () => {
                     </div>
                     <div className="divreviewfloater">
                       <div className="divjs-hp-gallery-scorecard">
-                        <div className="div613">
+                        <div className="div597">
                           <div className="scored-93">
-                            <div className="div614">9.3</div>
+                            <div className="div598">9.3</div>
                           </div>
-                          <div className="div615">
+                          <div className="div599">
                             <div className="superb">Superb</div>
                             <div className="reviews">22 reviews</div>
                           </div>
                         </div>
                       </div>
-                      <div className="div616">
-                        <div className="div617">
-                          <div className="div618">
+                      <div className="div600">
+                        <div className="div601">
+                          <div className="div602">
                             <div className="p1">
                               <div className="silence-and-good">
                                 silence and good place to work. staff behaviour
                                 and cooperation is good good food
                               </div>
                             </div>
-                            <div className="div619">
-                              <div className="div620">
-                                <div className="div621">
+                            <div className="div603">
+                              <div className="div604">
+                                <div className="div605">
                                   <div className="all-hostels">Ajay</div>
-                                  <div className="span33">
+                                  <div className="span29">
                                     <img
                                       className="bb04ae7a09e77da6742be779ac06cf-icon"
                                       alt=""
@@ -3729,7 +3729,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                                     <div className="india1">India</div>
                                   </div>
                                 </div>
-                                <div className="div622">
+                                <div className="div606">
                                   <img
                                     className="photojpg64-icon"
                                     alt=""
@@ -3740,22 +3740,22 @@ const WwwstanzalivingcomByHtmlt = () => {
                             </div>
                           </div>
                         </div>
-                        <div className="div623" />
-                        <div className="div624" />
+                        <div className="div607" />
+                        <div className="div608" />
                       </div>
-                      <div className="div625">
+                      <div className="div609">
                         <b className="free-wifi">Free WiFi</b>
                         <div className="scored-10">
-                          <div className="div626">10</div>
+                          <div className="div610">10</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-              <div className="div627">
-                <div className="div628">
-                  <div className="div629">
+              <div className="div611">
+                <div className="div612">
+                  <div className="div613">
                     <div className="divproperty-description-conte">
                       <div className="p2">
                         <div className="youre-eligible-for-container">
@@ -3792,7 +3792,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         from A Sleepy fox.
                       </div>
                     </div>
-                    <div className="span34">
+                    <div className="span30">
                       <b className="a-sleepy-fox2">
                         A Sleepy fox has been welcoming HostelHoppers since 22
                         Feb 2023.
@@ -3803,12 +3803,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                       OpenStreetMap
                     </div>
                   </div>
-                  <div className="div630">
+                  <div className="div614">
                     <b className="most-popular-facilities">
                       Most popular facilities
                     </b>
-                    <div className="div631">
-                      <div className="div632">
+                    <div className="div615">
+                      <div className="div616">
                         <div className="svg11">
                           <img
                             className="frame-icon4"
@@ -3818,7 +3818,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                         <div className="free-parking">Free WiFi</div>
                       </div>
-                      <div className="div633">
+                      <div className="div617">
                         <div className="svg11">
                           <img
                             className="frame-icon4"
@@ -3828,7 +3828,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                         <div className="free-parking">Free parking</div>
                       </div>
-                      <div className="div634">
+                      <div className="div618">
                         <div className="svg11">
                           <img
                             className="frame-icon4"
@@ -3841,7 +3841,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                     </div>
                   </div>
                 </div>
-                <div className="div635">
+                <div className="div619">
                   <b className="property-highlights">Property highlights</b>
                   <div className="p3">
                     <img className="svg-icon17" alt="" src="../svg17.svg" />
@@ -3849,7 +3849,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                       Top location: Highly rated by recent guests (9.7)
                     </div>
                   </div>
-                  <div className="div636">
+                  <div className="div620">
                     <b className="breakfast-info">Breakfast info</b>
                     <div className="asian">Asian</div>
                   </div>
@@ -3859,9 +3859,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                       Free private parking available on-site
                     </div>
                   </div>
-                  <div className="div637">
+                  <div className="div621">
                     <b className="genius-discount">Genius discount</b>
-                    <div className="span35">
+                    <div className="span31">
                       <div className="youre-eligible-for-container2">
                         <span className="metro-access-txt-container">
                           <span>{`You're eligible for a discount with our loyalty programme when you `}</span>
@@ -3870,7 +3870,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="button53">
+                  <div className="button51">
                     <div className="pseudo3" />
                     <div className="reserve1">Reserve</div>
                   </div>
@@ -3878,11 +3878,11 @@ const WwwstanzalivingcomByHtmlt = () => {
               </div>
               <div className="hr" />
               <div className="divhp-availability-style-chan">
-                <div className="div638">
+                <div className="div622">
                   <b className="availability">Availability</b>
-                  <div className="button54">
-                    <div className="span24">
-                      <div className="span24">
+                  <div className="button52">
+                    <div className="span20">
+                      <div className="span20">
                         <img
                           className="frame-icon2"
                           alt=""
@@ -3893,50 +3893,50 @@ const WwwstanzalivingcomByHtmlt = () => {
                     <div className="we-price-match">We Price Match</div>
                   </div>
                 </div>
-                <div className="div639">
+                <div className="div623">
                   <img className="svg-icon19" alt="" src="../svg19.svg" />
                   <div className="select-dates-to">
                     Select dates to see this property's availability and prices
                   </div>
                 </div>
-                <div className="div640">
-                  <div className="div641">
-                    <div className="div642">
-                      <div className="div643">
-                        <div className="div644">
-                          <div className="div645">
+                <div className="div624">
+                  <div className="div625">
+                    <div className="div626">
+                      <div className="div627">
+                        <div className="div628">
+                          <div className="div629">
                             <div className="we-price-match">Check-in</div>
                           </div>
                         </div>
-                        <div className="div646">
-                          <div className="div647">
-                            <div className="div648" />
-                            <div className="div649">놀</div>
+                        <div className="div630">
+                          <div className="div631">
+                            <div className="div632" />
+                            <div className="div633">놀</div>
                           </div>
-                          <div className="div650">
-                            <div className="div651" />
-                            <div className="div652">놀</div>
+                          <div className="div634">
+                            <div className="div635" />
+                            <div className="div636">놀</div>
                           </div>
                         </div>
                         <img className="svg-icon20" alt="" src="../svg20.svg" />
                       </div>
                       <div className="pseudo4" />
                     </div>
-                    <div className="div653">
-                      <div className="div643">
-                        <div className="div655">
-                          <div className="div656">
+                    <div className="div637">
+                      <div className="div627">
+                        <div className="div639">
+                          <div className="div640">
                             <div className="we-price-match">Check-out</div>
                           </div>
                         </div>
-                        <div className="div657">
-                          <div className="div658">
-                            <div className="div659" />
-                            <div className="div660">놀</div>
+                        <div className="div641">
+                          <div className="div642">
+                            <div className="div643" />
+                            <div className="div644">놀</div>
                           </div>
-                          <div className="div661">
-                            <div className="div662" />
-                            <div className="div663">놀</div>
+                          <div className="div645">
+                            <div className="div646" />
+                            <div className="div647">놀</div>
                           </div>
                         </div>
                       </div>
@@ -3948,12 +3948,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                       alt=""
                       src="../b2e5f2aa32b71ca0fc66aa671e4e958bcd69b7d0svg.svg"
                     />
-                    <div className="span37">
+                    <div className="span33">
                       <div className="adults">2 adults</div>
-                      <div className="span38">
+                      <div className="span34">
                         <div className="we-price-match">· 0 children</div>
                       </div>
-                      <div className="span39">
+                      <div className="span35">
                         <div className="we-price-match">· 1 room</div>
                       </div>
                     </div>
@@ -3963,26 +3963,26 @@ const WwwstanzalivingcomByHtmlt = () => {
                       src="../labelxp--guests--toggle.svg"
                     />
                   </div>
-                  <div className="button55">
+                  <div className="button53">
                     <div className="we-price-match">Search</div>
                   </div>
                 </div>
                 <div className="section">
-                  <div className="div664">
-                    <div className="div665">
+                  <div className="div648">
+                    <div className="div649">
                       <b className="room-type">Room type</b>
                     </div>
-                    <div className="div666">
+                    <div className="div650">
                       <b className="sleeps">Sleeps</b>
                     </div>
-                    <div className="div667" />
+                    <div className="div651" />
                   </div>
-                  <div className="div668">
-                    <div className="div669">
+                  <div className="div652">
+                    <div className="div653">
                       <b className="deluxe-double-or">
                         Deluxe Double or Twin Room
                       </b>
-                      <div className="div670">
+                      <div className="div654">
                         <div className="large-double-bed">
                           1 large double bed
                         </div>
@@ -3995,16 +3995,16 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div671">
-                      <div className="span40">
-                        <div className="span24">
+                    <div className="div655">
+                      <div className="span36">
+                        <div className="span20">
                           <img
                             className="frame-icon2"
                             alt=""
                             src="../frame16.svg"
                           />
                         </div>
-                        <div className="span24">
+                        <div className="span20">
                           <img
                             className="frame-icon2"
                             alt=""
@@ -4013,17 +4013,17 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="span41">
+                    <div className="span37">
                       <div className="pseudo5" />
                       <div className="show-prices">Show prices</div>
                     </div>
                   </div>
-                  <div className="div672">
-                    <div className="div669">
+                  <div className="div656">
+                    <div className="div653">
                       <b className="deluxe-double-room">
                         Deluxe Double Room with Balcony
                       </b>
-                      <div className="div670">
+                      <div className="div654">
                         <div className="large-double-bed">
                           1 large double bed
                         </div>
@@ -4036,16 +4036,16 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div671">
-                      <div className="span40">
-                        <div className="span24">
+                    <div className="div655">
+                      <div className="span36">
+                        <div className="span20">
                           <img
                             className="frame-icon2"
                             alt=""
                             src="../frame16.svg"
                           />
                         </div>
-                        <div className="span24">
+                        <div className="span20">
                           <img
                             className="frame-icon2"
                             alt=""
@@ -4054,17 +4054,17 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="span41">
+                    <div className="span37">
                       <div className="pseudo5" />
                       <div className="show-prices">Show prices</div>
                     </div>
                   </div>
-                  <div className="div676">
-                    <div className="div669">
+                  <div className="div660">
+                    <div className="div653">
                       <b className="bed-in-8-bed">
                         Bed in 8-Bed Mixed Dormitory Room
                       </b>
-                      <div className="div678">
+                      <div className="div662">
                         <div className="large-double-bed">1 bunk bed</div>
                         <div className="svg21">
                           <img
@@ -4075,7 +4075,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div671">
+                    <div className="div655">
                       <div className="svg22">
                         <img
                           className="frame-icon2"
@@ -4084,17 +4084,17 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                       </div>
                     </div>
-                    <div className="span41">
+                    <div className="span37">
                       <div className="pseudo5" />
                       <div className="show-prices">Show prices</div>
                     </div>
                   </div>
-                  <div className="div680">
-                    <div className="div669">
+                  <div className="div664">
+                    <div className="div653">
                       <b className="bed-in-8-bed">
                         Bed in 6-Bed Mixed Dormitory Room
                       </b>
-                      <div className="div678">
+                      <div className="div662">
                         <div className="large-double-bed">1 bunk bed</div>
                         <div className="svg21">
                           <img
@@ -4105,7 +4105,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div671">
+                    <div className="div655">
                       <div className="svg22">
                         <img
                           className="frame-icon2"
@@ -4114,14 +4114,14 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                       </div>
                     </div>
-                    <div className="span41">
+                    <div className="span37">
                       <div className="pseudo5" />
                       <div className="show-prices">Show prices</div>
                     </div>
                   </div>
                 </div>
               </div>
-              <div className="div684">
+              <div className="div668">
                 <img className="svg-icon21" alt="" src="../svg21.svg" />
                 <div className="p5">
                   <div className="no-credit-card-container">
@@ -4134,21 +4134,21 @@ const WwwstanzalivingcomByHtmlt = () => {
                 </div>
               </div>
               <div className="divguest-featured-reviews-ho">
-                <div className="button56">
+                <div className="button54">
                   <div className="pseudo9" />
                   <div className="show-on-map">See availability</div>
                 </div>
-                <div className="div685">
-                  <div className="div686">
+                <div className="div669">
+                  <div className="div670">
                     <b className="guest-reviews">Guest reviews</b>
-                    <div className="div687">
-                      <div className="div688">
+                    <div className="div671">
+                      <div className="div672">
                         <div className="scored-931">
-                          <div className="div614">9.3</div>
+                          <div className="div598">9.3</div>
                         </div>
-                        <div className="div690">
+                        <div className="div674">
                           <div className="superb1">Superb</div>
-                          <div className="span46">
+                          <div className="span42">
                             <div className="superb1">· 22 reviews</div>
                           </div>
                         </div>
@@ -4156,14 +4156,14 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="read-all-reviews">Read all reviews</div>
                     </div>
                   </div>
-                  <div className="div691">
+                  <div className="div675">
                     <b className="categories">Categories:</b>
-                    <div className="div692">
-                      <div className="div693">
-                        <div className="div694">
-                          <div className="span47">
+                    <div className="div676">
+                      <div className="div677">
+                        <div className="div678">
+                          <div className="span43">
                             <div className="we-price-match">Staff</div>
-                            <div className="span24">
+                            <div className="span20">
                               <img
                                 className="frame-icon25"
                                 alt=""
@@ -4173,15 +4173,15 @@ const WwwstanzalivingcomByHtmlt = () => {
                           </div>
                           <div className="we-price-match">9.7</div>
                         </div>
-                        <div className="div696">
-                          <div className="span48" />
+                        <div className="div680">
+                          <div className="span44" />
                         </div>
                       </div>
-                      <div className="div697">
-                        <div className="div698">
-                          <div className="span49">
+                      <div className="div681">
+                        <div className="div682">
+                          <div className="span45">
                             <div className="we-price-match">Facilities</div>
-                            <div className="span24">
+                            <div className="span20">
                               <img
                                 className="frame-icon25"
                                 alt=""
@@ -4191,15 +4191,15 @@ const WwwstanzalivingcomByHtmlt = () => {
                           </div>
                           <div className="we-price-match">9.2</div>
                         </div>
-                        <div className="div696">
-                          <div className="span50" />
+                        <div className="div680">
+                          <div className="span46" />
                         </div>
                       </div>
-                      <div className="div701">
-                        <div className="div702">
-                          <div className="span51">
+                      <div className="div685">
+                        <div className="div686">
+                          <div className="span47">
                             <div className="we-price-match">Cleanliness</div>
-                            <div className="span24">
+                            <div className="span20">
                               <img
                                 className="frame-icon25"
                                 alt=""
@@ -4207,17 +4207,17 @@ const WwwstanzalivingcomByHtmlt = () => {
                               />
                             </div>
                           </div>
-                          <div className="div703">9.2</div>
+                          <div className="div687">9.2</div>
                         </div>
-                        <div className="div696">
-                          <div className="span50" />
+                        <div className="div680">
+                          <div className="span46" />
                         </div>
                       </div>
-                      <div className="div705">
-                        <div className="div706">
-                          <div className="span53">
+                      <div className="div689">
+                        <div className="div690">
+                          <div className="span49">
                             <div className="we-price-match">Comfort</div>
-                            <div className="span24">
+                            <div className="span20">
                               <img
                                 className="frame-icon25"
                                 alt=""
@@ -4227,17 +4227,17 @@ const WwwstanzalivingcomByHtmlt = () => {
                           </div>
                           <div className="we-price-match">9.5</div>
                         </div>
-                        <div className="div696">
-                          <div className="span54" />
+                        <div className="div680">
+                          <div className="span50" />
                         </div>
                       </div>
-                      <div className="div709">
-                        <div className="div710">
-                          <div className="span55">
+                      <div className="div693">
+                        <div className="div694">
+                          <div className="span51">
                             <div className="we-price-match">
                               Value for money
                             </div>
-                            <div className="span24">
+                            <div className="span20">
                               <img
                                 className="frame-icon25"
                                 alt=""
@@ -4247,15 +4247,15 @@ const WwwstanzalivingcomByHtmlt = () => {
                           </div>
                           <div className="we-price-match">9.5</div>
                         </div>
-                        <div className="div696">
-                          <div className="span54" />
+                        <div className="div680">
+                          <div className="span50" />
                         </div>
                       </div>
-                      <div className="div713">
-                        <div className="div714">
-                          <div className="span57">
+                      <div className="div697">
+                        <div className="div698">
+                          <div className="span53">
                             <div className="we-price-match">Location</div>
-                            <div className="span24">
+                            <div className="span20">
                               <img
                                 className="frame-icon25"
                                 alt=""
@@ -4265,15 +4265,15 @@ const WwwstanzalivingcomByHtmlt = () => {
                           </div>
                           <div className="we-price-match">9.7</div>
                         </div>
-                        <div className="div696">
-                          <div className="span48" />
+                        <div className="div680">
+                          <div className="span44" />
                         </div>
                       </div>
-                      <div className="div717">
-                        <div className="div718">
-                          <div className="span59">
+                      <div className="div701">
+                        <div className="div702">
+                          <div className="span55">
                             <div className="we-price-match">Free WiFi</div>
-                            <div className="span24">
+                            <div className="span20">
                               <img
                                 className="frame-icon25"
                                 alt=""
@@ -4281,14 +4281,14 @@ const WwwstanzalivingcomByHtmlt = () => {
                               />
                             </div>
                           </div>
-                          <div className="div703">10</div>
+                          <div className="div687">10</div>
                         </div>
-                        <div className="div696">
-                          <div className="span60" />
+                        <div className="div680">
+                          <div className="span56" />
                         </div>
                       </div>
-                      <div className="div721">
-                        <div className="span24">
+                      <div className="div705">
+                        <div className="span20">
                           <img
                             className="frame-icon25"
                             alt=""
@@ -4301,88 +4301,88 @@ const WwwstanzalivingcomByHtmlt = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="div722">
+                  <div className="div706">
                     <b className="select-topics-to">
                       Select topics to read reviews:
                     </b>
-                    <div className="div723">
-                      <div className="span61">
-                        <div className="span24">
+                    <div className="div707">
+                      <div className="span57">
+                        <div className="span20">
                           <img
                             className="frame-icon2"
                             alt=""
                             src="../frame33.svg"
                           />
                         </div>
-                        <div className="div724">
+                        <div className="div708">
                           <div className="we-price-match">Clean</div>
                         </div>
                       </div>
-                      <div className="span62">
-                        <div className="span24">
+                      <div className="span58">
+                        <div className="span20">
                           <img
                             className="frame-icon2"
                             alt=""
                             src="../frame34.svg"
                           />
                         </div>
-                        <div className="div725">
+                        <div className="div709">
                           <div className="we-price-match">Bathroom</div>
                         </div>
                       </div>
-                      <div className="span63">
-                        <div className="span24">
+                      <div className="span59">
+                        <div className="span20">
                           <img
                             className="frame-icon2"
                             alt=""
                             src="../frame35.svg"
                           />
                         </div>
-                        <div className="span24">
+                        <div className="span20">
                           <div className="we-price-match">Bed</div>
                         </div>
                       </div>
-                      <div className="span62">
-                        <div className="span24">
+                      <div className="span58">
+                        <div className="span20">
                           <img
                             className="frame-icon2"
                             alt=""
                             src="../frame36.svg"
                           />
                         </div>
-                        <div className="div727">
+                        <div className="div711">
                           <div className="we-price-match">Breakfast</div>
                         </div>
                       </div>
-                      <div className="span62">
-                        <div className="span24">
+                      <div className="span58">
+                        <div className="span20">
                           <img
                             className="frame-icon2"
                             alt=""
                             src="../frame37.svg"
                           />
                         </div>
-                        <div className="div728">
+                        <div className="div712">
                           <div className="we-price-match">Location</div>
                         </div>
                       </div>
                     </div>
                   </div>
-                  <div className="div729">
-                    <div className="div730">
+                  <div className="div713">
+                    <div className="div714">
                       <b className="see-what-guests">
                         See what guests loved the most:
                       </b>
-                      <div className="div731">
-                        <div className="ul4">
-                          <div className="div732">
-                            <div className="div733">
-                              <div className="div734">
-                                <div className="div735">
+                      <div className="div715">
+                        <div className="ul2">
+                          <div className="div716">
+                            <div className="div717">
+                              <div className="div718">
+                                <div className="div719">
                                   <b className="no-credit-card-container">
                                     Ajay
                                   </b>
-                                  <div className="div736">
+                                  <div className="div720">
                                     <img
                                       className="image-icon"
                                       alt=""
@@ -4391,7 +4391,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                                     <div className="india2">India</div>
                                   </div>
                                 </div>
-                                <div className="div737">
+                                <div className="div721">
                                   <img
                                     className="photojpg-icon"
                                     alt=""
@@ -4399,7 +4399,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                                   />
                                 </div>
                               </div>
-                              <div className="div738">
+                              <div className="div722">
                                 <div className="silence-and-good-container">
                                   <span className="metro-access-txt-container">
                                     <p className="staff-behaviour-and">{`“silence and good place to work. `}</p>
@@ -4413,14 +4413,14 @@ const WwwstanzalivingcomByHtmlt = () => {
                               <div className="read-more1">Read more</div>
                             </div>
                           </div>
-                          <div className="div739">
-                            <div className="div740">
-                              <div className="div734">
-                                <div className="div735">
+                          <div className="div723">
+                            <div className="div724">
+                              <div className="div718">
+                                <div className="div719">
                                   <b className="no-credit-card-container">
                                     Pathiraja
                                   </b>
-                                  <div className="div736">
+                                  <div className="div720">
                                     <img
                                       className="image-icon"
                                       alt=""
@@ -4429,7 +4429,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                                     <div className="sri-lanka">Sri Lanka</div>
                                   </div>
                                 </div>
-                                <div className="div737">
+                                <div className="div721">
                                   <img
                                     className="photojpg-icon"
                                     alt=""
@@ -4437,20 +4437,20 @@ const WwwstanzalivingcomByHtmlt = () => {
                                   />
                                 </div>
                               </div>
-                              <div className="div745">
+                              <div className="div729">
                                 <div className="it-was-not">{`“It was not such a big hotel as I expected,But they had managed the little space well.Staff is so friendly & supportive.They are very negotiable & can customize your stay.Security wise also good.They have enjoyable parties.it was a good stay.”`}</div>
                               </div>
                               <div className="read-more2">Read more</div>
                             </div>
                           </div>
-                          <div className="div746">
-                            <div className="div740">
-                              <div className="div734">
-                                <div className="div735">
+                          <div className="div730">
+                            <div className="div724">
+                              <div className="div718">
+                                <div className="div719">
                                   <b className="no-credit-card-container">
                                     Upender
                                   </b>
-                                  <div className="div736">
+                                  <div className="div720">
                                     <img
                                       className="image-icon"
                                       alt=""
@@ -4459,7 +4459,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                                     <div className="india2">India</div>
                                   </div>
                                 </div>
-                                <div className="div737">
+                                <div className="div721">
                                   <img
                                     className="photojpg-icon"
                                     alt=""
@@ -4467,7 +4467,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                                   />
                                 </div>
                               </div>
-                              <div className="div745">
+                              <div className="div729">
                                 <div className="they-were-extremely">
                                   “They were extremely accommodating and allowed
                                   us to check in early at like 10am. We got to
@@ -4482,8 +4482,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                           </div>
                         </div>
                         <div className="next">
-                          <div className="span24">
-                            <div className="span24">
+                          <div className="span20">
+                            <div className="span20">
                               <img
                                 className="frame-icon2"
                                 alt=""
@@ -4494,7 +4494,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="button57">
+                    <div className="button55">
                       <div className="pseudo10" />
                       <div className="show-on-map">Read all reviews</div>
                     </div>
@@ -4502,7 +4502,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                 </div>
               </div>
               <div className="section1">
-                <div className="div753">
+                <div className="div737">
                   <div className="svg39">
                     <img className="frame-icon39" alt="" src="../frame39.svg" />
                   </div>
@@ -4514,30 +4514,30 @@ const WwwstanzalivingcomByHtmlt = () => {
                       Send a question to the property to find out more.
                     </div>
                   </div>
-                  <div className="button58">
+                  <div className="button56">
                     <div className="pseudo11" />
                     <div className="show-on-map">Ask a question</div>
                   </div>
                 </div>
               </div>
-              <div className="div754">
-                <div className="div755">
+              <div className="div738">
+                <div className="div739">
                   <b className="property-surroundings">
                     Property surroundings *
                   </b>
-                  <div className="button59">
+                  <div className="button57">
                     <div className="pseudo9" />
                     <div className="show-on-map">See availability</div>
                   </div>
                 </div>
-                <div className="div756">
+                <div className="div740">
                   <div className="excellent-location-1">
                     Excellent location - show map
                   </div>
-                  <div className="div757">
-                    <div className="div758">
-                      <div className="div759">
-                        <div className="span24">
+                  <div className="div741">
+                    <div className="div742">
+                      <div className="div743">
+                        <div className="span20">
                           <img
                             className="frame-icon4"
                             alt=""
@@ -4546,62 +4546,62 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                         <b className="whats-nearby">What's nearby</b>
                       </div>
-                      <div className="ul5">
-                        <div className="div760">
+                      <div className="ul3">
+                        <div className="div744">
                           <div className="no-credit-card-container">
                             Kailash Colony Park
                           </div>
                           <div className="ft">550 ft</div>
                         </div>
-                        <div className="div761">
+                        <div className="div745">
                           <div className="no-credit-card-container">
                             E block Basket Ball park
                           </div>
                           <div className="ft">600 ft</div>
                         </div>
-                        <div className="div762">
+                        <div className="div746">
                           <div className="no-credit-card-container">
                             Children's Park
                           </div>
                           <div className="ft">1,100 ft</div>
                         </div>
-                        <div className="div763">
+                        <div className="div747">
                           <div className="no-credit-card-container">
                             R-block park
                           </div>
                           <div className="ft">1,750 ft</div>
                         </div>
-                        <div className="div764">
+                        <div className="div748">
                           <div className="no-credit-card-container">
                             d block park
                           </div>
                           <div className="ft4">2,450 ft</div>
                         </div>
-                        <div className="div765">
+                        <div className="div749">
                           <div className="no-credit-card-container">
                             Sant nagar park
                           </div>
                           <div className="ft">2,800 ft</div>
                         </div>
-                        <div className="div766">
+                        <div className="div750">
                           <div className="no-credit-card-container">
                             Kailash Colony Park
                           </div>
                           <div className="ft">2,900 ft</div>
                         </div>
-                        <div className="div767">
+                        <div className="div751">
                           <div className="no-credit-card-container">
                             Sapna Park
                           </div>
                           <div className="ft">2,950 ft</div>
                         </div>
-                        <div className="div768">
+                        <div className="div752">
                           <div className="no-credit-card-container">
                             N Block Park
                           </div>
                           <div className="ft">3,100 ft</div>
                         </div>
-                        <div className="div769">
+                        <div className="div753">
                           <div className="no-credit-card-container">
                             Family Park
                           </div>
@@ -4609,9 +4609,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div770">
-                      <div className="div771">
-                        <div className="span24">
+                    <div className="div754">
+                      <div className="div755">
+                        <div className="span20">
                           <img
                             className="frame-icon4"
                             alt=""
@@ -4620,10 +4620,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                         <b className="whats-nearby">{`Restaurants & cafes`}</b>
                       </div>
-                      <div className="ul6">
-                        <div className="div772">
-                          <div className="div773">
-                            <div className="span67">
+                      <div className="ul4">
+                        <div className="div756">
+                          <div className="div757">
+                            <div className="span63">
                               <div className="cafebar">Cafe/bar</div>
                               <div className="pseudo13" />
                             </div>
@@ -4633,9 +4633,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                           </div>
                           <div className="no-credit-card-container">250 ft</div>
                         </div>
-                        <div className="div774">
-                          <div className="div775">
-                            <div className="span68">
+                        <div className="div758">
+                          <div className="div759">
+                            <div className="span64">
                               <div className="cafebar">Restaurant</div>
                               <div className="pseudo14" />
                             </div>
@@ -4645,9 +4645,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                           </div>
                           <div className="ft10">300 ft</div>
                         </div>
-                        <div className="div774">
-                          <div className="div777">
-                            <div className="span68">
+                        <div className="div758">
+                          <div className="div761">
+                            <div className="span64">
                               <div className="cafebar">Restaurant</div>
                               <div className="pseudo14" />
                             </div>
@@ -4657,9 +4657,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div778">
-                      <div className="div779">
-                        <div className="span24">
+                    <div className="div762">
+                      <div className="div763">
+                        <div className="span20">
                           <img
                             className="frame-icon4"
                             alt=""
@@ -4668,62 +4668,62 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                         <b className="whats-nearby">Top attractions</b>
                       </div>
-                      <div className="ul5">
-                        <div className="div780">
+                      <div className="ul3">
+                        <div className="div764">
                           <div className="no-credit-card-container">
                             Tughlaqabad Fort
                           </div>
                           <div className="ft">2.9 mi</div>
                         </div>
-                        <div className="div781">
+                        <div className="div765">
                           <div className="no-credit-card-container">
                             Humayun's Tomb
                           </div>
                           <div className="ft">3 mi</div>
                         </div>
-                        <div className="div782">
+                        <div className="div766">
                           <div className="no-credit-card-container">
                             Lodhi Gardens
                           </div>
                           <div className="ft">3.2 mi</div>
                         </div>
-                        <div className="div783">
+                        <div className="div767">
                           <div className="no-credit-card-container">
                             Gandhi Smriti
                           </div>
                           <div className="ft">3.9 mi</div>
                         </div>
-                        <div className="div784">
+                        <div className="div768">
                           <div className="no-credit-card-container">
                             Qutub Minar
                           </div>
                           <div className="ft">3.9 mi</div>
                         </div>
-                        <div className="div785">
+                        <div className="div769">
                           <div className="no-credit-card-container">
                             Purana Qila (old fort)
                           </div>
                           <div className="ft">4 mi</div>
                         </div>
-                        <div className="div786">
+                        <div className="div770">
                           <div className="no-credit-card-container">
                             India Gate
                           </div>
                           <div className="ft">4.3 mi</div>
                         </div>
-                        <div className="div787">
+                        <div className="div771">
                           <div className="no-credit-card-container">
                             National Gandhi Museum
                           </div>
                           <div className="ft">6 mi</div>
                         </div>
-                        <div className="div788">
+                        <div className="div772">
                           <div className="no-credit-card-container">
                             Rāj Ghāt
                           </div>
                           <div className="ft">7 mi</div>
                         </div>
-                        <div className="div788">
+                        <div className="div772">
                           <div className="no-credit-card-container">
                             Red Fort
                           </div>
@@ -4731,9 +4731,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div790">
-                      <div className="div791">
-                        <div className="span24">
+                    <div className="div774">
+                      <div className="div775">
+                        <div className="span20">
                           <img
                             className="frame-icon4"
                             alt=""
@@ -4742,10 +4742,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                         <b className="whats-nearby">Public transport</b>
                       </div>
-                      <div className="ul6">
-                        <div className="div792">
-                          <div className="div793">
-                            <div className="span70">
+                      <div className="ul4">
+                        <div className="div776">
+                          <div className="div777">
+                            <div className="span66">
                               <div className="cafebar">Metro</div>
                               <div className="pseudo16" />
                             </div>
@@ -4757,9 +4757,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                             1,250 ft
                           </div>
                         </div>
-                        <div className="div792">
-                          <div className="div795">
-                            <div className="span70">
+                        <div className="div776">
+                          <div className="div779">
+                            <div className="span66">
                               <div className="cafebar">Metro</div>
                               <div className="pseudo16" />
                             </div>
@@ -4769,9 +4769,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                             3,050 ft
                           </div>
                         </div>
-                        <div className="div796">
-                          <div className="div797">
-                            <div className="span72">
+                        <div className="div780">
+                          <div className="div781">
+                            <div className="span68">
                               <div className="cafebar">Train</div>
                               <div className="pseudo18" />
                             </div>
@@ -4781,9 +4781,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                           </div>
                           <div className="ft10">1 mi</div>
                         </div>
-                        <div className="div798">
-                          <div className="div799">
-                            <div className="span72">
+                        <div className="div782">
+                          <div className="div783">
+                            <div className="span68">
                               <div className="cafebar">Train</div>
                               <div className="pseudo18" />
                             </div>
@@ -4791,9 +4791,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                           </div>
                           <div className="ft10">1.6 mi</div>
                         </div>
-                        <div className="div800">
-                          <div className="div801">
-                            <div className="span74">
+                        <div className="div784">
+                          <div className="div785">
+                            <div className="span70">
                               <div className="cafebar">Bus</div>
                               <div className="pseudo20" />
                             </div>
@@ -4805,9 +4805,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="div802">
-                      <div className="div803">
-                        <div className="span24">
+                    <div className="div786">
+                      <div className="div787">
+                        <div className="span20">
                           <img
                             className="frame-icon4"
                             alt=""
@@ -4816,7 +4816,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                         <b className="whats-nearby">Closest airports</b>
                       </div>
-                      <div className="div804">
+                      <div className="div788">
                         <div className="no-credit-card-container">
                           Delhi International Airport
                         </div>
@@ -4828,13 +4828,13 @@ const WwwstanzalivingcomByHtmlt = () => {
                     * All distances are measured in straight lines. Actual
                     travel distances may vary.
                   </div>
-                  <div className="div805">
+                  <div className="div789">
                     <div className="no-credit-card-container">
                       Missing some information?
                     </div>
-                    <div className="div806">
+                    <div className="div790">
                       <b className="no-credit-card-container">Yes</b>
-                      <div className="div807">
+                      <div className="div791">
                         <b className="no-credit-card-container">/</b>
                         <b className="no">No</b>
                       </div>
@@ -4850,12 +4850,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                     <div className="show-on-map">See availability</div>
                   </div>
                 </div>
-                <div className="div808">
+                <div className="div792">
                   <b className="most-popular-facilities">
                     Most popular facilities
                   </b>
-                  <div className="div809">
-                    <div className="div632">
+                  <div className="div793">
+                    <div className="div616">
                       <div className="svg11">
                         <img
                           className="frame-icon4"
@@ -4865,7 +4865,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                       </div>
                       <div className="free-parking">Free WiFi</div>
                     </div>
-                    <div className="div633">
+                    <div className="div617">
                       <div className="svg11">
                         <img
                           className="frame-icon4"
@@ -4875,7 +4875,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                       </div>
                       <div className="free-parking">Free parking</div>
                     </div>
-                    <div className="div634">
+                    <div className="div618">
                       <div className="svg11">
                         <img
                           className="frame-icon4"
@@ -4887,10 +4887,10 @@ const WwwstanzalivingcomByHtmlt = () => {
                     </div>
                   </div>
                 </div>
-                <div className="div813">
-                  <div className="div814">
-                    <div className="div815">
-                      <div className="span24">
+                <div className="div797">
+                  <div className="div798">
+                    <div className="div799">
+                      <div className="span20">
                         <img
                           className="frame-icon4"
                           alt=""
@@ -4899,7 +4899,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                       </div>
                       <b className="whats-nearby">Bathroom</b>
                     </div>
-                    <div className="div816">
+                    <div className="div800">
                       <div className="svg49">
                         <img
                           className="frame-icon2"
@@ -4910,9 +4910,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="free-parking">Private bathroom</div>
                     </div>
                   </div>
-                  <div className="div817">
-                    <div className="div818">
-                      <div className="span24">
+                  <div className="div801">
+                    <div className="div802">
+                      <div className="span20">
                         <img
                           className="frame-icon4"
                           alt=""
@@ -4921,7 +4921,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                       </div>
                       <b className="whats-nearby">Bedroom</b>
                     </div>
-                    <div className="div819">
+                    <div className="div803">
                       <div className="svg49">
                         <img
                           className="frame-icon2"
@@ -4932,9 +4932,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="free-parking">Linen</div>
                     </div>
                   </div>
-                  <div className="div820">
-                    <div className="div821">
-                      <div className="span24">
+                  <div className="div804">
+                    <div className="div805">
+                      <div className="span20">
                         <img
                           className="frame-icon4"
                           alt=""
@@ -4943,25 +4943,25 @@ const WwwstanzalivingcomByHtmlt = () => {
                       </div>
                       <b className="whats-nearby">Activities</b>
                     </div>
-                    <div className="ul9">
-                      <div className="div822">
-                        <div className="span24">
+                    <div className="ul7">
+                      <div className="div806">
+                        <div className="span20">
                           <img
                             className="frame-icon2"
                             alt=""
                             src="../frame53.svg"
                           />
                         </div>
-                        <div className="div823">
+                        <div className="div807">
                           <div className="no-credit-card-container">
                             Walking tours
                           </div>
-                          <div className="span75">
+                          <div className="span71">
                             <div className="all-hostels">Additional charge</div>
                           </div>
                         </div>
                       </div>
-                      <div className="div824">
+                      <div className="div808">
                         <div className="svg49">
                           <img
                             className="frame-icon2"
@@ -4971,7 +4971,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                         <div className="free-parking">Movie nights</div>
                       </div>
-                      <div className="div825">
+                      <div className="div809">
                         <div className="svg49">
                           <img
                             className="frame-icon2"
@@ -4983,7 +4983,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                           Evening entertainment
                         </div>
                       </div>
-                      <div className="div825">
+                      <div className="div809">
                         <div className="svg49">
                           <img
                             className="frame-icon2"
@@ -4995,9 +4995,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="div827">
-                    <div className="div828">
-                      <div className="span24">
+                  <div className="div811">
+                    <div className="div812">
+                      <div className="span20">
                         <img
                           className="frame-icon4"
                           alt=""
@@ -5010,9 +5010,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                       WiFi is available in all areas and is free of charge.
                     </div>
                   </div>
-                  <div className="div829">
-                    <div className="div830">
-                      <div className="span24">
+                  <div className="div813">
+                    <div className="div814">
+                      <div className="span20">
                         <img
                           className="frame-icon4"
                           alt=""
@@ -5026,9 +5026,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                       needed).
                     </div>
                   </div>
-                  <div className="div831">
-                    <div className="div832">
-                      <div className="span24">
+                  <div className="div815">
+                    <div className="div816">
+                      <div className="span20">
                         <img
                           className="frame-icon4"
                           alt=""
@@ -5037,7 +5037,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                       </div>
                       <b className="whats-nearby">Services</b>
                     </div>
-                    <div className="div833">
+                    <div className="div817">
                       <div className="svg49">
                         <img
                           className="frame-icon2"
@@ -5048,9 +5048,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="free-parking">Shared lounge/TV area</div>
                     </div>
                   </div>
-                  <div className="div834">
-                    <div className="div835">
-                      <div className="span24">
+                  <div className="div818">
+                    <div className="div819">
+                      <div className="span20">
                         <img
                           className="frame-icon4"
                           alt=""
@@ -5061,7 +5061,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         Entertainment and family services
                       </b>
                     </div>
-                    <div className="div836">
+                    <div className="div820">
                       <div className="svg49">
                         <img
                           className="frame-icon2"
@@ -5072,9 +5072,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <div className="free-parking">Board games/puzzles</div>
                     </div>
                   </div>
-                  <div className="div837">
-                    <div className="div838">
-                      <div className="span24">
+                  <div className="div821">
+                    <div className="div822">
+                      <div className="span20">
                         <img
                           className="frame-icon4"
                           alt=""
@@ -5083,8 +5083,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                       </div>
                       <b className="whats-nearby">General</b>
                     </div>
-                    <div className="ul10">
-                      <div className="div839">
+                    <div className="ul8">
+                      <div className="div823">
                         <div className="svg49">
                           <img
                             className="frame-icon2"
@@ -5094,7 +5094,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                         <div className="free-parking">Fan</div>
                       </div>
-                      <div className="div839">
+                      <div className="div823">
                         <div className="svg49">
                           <img
                             className="frame-icon2"
@@ -5104,7 +5104,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                         </div>
                         <div className="free-parking">Iron</div>
                       </div>
-                      <div className="div841">
+                      <div className="div825">
                         <div className="svg49">
                           <img
                             className="frame-icon2"
@@ -5116,9 +5116,9 @@ const WwwstanzalivingcomByHtmlt = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="div842">
-                    <div className="div843">
-                      <div className="span24">
+                  <div className="div826">
+                    <div className="div827">
+                      <div className="span20">
                         <img
                           className="frame-icon4"
                           alt=""
@@ -5127,7 +5127,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                       </div>
                       <b className="whats-nearby">Languages spoken</b>
                     </div>
-                    <div className="div844">
+                    <div className="div828">
                       <div className="svg49">
                         <img
                           className="frame-icon2"
@@ -5139,13 +5139,13 @@ const WwwstanzalivingcomByHtmlt = () => {
                     </div>
                   </div>
                 </div>
-                <div className="div845">
+                <div className="div829">
                   <div className="missing-some-information1">
                     Missing some information?
                   </div>
-                  <div className="div846">
+                  <div className="div830">
                     <b className="no-credit-card-container">Yes</b>
-                    <div className="div807">
+                    <div className="div791">
                       <b className="no-credit-card-container">/</b>
                       <b className="no">No</b>
                     </div>
@@ -5153,7 +5153,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                 </div>
               </div>
               <div className="divhp-policies-box">
-                <div className="div848">
+                <div className="div832">
                   <div className="h2">
                     <b className="house-rules2">House rules</b>
                     <div className="buttoncta-policies">
@@ -5171,13 +5171,13 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <img className="svg-icon22" alt="" src="../svg22.svg" />
                       <div className="check-in1">Check-in</div>
                     </div>
-                    <div className="span76">
-                      <div className="span77">
-                        <div className="span78" />
+                    <div className="span72">
+                      <div className="span73">
+                        <div className="span74" />
                       </div>
-                      <div className="div849">00:00</div>
-                      <div className="div850">00:00</div>
-                      <div className="span79">
+                      <div className="div833">00:00</div>
+                      <div className="div834">00:00</div>
+                      <div className="span75">
                         <div className="no-credit-card-container">
                           00:00 - 00:00
                         </div>
@@ -5189,12 +5189,12 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <img className="svg-icon22" alt="" src="../svg23.svg" />
                       <div className="check-out1">Check-out</div>
                     </div>
-                    <div className="span76">
-                      <div className="span77">
-                        <div className="span82" />
+                    <div className="span72">
+                      <div className="span73">
+                        <div className="span78" />
                       </div>
-                      <div className="div852">11:00</div>
-                      <div className="span83">
+                      <div className="div836">11:00</div>
+                      <div className="span79">
                         <div className="no-credit-card-container">
                           Until 11:00 hours
                         </div>
@@ -5204,7 +5204,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                   <div className="divcancellation-policy">
                     <div className="p8">
                       <img className="svg-icon24" alt="" src="../svg24.svg" />
-                      <div className="span84">
+                      <div className="span80">
                         <div className="cancellation-prepayment">
                           <p className="staff-behaviour-and">Cancellation/</p>
                           <p className="good-food">prepayment</p>
@@ -5231,8 +5231,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <img className="svg-icon25" alt="" src="../svg25.svg" />
                       <div className="children-and-beds">Children and beds</div>
                     </div>
-                    <div className="div853">
-                      <div className="div854">
+                    <div className="div837">
+                      <div className="div838">
                         <b className="child-policies">Child policies</b>
                         <div className="children-of-any">
                           Children of any age are welcome.
@@ -5246,16 +5246,16 @@ const WwwstanzalivingcomByHtmlt = () => {
                       <b className="cot-and-extra">
                         Cot and extra bed policies
                       </b>
-                      <div className="div855">
-                        <div className="div856">
+                      <div className="div839">
+                        <div className="div840">
                           <div className="adult">Adult</div>
-                          <div className="span85">
+                          <div className="span81">
                             <div className="we-price-match">(18+ years)</div>
                           </div>
                         </div>
-                        <div className="div857">
-                          <div className="span86">
-                            <div className="span24">
+                        <div className="div841">
+                          <div className="span82">
+                            <div className="span20">
                               <img
                                 className="frame-icon4"
                                 alt=""
@@ -5271,7 +5271,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                           </div>
                         </div>
                       </div>
-                      <div className="div858">
+                      <div className="div842">
                         <div className="prices-for-extra">
                           Prices for extra beds are not included in the total
                           price, and will have to be paid for separately during
@@ -5302,14 +5302,14 @@ const WwwstanzalivingcomByHtmlt = () => {
                       There is no age requirement for check-in
                     </div>
                   </div>
-                  <div className="div859">
+                  <div className="div843">
                     <div className="p10">
                       <img className="svg-icon25" alt="" src="../svg27.svg" />
                       <div className="pets">Pets</div>
                     </div>
                     <div className="pets-are-not">Pets are not allowed.</div>
                   </div>
-                  <div className="div860">
+                  <div className="div844">
                     <div className="p10">
                       <img className="svg-icon25" alt="" src="../svg28.svg" />
                       <div className="cash-only">Cash only</div>
@@ -5328,21 +5328,21 @@ const WwwstanzalivingcomByHtmlt = () => {
                   </div>
                   <b className="the-fine-print">The fine print</b>
                 </div>
-                <div className="div861">
+                <div className="div845">
                   <div className="license-number">License number:</div>
                 </div>
               </div>
-              <div className="div862">
+              <div className="div846">
                 <b className="faqs-about-a">FAQs about A Sleepy fox</b>
                 <div className="accordion-control">
-                  <div className="button60">
+                  <div className="button58">
                     <b className="what-are-the">
                       What are the check-in and check-out times at A Sleepy fox?
                     </b>
                     <img className="svg-icon29" alt="" src="../svg29.svg" />
                   </div>
                   <div className="li3">
-                    <div className="button61">
+                    <div className="button59">
                       <b className="what-is-there">
                         What is there to do at A Sleepy fox?
                       </b>
@@ -5350,7 +5350,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                     </div>
                   </div>
                   <div className="li4">
-                    <div className="button61">
+                    <div className="button59">
                       <b className="how-far-is">
                         How far is A Sleepy fox from the centre of New Delhi?
                       </b>
@@ -5358,7 +5358,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                     </div>
                   </div>
                   <div className="li5">
-                    <div className="button61">
+                    <div className="button59">
                       <b className="how-much-does">
                         How much does it cost to stay at A Sleepy fox?
                       </b>
@@ -5366,7 +5366,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                     </div>
                   </div>
                   <div className="li6">
-                    <div className="button61">
+                    <div className="button59">
                       <b className="what-kind-of">
                         What kind of breakfast is served at A Sleepy fox?
                       </b>
@@ -5376,8 +5376,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                 </div>
               </div>
             </div>
-            <div className="div863">
-              <div className="div864">
+            <div className="div847">
+              <div className="div848">
                 <div className="h1">
                   <b className="travellers-who-looked">
                     Travellers who looked at A Sleepy fox ended up booking these
@@ -5385,17 +5385,17 @@ const WwwstanzalivingcomByHtmlt = () => {
                   </b>
                   <div className="show-more">Show more</div>
                 </div>
-                <div className="div865">
-                  <div className="ul11">
-                    <div className="a34">
-                      <div className="div866">
+                <div className="div849">
+                  <div className="ul9">
+                    <div className="a26">
+                      <div className="div850">
                         <div className="header1">
                           <div className="h3">
                             <b className="whats-nearby">{`Tom & Jerry - Jangpura`}</b>
                           </div>
                           <div className="wifi-is-available">8.2 Very good</div>
                         </div>
-                        <div className="div867">
+                        <div className="div851">
                           <img
                             className="svg-icon34"
                             alt=""
@@ -5406,7 +5406,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                           </div>
                         </div>
                       </div>
-                      <div className="div868">
+                      <div className="div852">
                         <img
                           className="jpg-icon2"
                           alt=""
@@ -5414,8 +5414,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                       </div>
                     </div>
-                    <div className="a35">
-                      <div className="div866">
+                    <div className="a27">
+                      <div className="div850">
                         <div className="header1">
                           <div className="h31">
                             <b className="whats-nearby">Hotel Way Point</b>
@@ -5424,7 +5424,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                             10 Exceptional
                           </div>
                         </div>
-                        <div className="div867">
+                        <div className="div851">
                           <img
                             className="svg-icon34"
                             alt=""
@@ -5435,7 +5435,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                           </div>
                         </div>
                       </div>
-                      <div className="div868">
+                      <div className="div852">
                         <img
                           className="jpg-icon2"
                           alt=""
@@ -5443,8 +5443,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                       </div>
                     </div>
-                    <div className="a36">
-                      <div className="div872">
+                    <div className="a28">
+                      <div className="div856">
                         <div className="header1">
                           <div className="h32">
                             <b className="hotel-rosewood-near">
@@ -5453,8 +5453,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                           </div>
                           <div className="wifi-is-available">8 Very good</div>
                         </div>
-                        <div className="div873">
-                          <div className="div874">
+                        <div className="div857">
+                          <div className="div858">
                             <img
                               className="svg-icon34"
                               alt=""
@@ -5464,7 +5464,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                               9.2 miles from centre
                             </div>
                           </div>
-                          <div className="div874">
+                          <div className="div858">
                             <img
                               className="svg-icon34"
                               alt=""
@@ -5476,7 +5476,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                           </div>
                         </div>
                       </div>
-                      <div className="div868">
+                      <div className="div852">
                         <img
                           className="jpg-icon2"
                           alt=""
@@ -5484,8 +5484,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                         />
                       </div>
                     </div>
-                    <div className="a37">
-                      <div className="div872">
+                    <div className="a29">
+                      <div className="div856">
                         <div className="header1">
                           <div className="h32">
                             <b className="hotel-qotel-chattarpur">
@@ -5496,8 +5496,8 @@ const WwwstanzalivingcomByHtmlt = () => {
                             5.7 Review score
                           </div>
                         </div>
-                        <div className="div873">
-                          <div className="div874">
+                        <div className="div857">
+                          <div className="div858">
                             <img
                               className="svg-icon34"
                               alt=""
@@ -5507,7 +5507,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                               9.8 miles from centre
                             </div>
                           </div>
-                          <div className="div874">
+                          <div className="div858">
                             <img
                               className="svg-icon34"
                               alt=""
@@ -5519,7 +5519,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                           </div>
                         </div>
                       </div>
-                      <div className="div868">
+                      <div className="div852">
                         <img
                           className="jpg-icon2"
                           alt=""
@@ -5528,13 +5528,13 @@ const WwwstanzalivingcomByHtmlt = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="button65">
+                  <div className="button63">
                     <img className="svg-icon40" alt="" src="../svg40.svg" />
                   </div>
                 </div>
               </div>
             </div>
-            <div className="div882">
+            <div className="div866">
               <div className="the-best-of">The best of New Delhi</div>
               <div className="click-here-to">
                 Click here to see more properties near popular landmarks in New
@@ -5545,15 +5545,15 @@ const WwwstanzalivingcomByHtmlt = () => {
         </div>
         <div className="exclude">
           <div className="divfooter-menu-track">
-            <div className="div883">
-              <div className="div884">
+            <div className="div867">
+              <div className="div868">
                 <div className="save-time-save">Save time, save money!</div>
                 <div className="sign-up-and">
                   Sign up and we'll send the best deals to you
                 </div>
-                <div className="div885">
+                <div className="div869">
                   <div className="inputnewsletter-to">
-                    <div className="divplaceholder5">
+                    <div className="divplaceholder">
                       <div className="your-email-address">
                         Your email address
                       </div>
@@ -5567,12 +5567,12 @@ const WwwstanzalivingcomByHtmlt = () => {
             </div>
             <div className="divbooking-footer">
               <div className="divfooter-top-menu">
-                <div className="div886">
-                  <div className="a38">
+                <div className="div870">
+                  <div className="a30">
                     <div className="list-your-property">List your property</div>
                   </div>
                 </div>
-                <div className="ul12">
+                <div className="ul10">
                   <div className="li7">
                     <b className="mobile-version">Mobile version</b>
                   </div>
@@ -5600,7 +5600,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                 </div>
               </div>
               <div className="divfooter-links">
-                <div className="ul13">
+                <div className="ul11">
                   <div className="countries">Countries</div>
                   <div className="regions">Regions</div>
                   <div className="cities">Cities</div>
@@ -5609,7 +5609,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                   <div className="hotels">Hotels</div>
                   <div className="places-of-interest">Places of interest</div>
                 </div>
-                <div className="ul14">
+                <div className="ul12">
                   <div className="homes">Homes</div>
                   <div className="apartments">Apartments</div>
                   <div className="resorts">Resorts</div>
@@ -5618,7 +5618,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                   <div className="bbs">{`B&Bs`}</div>
                   <div className="guest-houses">Guest houses</div>
                 </div>
-                <div className="ul15">
+                <div className="ul13">
                   <div className="unique-places-to">Unique places to stay</div>
                   <div className="reviews2">Reviews</div>
                   <div className="discover-monthly-stays">
@@ -5635,7 +5635,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                     Traveller Review Awards
                   </div>
                 </div>
-                <div className="ul16">
+                <div className="ul14">
                   <div className="car-hire">Car hire</div>
                   <div className="flight-finder">Flight finder</div>
                   <div className="restaurant-reservations">
@@ -5645,7 +5645,7 @@ const WwwstanzalivingcomByHtmlt = () => {
                     Booking.com for Travel Agents
                   </div>
                 </div>
-                <div className="ul17">
+                <div className="ul15">
                   <div className="coronavirus-covid-19-faqs">
                     Coronavirus (COVID-19) FAQs
                   </div>
@@ -5672,20 +5672,20 @@ const WwwstanzalivingcomByHtmlt = () => {
                   <div className="corporate-contact">Corporate contact</div>
                 </div>
               </div>
-              <div className="div887">
-                <div className="div888">
+              <div className="div871">
+                <div className="div872">
                   <div className="extranet-login">Extranet login</div>
                 </div>
                 <div className="copyright-19962023">
                   Copyright © 1996–2023 Booking.com™. All rights reserved.
                 </div>
               </div>
-              <div className="div889">
+              <div className="div873">
                 <div className="bookingcom-is-part">
                   Booking.com is part of Booking Holdings Inc., the world leader
                   in online travel and related services.
                 </div>
-                <div className="ul18">
+                <div className="ul16">
                   <img
                     className="c8d1832de6a3123b6ee45b59ae2f81-icon"
                     alt=""
@@ -5731,106 +5731,106 @@ const WwwstanzalivingcomByHtmlt = () => {
         <div className="about3">About</div>
         <div className="contact-us4">Contact us</div>
         <div className="wwwbookingcom-by-htmltodes-inner">
-          <div className="group-wrapper417">
-            <div className="group-wrapper417">
-              <div className="group-wrapper417">
-                <div className="group-wrapper417">
-                  <div className="group-wrapper417">
-                    <div className="group-wrapper417">
-                      <div className="group-wrapper417">
-                        <div className="group-wrapper417">
-                          <div className="group-wrapper417">
-                            <div className="group-wrapper417">
-                              <div className="group-wrapper417">
-                                <div className="group-wrapper417">
-                                  <div className="group-wrapper417">
-                                    <div className="group-wrapper417">
-                                      <div className="group-wrapper417">
-                                        <div className="group-wrapper417">
-                                          <div className="group-wrapper417">
-                                            <div className="group-wrapper417">
-                                              <div className="group-wrapper417">
-                                                <div className="group-wrapper417">
-                                                  <div className="group-wrapper417">
-                                                    <div className="group-wrapper417">
-                                                      <div className="group-wrapper417">
-                                                        <div className="group-wrapper417">
-                                                          <div className="group-wrapper417">
-                                                            <div className="group-wrapper417">
-                                                              <div className="group-wrapper417">
-                                                                <div className="group-wrapper417">
-                                                                  <div className="group-wrapper417">
-                                                                    <div className="group-wrapper417">
-                                                                      <div className="group-wrapper417">
-                                                                        <div className="group-wrapper417">
-                                                                          <div className="group-wrapper417">
-                                                                            <div className="group-wrapper417">
-                                                                              <div className="group-wrapper417">
-                                                                                <div className="group-wrapper417">
-                                                                                  <div className="group-wrapper417">
-                                                                                    <div className="group-wrapper417">
-                                                                                      <div className="group-wrapper417">
-                                                                                        <div className="group-wrapper417">
-                                                                                          <div className="group-wrapper459">
-                                                                                            <div className="group-wrapper460">
-                                                                                              <div className="group-wrapper460">
-                                                                                                <div className="group-wrapper460">
-                                                                                                  <div className="group-wrapper460">
-                                                                                                    <div className="group-wrapper460">
-                                                                                                      <div className="group-wrapper460">
-                                                                                                        <div className="group-wrapper460">
-                                                                                                          <div className="group-wrapper460">
-                                                                                                            <div className="group-wrapper460">
-                                                                                                              <div className="group-wrapper460">
-                                                                                                                <div className="group-wrapper460">
-                                                                                                                  <div className="group-wrapper460">
-                                                                                                                    <div className="group-wrapper460">
-                                                                                                                      <div className="group-wrapper460">
-                                                                                                                        <div className="group-wrapper460">
-                                                                                                                          <div className="group-wrapper460">
-                                                                                                                            <div className="group-wrapper460">
-                                                                                                                              <div className="group-wrapper460">
-                                                                                                                                <div className="group-wrapper460">
-                                                                                                                                  <div className="group-wrapper460">
-                                                                                                                                    <div className="group-wrapper460">
-                                                                                                                                      <div className="group-wrapper460">
-                                                                                                                                        <div className="group-wrapper460">
-                                                                                                                                          <div className="group-wrapper460">
-                                                                                                                                            <div className="group-wrapper460">
-                                                                                                                                              <div className="group-wrapper460">
-                                                                                                                                                <div className="group-wrapper460">
-                                                                                                                                                  <div className="group-wrapper460">
-                                                                                                                                                    <div className="group-wrapper460">
-                                                                                                                                                      <div className="group-wrapper460">
-                                                                                                                                                        <div className="group-wrapper460">
-                                                                                                                                                          <div className="group-wrapper460">
-                                                                                                                                                            <div className="group-wrapper460">
-                                                                                                                                                              <div className="group-wrapper460">
-                                                                                                                                                                <div className="group-wrapper460">
-                                                                                                                                                                  <div className="group-wrapper460">
-                                                                                                                                                                    <div className="group-wrapper460">
-                                                                                                                                                                      <div className="group-wrapper460">
-                                                                                                                                                                        <div className="group-wrapper460">
-                                                                                                                                                                          <div className="group-wrapper460">
-                                                                                                                                                                            <div className="group-wrapper460">
-                                                                                                                                                                              <div className="group-wrapper460">
-                                                                                                                                                                                <div className="group-wrapper460">
-                                                                                                                                                                                  <div className="group-wrapper460">
-                                                                                                                                                                                    <div className="group-wrapper460">
-                                                                                                                                                                                      <div className="group-wrapper460">
-                                                                                                                                                                                        <div className="group-wrapper460">
-                                                                                                                                                                                          <div className="group-wrapper460">
-                                                                                                                                                                                            <div className="group-wrapper460">
-                                                                                                                                                                                              <div className="group-wrapper460">
-                                                                                                                                                                                                <div className="group-wrapper460">
-                                                                                                                                                                                                  <div className="group-wrapper460">
-                                                                                                                                                                                                    <div className="group-wrapper460">
-                                                                                                                                                                                                      <div className="group-wrapper460">
-                                                                                                                                                                                                        <div className="group-wrapper460">
-                                                                                                                                                                                                          <div className="group-wrapper460">
-                                                                                                                                                                                                            <div className="group-wrapper460">
-                                                                                                                                                                                                              <div className="group-wrapper460">
-                                                                                                                                                                                                                <div className="group-wrapper460">
+          <div className="group-wrapper418">
+            <div className="group-wrapper418">
+              <div className="group-wrapper418">
+                <div className="group-wrapper418">
+                  <div className="group-wrapper418">
+                    <div className="group-wrapper418">
+                      <div className="group-wrapper418">
+                        <div className="group-wrapper418">
+                          <div className="group-wrapper418">
+                            <div className="group-wrapper418">
+                              <div className="group-wrapper418">
+                                <div className="group-wrapper418">
+                                  <div className="group-wrapper418">
+                                    <div className="group-wrapper418">
+                                      <div className="group-wrapper418">
+                                        <div className="group-wrapper418">
+                                          <div className="group-wrapper418">
+                                            <div className="group-wrapper418">
+                                              <div className="group-wrapper418">
+                                                <div className="group-wrapper418">
+                                                  <div className="group-wrapper418">
+                                                    <div className="group-wrapper418">
+                                                      <div className="group-wrapper418">
+                                                        <div className="group-wrapper418">
+                                                          <div className="group-wrapper418">
+                                                            <div className="group-wrapper418">
+                                                              <div className="group-wrapper418">
+                                                                <div className="group-wrapper418">
+                                                                  <div className="group-wrapper418">
+                                                                    <div className="group-wrapper418">
+                                                                      <div className="group-wrapper418">
+                                                                        <div className="group-wrapper418">
+                                                                          <div className="group-wrapper418">
+                                                                            <div className="group-wrapper418">
+                                                                              <div className="group-wrapper418">
+                                                                                <div className="group-wrapper418">
+                                                                                  <div className="group-wrapper418">
+                                                                                    <div className="group-wrapper418">
+                                                                                      <div className="group-wrapper418">
+                                                                                        <div className="group-wrapper418">
+                                                                                          <div className="group-wrapper460">
+                                                                                            <div className="group-wrapper461">
+                                                                                              <div className="group-wrapper461">
+                                                                                                <div className="group-wrapper461">
+                                                                                                  <div className="group-wrapper461">
+                                                                                                    <div className="group-wrapper461">
+                                                                                                      <div className="group-wrapper461">
+                                                                                                        <div className="group-wrapper461">
+                                                                                                          <div className="group-wrapper461">
+                                                                                                            <div className="group-wrapper461">
+                                                                                                              <div className="group-wrapper461">
+                                                                                                                <div className="group-wrapper461">
+                                                                                                                  <div className="group-wrapper461">
+                                                                                                                    <div className="group-wrapper461">
+                                                                                                                      <div className="group-wrapper461">
+                                                                                                                        <div className="group-wrapper461">
+                                                                                                                          <div className="group-wrapper461">
+                                                                                                                            <div className="group-wrapper461">
+                                                                                                                              <div className="group-wrapper461">
+                                                                                                                                <div className="group-wrapper461">
+                                                                                                                                  <div className="group-wrapper461">
+                                                                                                                                    <div className="group-wrapper461">
+                                                                                                                                      <div className="group-wrapper461">
+                                                                                                                                        <div className="group-wrapper461">
+                                                                                                                                          <div className="group-wrapper461">
+                                                                                                                                            <div className="group-wrapper461">
+                                                                                                                                              <div className="group-wrapper461">
+                                                                                                                                                <div className="group-wrapper461">
+                                                                                                                                                  <div className="group-wrapper461">
+                                                                                                                                                    <div className="group-wrapper461">
+                                                                                                                                                      <div className="group-wrapper461">
+                                                                                                                                                        <div className="group-wrapper461">
+                                                                                                                                                          <div className="group-wrapper461">
+                                                                                                                                                            <div className="group-wrapper461">
+                                                                                                                                                              <div className="group-wrapper461">
+                                                                                                                                                                <div className="group-wrapper461">
+                                                                                                                                                                  <div className="group-wrapper461">
+                                                                                                                                                                    <div className="group-wrapper461">
+                                                                                                                                                                      <div className="group-wrapper461">
+                                                                                                                                                                        <div className="group-wrapper461">
+                                                                                                                                                                          <div className="group-wrapper461">
+                                                                                                                                                                            <div className="group-wrapper461">
+                                                                                                                                                                              <div className="group-wrapper461">
+                                                                                                                                                                                <div className="group-wrapper461">
+                                                                                                                                                                                  <div className="group-wrapper461">
+                                                                                                                                                                                    <div className="group-wrapper461">
+                                                                                                                                                                                      <div className="group-wrapper461">
+                                                                                                                                                                                        <div className="group-wrapper461">
+                                                                                                                                                                                          <div className="group-wrapper461">
+                                                                                                                                                                                            <div className="group-wrapper461">
+                                                                                                                                                                                              <div className="group-wrapper461">
+                                                                                                                                                                                                <div className="group-wrapper461">
+                                                                                                                                                                                                  <div className="group-wrapper461">
+                                                                                                                                                                                                    <div className="group-wrapper461">
+                                                                                                                                                                                                      <div className="group-wrapper461">
+                                                                                                                                                                                                        <div className="group-wrapper461">
+                                                                                                                                                                                                          <div className="group-wrapper461">
+                                                                                                                                                                                                            <div className="group-wrapper461">
+                                                                                                                                                                                                              <div className="group-wrapper461">
+                                                                                                                                                                                                                <div className="group-wrapper461">
                                                                                                                                                                                                                   <div className="hostel-hopper4">
                                                                                                                                                                                                                     Hostel
                                                                                                                                                                                                                     Hopper
@@ -5900,47 +5900,47 @@ const WwwstanzalivingcomByHtmlt = () => {
                                                                                             alt=""
                                                                                             src="../bunk-14@2x.png"
                                                                                           />
-                                                                                          <div className="group-wrapper518">
-                                                                                            <div className="group-wrapper518">
-                                                                                              <div className="group-wrapper518">
-                                                                                                <div className="group-wrapper518">
-                                                                                                  <div className="group-wrapper518">
-                                                                                                    <div className="group-wrapper518">
-                                                                                                      <div className="group-wrapper518">
-                                                                                                        <div className="group-wrapper518">
-                                                                                                          <div className="group-wrapper518">
-                                                                                                            <div className="group-wrapper518">
-                                                                                                              <div className="group-wrapper518">
-                                                                                                                <div className="group-wrapper518">
-                                                                                                                  <div className="group-wrapper518">
-                                                                                                                    <div className="group-wrapper518">
-                                                                                                                      <div className="group-wrapper518">
-                                                                                                                        <div className="group-wrapper518">
-                                                                                                                          <div className="group-wrapper518">
-                                                                                                                            <div className="group-wrapper518">
-                                                                                                                              <div className="group-wrapper518">
-                                                                                                                                <div className="group-wrapper518">
-                                                                                                                                  <div className="group-wrapper518">
-                                                                                                                                    <div className="group-wrapper518">
-                                                                                                                                      <div className="group-wrapper518">
-                                                                                                                                        <div className="group-wrapper518">
-                                                                                                                                          <div className="group-wrapper518">
-                                                                                                                                            <div className="group-wrapper518">
-                                                                                                                                              <div className="group-wrapper518">
-                                                                                                                                                <div className="group-wrapper518">
-                                                                                                                                                  <div className="group-wrapper518">
-                                                                                                                                                    <div className="group-wrapper518">
-                                                                                                                                                      <div className="group-wrapper518">
-                                                                                                                                                        <div className="group-wrapper518">
-                                                                                                                                                          <div className="group-wrapper518">
-                                                                                                                                                            <div className="group-wrapper518">
-                                                                                                                                                              <div className="group-wrapper518">
-                                                                                                                                                                <div className="group-wrapper518">
-                                                                                                                                                                  <div className="group-wrapper518">
-                                                                                                                                                                    <div className="group-wrapper518">
-                                                                                                                                                                      <div className="group-wrapper518">
-                                                                                                                                                                        <div className="group-wrapper518">
-                                                                                                                                                                          <div className="group-wrapper518">
+                                                                                          <div className="group-wrapper519">
+                                                                                            <div className="group-wrapper519">
+                                                                                              <div className="group-wrapper519">
+                                                                                                <div className="group-wrapper519">
+                                                                                                  <div className="group-wrapper519">
+                                                                                                    <div className="group-wrapper519">
+                                                                                                      <div className="group-wrapper519">
+                                                                                                        <div className="group-wrapper519">
+                                                                                                          <div className="group-wrapper519">
+                                                                                                            <div className="group-wrapper519">
+                                                                                                              <div className="group-wrapper519">
+                                                                                                                <div className="group-wrapper519">
+                                                                                                                  <div className="group-wrapper519">
+                                                                                                                    <div className="group-wrapper519">
+                                                                                                                      <div className="group-wrapper519">
+                                                                                                                        <div className="group-wrapper519">
+                                                                                                                          <div className="group-wrapper519">
+                                                                                                                            <div className="group-wrapper519">
+                                                                                                                              <div className="group-wrapper519">
+                                                                                                                                <div className="group-wrapper519">
+                                                                                                                                  <div className="group-wrapper519">
+                                                                                                                                    <div className="group-wrapper519">
+                                                                                                                                      <div className="group-wrapper519">
+                                                                                                                                        <div className="group-wrapper519">
+                                                                                                                                          <div className="group-wrapper519">
+                                                                                                                                            <div className="group-wrapper519">
+                                                                                                                                              <div className="group-wrapper519">
+                                                                                                                                                <div className="group-wrapper519">
+                                                                                                                                                  <div className="group-wrapper519">
+                                                                                                                                                    <div className="group-wrapper519">
+                                                                                                                                                      <div className="group-wrapper519">
+                                                                                                                                                        <div className="group-wrapper519">
+                                                                                                                                                          <div className="group-wrapper519">
+                                                                                                                                                            <div className="group-wrapper519">
+                                                                                                                                                              <div className="group-wrapper519">
+                                                                                                                                                                <div className="group-wrapper519">
+                                                                                                                                                                  <div className="group-wrapper519">
+                                                                                                                                                                    <div className="group-wrapper519">
+                                                                                                                                                                      <div className="group-wrapper519">
+                                                                                                                                                                        <div className="group-wrapper519">
+                                                                                                                                                                          <div className="group-wrapper519">
                                                                                                                                                                             <img
                                                                                                                                                                               className="pngwing-1-icon3"
                                                                                                                                                                               alt=""

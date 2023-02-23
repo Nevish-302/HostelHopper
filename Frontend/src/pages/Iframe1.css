@@ -41,7 +41,7 @@
   position: absolute;
   top: 3.75px;
   left: 0;
-  border-radius: var(--br-9xs);
+  border-radius: var(--br-8xs);
   background-color: var(--color-white);
   border: 1px solid var(--color-lightgray-200);
   box-sizing: border-box;
@@ -58,7 +58,7 @@
   width: 123.31px;
   height: 18px;
 }
-.div903 {
+.div901 {
   position: absolute;
   top: 0;
   left: 0;
@@ -77,7 +77,7 @@
   width: 120.36px;
   height: 18px;
 }
-.div902 {
+.div900 {
   position: absolute;
   top: 166px;
   left: 0;
@@ -100,7 +100,7 @@
   overflow: hidden;
   display: flex;
   flex-direction: row;
-  padding: var(--padding-lg) var(--padding-18xl) var(--padding-lg)
+  padding: var(--padding-xl) var(--padding-18xl) var(--padding-xl)
     var(--padding-17xl);
   align-items: flex-start;
   justify-content: flex-start;
@@ -108,7 +108,7 @@
   font-size: var(--font-size-4xl);
   color: var(--color-white);
 }
-.sign-up5 {
+.sign-up4 {
   font-weight: 500;
   color: var(--color-blueviolet);
 }
@@ -128,7 +128,6 @@
   line-height: 22.5px;
   width: 208.09px;
   height: 18px;
-  cursor: pointer;
 }
 .infoexamplecom3 {
   top: 0;
@@ -166,7 +165,7 @@
   display: flex;
   align-items: center;
 }
-.div904 {
+.div902 {
   position: absolute;
   top: 16px;
   left: 0;
@@ -194,15 +193,15 @@
   font-size: var(--font-size-lg);
   line-height: 22.5px;
 }
-.div906 {
+.div904 {
   position: relative;
   line-height: 30px;
 }
-.div905,
-.span92 {
+.div903,
+.span89 {
   position: absolute;
 }
-.span92 {
+.span89 {
   top: 18px;
   left: 413.61px;
   display: flex;
@@ -213,7 +212,7 @@
   font-size: var(--font-size-5xl);
   font-family: var(--font-inter);
 }
-.div905 {
+.div903 {
   top: 91px;
   left: 0;
   width: 453.61px;
@@ -244,7 +243,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: var(--br-3xs);
+  border-radius: var(--br-2xs);
   border: 1px solid var(--color-lightgray-200);
   padding: var(--padding-4xs);
 }
@@ -287,11 +286,11 @@
   height: 16px;
 }
 .h43,
-.span93 {
+.span90 {
   position: absolute;
   height: 16.8px;
 }
-.span93 {
+.span90 {
   top: 0;
   left: calc(50% - 69.87px);
   background-color: var(--color-white);
@@ -300,13 +299,13 @@
 .h43 {
   top: 30px;
 }
-.div907,
+.div905,
 .form3,
 .h43 {
   left: 0;
   width: 453.61px;
 }
-.div907 {
+.div905 {
   position: absolute;
   top: 334.5px;
   height: 220.8px;
@@ -317,18 +316,18 @@
   top: 114.5px;
   height: 555.3px;
 }
-.div900,
-.div901,
+.div898,
+.div899,
 .form3 {
   position: absolute;
 }
-.div901 {
+.div899 {
   top: 75.59px;
   left: 75.59px;
   width: 453.61px;
   height: 669.8px;
 }
-.div900 {
+.div898 {
   height: 100%;
   width: calc(100% - 909px);
   top: 0;
@@ -343,6 +342,6 @@
   height: 892px;
   text-align: left;
   font-size: var(--font-size-lg);
-  color: var(--color-gray-400);
+  color: var(--color-gray-500);
   font-family: var(--font-roboto);
 }

@@ -41,7 +41,7 @@
   position: absolute;
   top: 3.75px;
   left: 0;
-  border-radius: var(--br-9xs);
+  border-radius: var(--br-8xs);
   background-color: var(--color-white);
   border: 1px solid var(--color-lightgray-200);
   box-sizing: border-box;
@@ -58,7 +58,7 @@
   width: 123.31px;
   height: 18px;
 }
-.div11,
+.div885,
 .forgot-password {
   position: absolute;
   top: 0;
@@ -77,7 +77,7 @@
   width: 120.36px;
   height: 18px;
 }
-.div10 {
+.div884 {
   position: absolute;
   top: 166px;
   left: 0;
@@ -89,7 +89,7 @@
   line-height: 27px;
   font-weight: 500;
 }
-.button1 {
+.button65 {
   position: absolute;
   top: 220px;
   left: 0;
@@ -100,7 +100,7 @@
   overflow: hidden;
   display: flex;
   flex-direction: row;
-  padding: var(--padding-lg) var(--padding-18xl) var(--padding-lg)
+  padding: var(--padding-xl) var(--padding-18xl) var(--padding-xl)
     var(--padding-17xl);
   align-items: flex-start;
   justify-content: flex-start;
@@ -108,7 +108,7 @@
   font-size: var(--font-size-4xl);
   color: var(--color-white);
 }
-.sign-up1 {
+.sign-up2 {
   font-weight: 500;
   color: var(--color-blueviolet);
 }
@@ -134,7 +134,7 @@
   width: 138.17px;
   height: 19px;
 }
-.divplaceholder3 {
+.divplaceholder4 {
   position: absolute;
   top: 19.5px;
   left: 12px;
@@ -165,7 +165,7 @@
   display: flex;
   align-items: center;
 }
-.div12 {
+.div886 {
   position: absolute;
   top: 16px;
   left: 0;
@@ -193,15 +193,15 @@
   font-size: var(--font-size-lg);
   line-height: 22.5px;
 }
-.div14 {
+.div888 {
   position: relative;
   line-height: 30px;
 }
-.div13,
-.span2 {
+.div887,
+.span85 {
   position: absolute;
 }
-.span2 {
+.span85 {
   top: 18px;
   left: 413.61px;
   display: flex;
@@ -212,7 +212,7 @@
   font-size: var(--font-size-5xl);
   font-family: var(--font-inter);
 }
-.div13 {
+.div887 {
   top: 91px;
   left: 0;
   width: 453.61px;
@@ -226,41 +226,41 @@
   flex-shrink: 0;
   overflow: hidden;
 }
-.a4,
-.a5,
-.a6,
-.a7,
+.a35,
+.a36,
+.a37,
+.a38,
 .icon-googlesvg2 {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.a4,
-.a5,
-.a6,
-.a7 {
+.a35,
+.a36,
+.a37,
+.a38 {
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: var(--br-3xs);
+  border-radius: var(--br-2xs);
   border: 1px solid var(--color-lightgray-200);
   padding: var(--padding-4xs);
 }
-.a5,
-.a6,
-.a7 {
+.a36,
+.a37,
+.a38 {
   left: 123.2px;
 }
-.a6,
-.a7 {
+.a37,
+.a38 {
   left: 246.41px;
 }
-.a7 {
+.a38 {
   left: 369.61px;
 }
 .h4before1,
-.ul1 {
+.ul18 {
   position: absolute;
   top: 70.8px;
   left: 0;
@@ -286,11 +286,11 @@
   height: 16px;
 }
 .h41,
-.span3 {
+.span86 {
   position: absolute;
   height: 16.8px;
 }
-.span3 {
+.span86 {
   top: 0;
   left: calc(50% - 69.87px);
   background-color: var(--color-white);
@@ -299,13 +299,13 @@
 .h41 {
   top: 30px;
 }
-.div15,
+.div889,
 .form1,
 .h41 {
   left: 0;
   width: 453.61px;
 }
-.div15 {
+.div889 {
   position: absolute;
   top: 334.5px;
   height: 220.8px;
@@ -316,18 +316,18 @@
   top: 114.5px;
   height: 555.3px;
 }
-.div8,
-.div9,
+.div882,
+.div883,
 .form1 {
   position: absolute;
 }
-.div9 {
+.div883 {
   top: 75.59px;
   left: 75.59px;
   width: 453.61px;
   height: 669.8px;
 }
-.div8 {
+.div882 {
   height: 100%;
   width: calc(100% - 909px);
   top: 0;
@@ -342,6 +342,6 @@
   height: 892px;
   text-align: left;
   font-size: var(--font-size-lg);
-  color: var(--color-gray-400);
+  color: var(--color-gray-500);
   font-family: var(--font-roboto);
 }

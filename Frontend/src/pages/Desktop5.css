@@ -5,9 +5,9 @@
   width: 1440px;
   height: 113px;
 }
-.about5,
-.contact-us6,
-.locate7 {
+.about9,
+.contact-us10,
+.locate11 {
   position: absolute;
   top: 29.5px;
   left: 419px;
@@ -15,50 +15,50 @@
   width: 123px;
   height: 53px;
 }
-.about5,
-.contact-us6 {
+.about9,
+.contact-us10 {
   left: 554px;
   width: 120px;
   height: 49px;
 }
-.contact-us6 {
+.contact-us10 {
   left: 682px;
   width: 207px;
   height: 45px;
 }
-.hostel-hopper9 {
+.hostel-hopper13 {
   display: inline-block;
   -webkit-text-stroke: 1px #4e5dc0;
 }
-.bunk-1-icon7,
-.group-wrapper1017,
-.group-wrapper1018,
-.hostel-hopper9 {
+.bunk-1-icon11,
+.group-wrapper1582,
+.group-wrapper1583,
+.hostel-hopper13 {
   position: absolute;
   top: 0;
   left: 0;
   width: 251px;
   height: 44px;
 }
-.bunk-1-icon7,
-.group-wrapper1017 {
+.bunk-1-icon11,
+.group-wrapper1582 {
   top: 17px;
   left: 88px;
 }
-.bunk-1-icon7 {
+.bunk-1-icon11 {
   top: 11px;
   left: 24px;
   width: 50px;
   height: 50px;
 }
-.bunk-1-icon7,
-.pngwing-1-icon7 {
+.bunk-1-icon11,
+.pngwing-1-icon11 {
   object-fit: cover;
 }
 .desktop-5-inner3,
-.group-wrapper1076,
-.group-wrapper975,
-.pngwing-1-icon7 {
+.group-wrapper1540,
+.group-wrapper1641,
+.pngwing-1-icon11 {
   position: absolute;
   top: 0;
   left: 0;
@@ -66,7 +66,7 @@
   height: 80px;
 }
 .desktop-5-inner3,
-.group-wrapper975 {
+.group-wrapper1540 {
   width: 339px;
 }
 .desktop-5-inner3 {
@@ -75,7 +75,7 @@
   font-size: var(--font-size-15xl);
   color: var(--color-slateblue);
 }
-.group-child7 {
+.group-child15 {
   position: absolute;
   top: 0;
   left: 0;
@@ -85,7 +85,7 @@
   width: 489px;
   height: 65px;
 }
-.search-for-files4 {
+.search-for-files6 {
   position: absolute;
   top: 20.55px;
   left: 32.94px;
@@ -94,21 +94,21 @@
   width: 364.58px;
   height: 23.9px;
 }
-.group-child8,
-.rectangle-parent3 {
+.group-child16,
+.rectangle-parent7 {
   position: absolute;
   top: 0;
   left: 0;
   width: 489px;
   height: 65px;
 }
-.group-child8 {
+.group-child16 {
   top: 10.04px;
   left: 418.03px;
   width: 47.01px;
   height: 44.93px;
 }
-.search9 {
+.search15 {
   position: absolute;
   top: 21px;
   left: 431px;
@@ -116,7 +116,7 @@
   font-family: var(--font-font-awesome-5-free);
   color: var(--color-white);
 }
-.group-parent13 {
+.group-parent21 {
   position: absolute;
   top: 11.5px;
   left: 903px;

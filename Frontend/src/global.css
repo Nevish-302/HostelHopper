@@ -1,12 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;600;700;800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Font+Awesome+5+Free:wght@400&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;600&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,700;1,400&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Flex:wght@400&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Sofia+Sans:wght@400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Font+Awesome+5+Free:wght@400&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Habibi:wght@400&display=swap");
 
 body {
@@ -15,9 +15,9 @@ body {
 }
 :root {
   /* fonts */
-  --font-roboto: Roboto;
   --font-inter: Inter;
   --font-font-awesome-5-free: "Font Awesome 5 Free";
+  --font-roboto: Roboto;
   --font-mulish: Mulish;
   --font-rubik: Rubik;
   --font-inherit: inherit;
@@ -57,30 +57,34 @@ body {
   --font-size-18xl: 50px;
   --font-size-19xl: 65px;
   --font-size-20xl: 72px;
+  --font-size-21xl: 92px;
 
   /* Colors */
   --color-white: #fff;
-  --color-gray-100: #fcfbfc;
-  --color-gray-200: #fbfcf8;
-  --color-gray-300: #949494;
-  --color-gray-400: #818181;
-  --color-gray-500: #7d7d7d;
-  --color-gray-600: #7e7474;
-  --color-gray-700: #262626;
-  --color-gray-800: #232728;
-  --color-gray-900: #0d0d0d;
-  --color-gray-1000: rgba(255, 255, 255, 0);
-  --color-lightgray-100: #ced4da;
-  --color-lightgray-200: #d1d1d1;
-  --color-blueviolet: #7754f6;
-  --color-black: #000;
-  --color-dimgray-100: #6f6f6f;
-  --color-dimgray-200: #6b6b6b;
+  --color-darkgray-100: #a5a9a9;
+  --color-darkgray-200: #9b9b9b;
+  --color-darkgray-300: #9b9595;
+  --color-snow-100: #fffcfc;
+  --color-snow-200: #fdfafa;
   --color-cornflowerblue-100: #a0adff;
   --color-cornflowerblue-200: #6674cc;
   --color-cornflowerblue-300: #0c8ce9;
   --color-cornflowerblue-400: #0071c2;
   --color-slateblue: #2a3cab;
+  --color-dimgray-100: #6f6f6f;
+  --color-dimgray-200: #6b6b6b;
+  --color-black: #000;
+  --color-gray-100: #fcfbfc;
+  --color-gray-200: #fbfcf8;
+  --color-gray-300: #949494;
+  --color-gray-400: #888585;
+  --color-gray-500: #818181;
+  --color-gray-600: #7d7d7d;
+  --color-gray-700: #7e7474;
+  --color-gray-800: #262626;
+  --color-gray-900: #232728;
+  --color-gray-1000: #0d0d0d;
+  --color-gray-1100: rgba(255, 255, 255, 0);
   --color-royalblue-100: #797ef6;
   --color-royalblue-200: #4e5dc0;
   --color-whitesmoke-100: #f2f3f4;
@@ -91,9 +95,6 @@ body {
   --color-gainsboro-100: #e8e8e8;
   --color-gainsboro-200: #e7e7e7;
   --color-gainsboro-300: #d9d9d9;
-  --color-darkgray-100: #a5a9a9;
-  --color-darkgray-200: #9b9595;
-  --color-snow-100: #fffcfc;
   --color-darkslateblue-100: #283264;
   --color-darkslateblue-200: #003580;
   --color-silver-100: #c2c2c2;
@@ -106,6 +107,9 @@ body {
   --color-orange: #febb02;
   --color-mediumaquamarine: #60c3ad;
   --color-goldenrod: #fab432;
+  --color-lightgray-100: #ced4da;
+  --color-lightgray-200: #d1d1d1;
+  --color-blueviolet: #7754f6;
   --color-dodgerblue: #0076d7;
 
   /* Gaps */
@@ -152,8 +156,8 @@ body {
   --padding-xs: 12px;
   --padding-sm: 14.5px;
   --padding-md: 15.390625px;
-  --padding-lg: 16.5px;
-  --padding-xl: 16px;
+  --padding-lg: 16px;
+  --padding-xl: 16.5px;
   --padding-2xl: 17.625px;
   --padding-3xl: 17.765625px;
   --padding-4xl: 18.21875px;
@@ -177,14 +181,14 @@ body {
   /* border radiuses */
   --br-11xs: 1.5px;
   --br-10xs: 2px;
-  --br-9xs: 3.75px;
-  --br-8xs: 3px;
+  --br-9xs: 3px;
+  --br-8xs: 3.75px;
   --br-7xs: 5.82px;
   --br-6xs: 5px;
   --br-5xs: 6.4px;
   --br-4xs: 7px;
-  --br-3xs: 8.4px;
-  --br-2xs: 8px;
+  --br-3xs: 8px;
+  --br-2xs: 8.4px;
   --br-xs: 10px;
   --br-sm: 12px;
   --br-md: 14px;
@@ -196,7 +200,8 @@ body {
   --br-5xl: 40px;
   --br-6xl: 72px;
   --br-7xl: 75px;
-  --br-8xl: 999px;
-  --br-9xl: 1512px;
-  --br-10xl: 9999px;
+  --br-8xl: 95px;
+  --br-9xl: 999px;
+  --br-10xl: 1512px;
+  --br-11xl: 9999px;
 }
